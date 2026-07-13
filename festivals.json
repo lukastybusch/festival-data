@@ -1,0 +1,106 @@
+{
+  "_comment": "Zentrale Datenquelle für alle Festivals. Datumsangaben (2026) vor Release bitte auf den offiziellen Seiten verifizieren. Format: startDate/endDate als ISO 8601 (YYYY-MM-DD).",
+  "version": 1,
+  "festivals": [
+    {
+      "id": "wacken-2026",
+      "name": "Wacken Open Air",
+      "location": "Wacken, DE",
+      "genre": "Metal",
+      "startDate": "2026-07-29",
+      "endDate": "2026-08-01",
+      "color": "#111827",
+      "accent": "#EF4444"
+    },
+    {
+      "id": "rock-am-ring-2026",
+      "name": "Rock am Ring",
+      "location": "Nürburgring, DE",
+      "genre": "Rock",
+      "startDate": "2026-06-05",
+      "endDate": "2026-06-07",
+      "color": "#1E1B4B",
+      "accent": "#F59E0B"
+    },
+    {
+      "id": "hurricane-2026",
+      "name": "Hurricane Festival",
+      "location": "Scheeßel, DE",
+      "genre": "Indie / Rock",
+      "startDate": "2026-06-19",
+      "endDate": "2026-06-21",
+      "color": "#0C4A6E",
+      "accent": "#38BDF8"
+    },
+    {
+      "id": "southside-2026",
+      "name": "Southside Festival",
+      "location": "Neuhausen ob Eck, DE",
+      "genre": "Indie / Rock",
+      "startDate": "2026-06-19",
+      "endDate": "2026-06-21",
+      "color": "#14532D",
+      "accent": "#4ADE80"
+    },
+    {
+      "id": "parookaville-2026",
+      "name": "Parookaville",
+      "location": "Weeze, DE",
+      "genre": "EDM",
+      "startDate": "2026-07-17",
+      "endDate": "2026-07-19",
+      "color": "#4A044E",
+      "accent": "#E879F9"
+    },
+    {
+      "id": "tomorrowland-2026",
+      "name": "Tomorrowland",
+      "location": "Boom, BE",
+      "genre": "EDM",
+      "startDate": "2026-07-17",
+      "endDate": "2026-07-26",
+      "color": "#3B0764",
+      "accent": "#C084FC"
+    },
+    {
+      "id": "sziget-2026",
+      "name": "Sziget Festival",
+      "location": "Budapest, HU",
+      "genre": "Pop / Mixed",
+      "startDate": "2026-08-05",
+      "endDate": "2026-08-10",
+      "color": "#7C2D12",
+      "accent": "#FB923C"
+    },
+    {
+      "id": "lollapalooza-berlin-2026",
+      "name": "Lollapalooza Berlin",
+      "location": "Berlin, DE",
+      "genre": "Pop / Rock",
+      "startDate": "2026-09-05",
+      "endDate": "2026-09-06",
+      "color": "#831843",
+      "accent": "#F472B6"
+    },
+    {
+      "id": "fusion-2026",
+      "name": "Fusion Festival",
+      "location": "Lärz, DE",
+      "genre": "Elektro / Kultur",
+      "startDate": "2026-06-24",
+      "endDate": "2026-06-28",
+      "color": "#052E16",
+      "accent": "#A3E635"
+    },
+    {
+      "id": "glastonbury-2026",
+      "name": "Glastonbury",
+      "location": "Pilton, UK",
+      "genre": "Mixed",
+      "startDate": "2026-06-24",
+      "endDate": "2026-06-28",
+      "color": "#164E63",
+      "accent": "#22D3EE"
+    }
+  ]
+}

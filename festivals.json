@@ -195,6 +195,37 @@
     { "title": "Fatboy Slim", "date": "2026-08-01T23:30:00" }
   ]
 },
+    {
+  "id": "boardmasters-2026",
+  "name": "Boardmasters",
+  "location": "Newquay, GB",
+  "genre": "Indie / Dance",
+  "startDate": "2026-08-05",
+  "endDate": "2026-08-09",
+  "color": "#0C2340",
+  "accent": "#FF6B35",
+  "schedule": [
+    { "title": "Take A Chance On Us", "date": "2026-08-07T13:00:00" },
+    { "title": "Rose Gray", "date": "2026-08-07T14:30:00" },
+    { "title": "Dizzee Rascal", "date": "2026-08-07T16:00:00" },
+    { "title": "James Arthur", "date": "2026-08-07T18:00:00" },
+    { "title": "The Kooks", "date": "2026-08-07T20:00:00" },
+    { "title": "Fatboy Slim", "date": "2026-08-07T22:00:00" },
+    { "title": "Cornwall Rock Choir", "date": "2026-08-08T12:30:00" },
+    { "title": "Kerr Mercer", "date": "2026-08-08T13:45:00" },
+    { "title": "Alessi Rose", "date": "2026-08-08T15:00:00" },
+    { "title": "Example", "date": "2026-08-08T16:30:00" },
+    { "title": "REN", "date": "2026-08-08T18:15:00" },
+    { "title": "Nia Archives", "date": "2026-08-08T20:00:00" },
+    { "title": "Lily Allen", "date": "2026-08-08T22:00:00" },
+    { "title": "Asha Banks", "date": "2026-08-09T13:00:00" },
+    { "title": "Brooke Combe", "date": "2026-08-09T14:30:00" },
+    { "title": "Tinie Tempah", "date": "2026-08-09T16:00:00" },
+    { "title": "Joy Crookes", "date": "2026-08-09T18:00:00" },
+    { "title": "Loyle Carner", "date": "2026-08-09T20:00:00" },
+    { "title": "Kasabian", "date": "2026-08-09T22:00:00" }
+  ]
+},
   
   ]
 }

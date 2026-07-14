@@ -281,6 +281,91 @@
     { "title": "The Martinez Brothers", "date": "2026-07-19T21:10:00" }
   ]
 },
+    {
+  "id": "sziget-festival-2026",
+  "name": "Sziget Festival",
+  "location": "Budapest, HU",
+  "genre": "Pop / Rock",
+  "startDate": "2026-08-11",
+  "endDate": "2026-08-15",
+  "color": "#1A1030",
+  "accent": "#FF3D9A",
+  "schedule": [
+    { "title": "Cassia", "date": "2026-08-11T18:00:00" },
+    { "title": "Giant Rooks", "date": "2026-08-11T20:00:00" },
+    { "title": "sombr", "date": "2026-08-11T22:00:00" },
+    { "title": "Brooke Combe", "date": "2026-08-12T18:00:00" },
+    { "title": "Charlotte Cardin", "date": "2026-08-12T20:00:00" },
+    { "title": "Lewis Capaldi", "date": "2026-08-12T22:00:00" },
+    { "title": "Paris Paloma", "date": "2026-08-13T18:00:00" },
+    { "title": "Ashnikko", "date": "2026-08-13T20:00:00" },
+    { "title": "Twenty One Pilots", "date": "2026-08-13T22:00:00" },
+    { "title": "Bad Nerves", "date": "2026-08-14T18:00:00" },
+    { "title": "Tash Sultana", "date": "2026-08-14T20:00:00" },
+    { "title": "Biffy Clyro", "date": "2026-08-14T22:00:00" },
+    { "title": "Kim Dracula", "date": "2026-08-15T18:00:00" },
+    { "title": "Wolf Alice", "date": "2026-08-15T20:00:00" },
+    { "title": "Florence + the Machine", "date": "2026-08-15T22:00:00" }
+  ]
+},
+    {
+  "id": "iceland-eclipse-2026",
+  "name": "Iceland Eclipse",
+  "location": "Hellissandur, IS",
+  "genre": "Electronic",
+  "startDate": "2026-08-11",
+  "endDate": "2026-08-15",
+  "color": "#0A0E1A",
+  "accent": "#F5C518",
+  "schedule": [
+    { "title": "Daði Freyr", "date": "2026-08-11T19:00:00" },
+    { "title": "GusGus", "date": "2026-08-11T21:00:00" },
+    { "title": "Nightmares on Wax", "date": "2026-08-11T23:00:00" },
+    { "title": "Emilíana Torrini", "date": "2026-08-12T19:00:00" },
+    { "title": "Maribou State (Live)", "date": "2026-08-12T21:00:00" },
+    { "title": "CloZee", "date": "2026-08-12T23:00:00" },
+    { "title": "Arc De Soleil", "date": "2026-08-13T19:00:00" },
+    { "title": "Booka Shade (Live)", "date": "2026-08-13T21:00:00" },
+    { "title": "Above & Beyond", "date": "2026-08-13T23:00:00" },
+    { "title": "berlioz", "date": "2026-08-14T19:00:00" },
+    { "title": "Nick Warren", "date": "2026-08-14T21:00:00" },
+    { "title": "Desert Hearts", "date": "2026-08-14T23:00:00" },
+    { "title": "Reggie Watts", "date": "2026-08-15T19:00:00" },
+    { "title": "Apashe & Brass Orchestra", "date": "2026-08-15T21:00:00" },
+    { "title": "Kenny Dope", "date": "2026-08-15T23:00:00" }
+  ]
+},
+    {
+  "id": "way-out-west-2026",
+  "name": "Way Out West",
+  "location": "Gothenburg, SE",
+  "genre": "Indie / Pop",
+  "startDate": "2026-08-13",
+  "endDate": "2026-08-15",
+  "color": "#141018",
+  "accent": "#FF4D8D",
+  "schedule": [
+    { "title": "Alessi Rose", "date": "2026-08-13T16:00:00" },
+    { "title": "Oklou", "date": "2026-08-13T17:30:00" },
+    { "title": "Clipse", "date": "2026-08-13T19:00:00" },
+    { "title": "Lily Allen", "date": "2026-08-13T20:30:00" },
+    { "title": "Zara Larsson", "date": "2026-08-13T22:00:00" },
+    { "title": "The xx", "date": "2026-08-13T23:30:00" },
+    { "title": "Ravyn Lenae", "date": "2026-08-14T16:00:00" },
+    { "title": "Blood Orange", "date": "2026-08-14T17:30:00" },
+    { "title": "Lykke Li", "date": "2026-08-14T19:00:00" },
+    { "title": "The Hives", "date": "2026-08-14T20:30:00" },
+    { "title": "Nick Cave & The Bad Seeds", "date": "2026-08-14T22:00:00" },
+    { "title": "The Cure", "date": "2026-08-14T23:30:00" },
+    { "title": "Celeste", "date": "2026-08-15T16:00:00" },
+    { "title": "Ezra Collective", "date": "2026-08-15T17:30:00" },
+    { "title": "Maribou State", "date": "2026-08-15T19:00:00" },
+    { "title": "Veronica Maggio", "date": "2026-08-15T20:30:00" },
+    { "title": "Lorde", "date": "2026-08-15T22:00:00" },
+    { "title": "Gorillaz", "date": "2026-08-15T23:30:00" }
+  ]
+}, 
+    
   
   ]
 }

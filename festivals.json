@@ -226,6 +226,38 @@
     { "title": "Kasabian", "date": "2026-08-09T22:00:00" }
   ]
 },
+    {
+  "id": "untold-2026",
+  "name": "Untold",
+  "location": "Cluj-Napoca, RO",
+  "genre": "EDM",
+  "startDate": "2026-08-06",
+  "endDate": "2026-08-09",
+  "color": "#1A0B2E",
+  "accent": "#F5B301",
+  "schedule": [
+    { "title": "Tash Sultana", "date": "2026-08-06T20:00:00" },
+    { "title": "Swae Lee", "date": "2026-08-06T21:30:00" },
+    { "title": "Flo Rida", "date": "2026-08-06T23:00:00" },
+    { "title": "The Chainsmokers", "date": "2026-08-07T00:30:00" },
+    { "title": "Steve Aoki", "date": "2026-08-07T02:30:00" },
+    { "title": "Zara Larsson", "date": "2026-08-07T20:30:00" },
+    { "title": "Lost Frequencies", "date": "2026-08-07T22:30:00" },
+    { "title": "Marshmello", "date": "2026-08-08T00:30:00" },
+    { "title": "Tchami", "date": "2026-08-08T02:30:00" },
+    { "title": "Maddix", "date": "2026-08-08T04:00:00" },
+    { "title": "Lewis Capaldi", "date": "2026-08-08T21:00:00" },
+    { "title": "Kygo", "date": "2026-08-08T23:00:00" },
+    { "title": "Martin Garrix", "date": "2026-08-09T01:00:00" },
+    { "title": "Sebastian Ingrosso", "date": "2026-08-09T03:00:00" },
+    { "title": "James Hype", "date": "2026-08-09T04:30:00" },
+    { "title": "Sting", "date": "2026-08-09T21:00:00" },
+    { "title": "Meduza Live", "date": "2026-08-09T23:00:00" },
+    { "title": "Alan Walker", "date": "2026-08-10T00:30:00" },
+    { "title": "Afrojack b2b R3HAB", "date": "2026-08-10T02:30:00" },
+    { "title": "Tujamo", "date": "2026-08-10T04:00:00" }
+  ]
+},
   
   ]
 }

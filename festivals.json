@@ -258,6 +258,29 @@
     { "title": "Tujamo", "date": "2026-08-10T04:00:00" }
   ]
 },
+    {
+  "id": "brunch-electronik-barcelona-2026",
+  "name": "Brunch Electronik Barcelona",
+  "location": "Barcelona, ES",
+  "genre": "House / Techno",
+  "startDate": "2026-07-19",
+  "endDate": "2026-09-05",
+  "color": "#1B1A2E",
+  "accent": "#FF6F91",
+  "schedule": [
+    { "title": "Indra Traferri", "date": "2026-07-19T13:00:00" },
+    { "title": "Hugo Martinez", "date": "2026-07-19T13:50:00" },
+    { "title": "Pisano", "date": "2026-07-19T14:40:00" },
+    { "title": "2001", "date": "2026-07-19T15:30:00" },
+    { "title": "Hugo Esmeraldo", "date": "2026-07-19T16:20:00" },
+    { "title": "Janeret", "date": "2026-07-19T17:10:00" },
+    { "title": "D' Julz", "date": "2026-07-19T18:00:00" },
+    { "title": "Tania Vulcano", "date": "2026-07-19T18:50:00" },
+    { "title": "Traumer", "date": "2026-07-19T19:40:00" },
+    { "title": "Carlita", "date": "2026-07-19T20:30:00" },
+    { "title": "The Martinez Brothers", "date": "2026-07-19T21:10:00" }
+  ]
+},
   
   ]
 }

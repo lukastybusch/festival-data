@@ -166,6 +166,35 @@
     { "title": "Alestorm", "date": "2026-08-02T03:00:00" }
   ]
 },
+    {
+  "id": "nature-one-2026",
+  "name": "Nature One",
+  "location": "Kastellaun, DE",
+  "genre": "Techno",
+  "startDate": "2026-07-30",
+  "endDate": "2026-08-02",
+  "color": "#0B0F2A",
+  "accent": "#22D3EE",
+  "schedule": [
+    { "title": "Jasmin Blust", "date": "2026-07-31T14:00:00" },
+    { "title": "Rewi", "date": "2026-07-31T15:30:00" },
+    { "title": "BENNETT", "date": "2026-07-31T17:00:00" },
+    { "title": "Dominik Eulberg", "date": "2026-07-31T18:30:00" },
+    { "title": "Neelix", "date": "2026-07-31T20:00:00" },
+    { "title": "Paul van Dyk", "date": "2026-07-31T21:30:00" },
+    { "title": "Paul Kalkbrenner", "date": "2026-07-31T23:00:00" },
+    { "title": "Nick Schwenderling", "date": "2026-08-01T13:00:00" },
+    { "title": "Nena Polap", "date": "2026-08-01T14:00:00" },
+    { "title": "Nature One Inc.", "date": "2026-08-01T15:00:00" },
+    { "title": "DJ Dag", "date": "2026-08-01T16:00:00" },
+    { "title": "Einmusik b2b Solee", "date": "2026-08-01T17:00:00" },
+    { "title": "Gestört aber Geil", "date": "2026-08-01T18:00:00" },
+    { "title": "Felix Jaehn", "date": "2026-08-01T19:15:00" },
+    { "title": "Holy Priest", "date": "2026-08-01T20:30:00" },
+    { "title": "Alle Farben", "date": "2026-08-01T22:00:00" },
+    { "title": "Fatboy Slim", "date": "2026-08-01T23:30:00" }
+  ]
+},
   
   ]
 }

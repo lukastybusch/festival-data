@@ -1,3 +1,6 @@
+---
+title: Datenschutz
+---
 # Datenschutzerklärung – Festival Countdown
 
 _Stand: 14.07.2026_

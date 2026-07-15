@@ -3,6 +3,266 @@
   "version": 1,
   "festivals": [
     {
+  "id": "brunch-electronik-festival-2026",
+  "name": "Brunch Electronik Festival",
+  "location": "Barcelona, ES",
+  "genre": "Electronic",
+  "startDate": "2026-08-07",
+  "endDate": "2026-08-09",
+  "color": "#1B1A2E",
+  "accent": "#FF6F91",
+  "schedule": [
+    {
+      "title": "BRIEELA",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "CASSIUS",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "DEER JADE",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "DJ SWEET6TEEN",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "DOUDOU MD",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "ENZO SIRAGUSA",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "GIGI ROS",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "GUSSET",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "IGNEZ",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "JAMIE JONES",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "JEFF MILLS",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "JOVEDRY",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "KAYTRANADA",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "KEVIN DE VRIES",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "LILDAMI",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "MARRØN",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "MASSANO",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "MAU P",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "MISS MONIQUE",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "NADI CABBAD",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "NHYMPH",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "PARAMIDA",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "PAUL KALKBRENNER",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "PAULA GM",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "RØDHÅD",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "SETH TROXLER",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "SHANTI CELESTE",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "999999999",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "ACID ARAB",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "ÂME DJ B2B TRIKK",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "AMÉMÉ B2B LP GIOBBI",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "B1N0",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "BASHKKA B2B SALLY C",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "BIIG PIIG",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "BIXBITA",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "CAMELPHAT",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "CHAOS IN THE CBD",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "DANI6IX & IZZKID",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "DEBORAH DE LUCA",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "ERIC PRYDZ",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "FLASHY ICE CREAM",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "FLOATING POINTS",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "I HATE MODELS",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "INEXXSTABLE",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "JAMIIE",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "JEN CARDINI",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "JULIAN ANTHONY",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "JULIET FOX",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "KLARA MISSYLE",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "LUCIANO",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "MAX DEAN",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "MERCÈ",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "NUUP",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "SNTS",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "SYREETA",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "WADE",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "YU SU",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "THE BLAZE",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "MARIAN ARISS",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "MIND AGAINST",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "PARRA FOR CUVA",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "RY X",
+      "date": "2026-08-09"
+    }
+  ]
+},
+    {
   "id": "boardmasters-2026",
   "name": "Boardmasters",
   "location": "Newquay, GB",

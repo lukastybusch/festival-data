@@ -1,0 +1,340 @@
+{
+  "id": "fm4-frequency-festival-2026",
+  "name": "FM4 Frequency Festival",
+  "location": "St. Pölten, AT",
+  "genre": "Rock / Pop",
+  "startDate": "2026-08-20",
+  "endDate": "2026-08-22",
+  "color": "#0E1230",
+  "accent": "#22D3EE",
+  "schedule": [
+    {
+      "title": "A Little Sound",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Camo & Krooked",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Cascada",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "DJ Antoine",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Delta Heavy + Daxta MC",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Disorder",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Drum Dad & Bass Boy",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Evening Elephants",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Fontaines D.C.",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Fox Stevenson DJ Set",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "HBz",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Hedex b2b Bou",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "James Hype",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "James Marriott",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Koven",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Kraftklub",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Lorde",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Og Lu",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "PA69",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Pola & Bryson",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Ravyn Lenae",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Red Leather",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "SDP",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Symba",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Zara Larsson",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "lovehead",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Abor & Tynna",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Audrey Nuna",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "ClockClock",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Cyber Gunz",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "EsDeeKid",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Esther Graf",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Filow",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "GANS",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Glueboys",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "JOKESONYOU",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Jovynn",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "LEAP",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Makko",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Miss Bashful",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Missio",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Natasha Bedingfield",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Noga Erez",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "OG Keemo",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Overpass",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Paul Kalkbrenner",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Radio Free Alice",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Ronis Goliath",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "SSIO",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Sido",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Sub Focus",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "The Saints",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Tom Odell",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "sarah4k",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Alt Blk Era",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Ashnikko",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "BBNO$",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Baran Kok",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Culcha Candela",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Delilah Bon",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Denzel Curry",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Don Diablo pres. Control Alt Delete",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Fourtex",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Frytz",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Ikkimel",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Issey Cross",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Kanine",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Ken Carson",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "KiLLOWEN",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Levex",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Mandidextrous",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Mehnersmoos",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "NESS",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Rich Amiri",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Ritter Lean",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Ski Aggu",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Souly",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Summer Cem & KC Rebell",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Tom Hengst",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Twenty One Pilots",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Two Feet",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "YT",
+      "date": "2026-08-22"
+    }
+  ]
+}

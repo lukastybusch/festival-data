@@ -1,0 +1,732 @@
+{
+  "id": "pukkelpop-2026",
+  "name": "Pukkelpop",
+  "location": "Hasselt, BE",
+  "genre": "Alternative",
+  "startDate": "2026-08-20",
+  "endDate": "2026-08-23",
+  "color": "#14140F",
+  "accent": "#E5C100",
+  "schedule": [
+    {
+      "title": "Alice Mae",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Andromedik pres. Ascension",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Antoon",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Arter",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "BOY&GIRL",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "BRUX",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Bloody Bloody Kempen",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "CRACKUPS",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Discohans",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Flavour Drop",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Flo Windey & Laurens Luyten",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Gull House",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Hakimm",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Hindu Radio DJ's",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Hoge Druk",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Isaac Roux",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "JEKKAMAÏ",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "KABOUTERTJE PUTLUCHT",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Lenny Lenny",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "MEAU",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Maraschino",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Mula",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Nona Van Braeckel",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "ROW1",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Susobrino",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Unregular",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Waltur",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "dEUS",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Adriatique",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Alessi Rose",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Aroh DJ b2b Otis",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Audrey Hobert",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "BLOND:ISH",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Basement",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Becky Hill",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Betical",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Camille Yembe",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Charlotte Adigéry & Bolis Pupul",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Chloe Qisha",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "DIKKE",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "DJ St. Paul",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Djo",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Earl Sweatshirt & Mike",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Feverchild",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Fiddlehead",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Geese",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Hudson Freeman",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "IJSLAND",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Jalen Ngonda",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Jane Remover",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Jazzy",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Jeroen Delodder",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "John Summit",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Joy Orbison",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "KI/KI",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Kelis",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Kevin Kofii",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "KŌMA b2b shoplifter",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Lambrini Girls",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Major Lazer",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Mala",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Maria Iskariot",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Maribou State",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Merol",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Ninajirachi",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Nxdia",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Osayuki",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Re-Type",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Roxy Dekker",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Sef",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Soulwax",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Stick To Your Guns",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Supermodel*",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Surusinghe",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "The Hives",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Turnstile",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Uwase",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Wednesday",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Wild Classical Music Ensemble",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "YUNGBLUD",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "juwlz",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Aili & Orson",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Amyl and The Sniffers",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Apparat",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Bibi Seck",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Bullet Tooth",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Deafheaven",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Dean Turnley",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Deftones",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Dijon",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Dom Dolla",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Dove Ellis",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Elmer",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Eppo Janssen & Friends",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Florence + The Machine",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Funk Tribu",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Greg Freeman",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Gurriers",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "JPEGMAFIA",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Josh Baker",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "KETTAMA",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Kids With Buns",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Kölsch live",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "LAURAVIOLI",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Leisure",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Lous and the Yakuza",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Love Spells",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Maan",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Maruja",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Mirage",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "NU GENEA Live Band",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Natasha Bedingfield",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Niels Orens",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Notion",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Novah",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Oliver Symons",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "PARTYOF2",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Pegassi",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Selah Sue & The Gallands",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Show Me The Body",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Skye Newman",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Teen Mortgage",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "The Atomic Orchestra",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "The Subs",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Tori Ann",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Underworld",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "WORKSTATION presented by Amber Broos",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Wet Leg",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Witch Fever",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Wunderhorse",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "new wave",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "séa",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Adéla",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Audrey Nuna",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "BLUAI",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Baxter Dury",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Bazart",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Bella Claxton",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Blood Orange",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "CHAT PILE",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Casper Cox",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Chris Stussy Linger A/V show",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "DIW-VOORMIDDAGSOIRÉE DEEL 2",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Denzel Curry",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Dimension",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Eefje de Visser",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "FAISAL",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Fenrick",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Getdown Services",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "ILA",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Iskander Moon",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Kurt Vile & The Violators",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Miamor",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Milolaathetlukken",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "NC",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Oppidan",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "PLOEGENDIENST",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Pale Jay",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Parcels",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Pendulum dj set",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Prinsezy",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Purple Disco Machine",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "RONKER",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Ravyn Lenae",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Rose Gray",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "S10",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "SOMBR",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "SPRINTS",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Shaking Hand",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Speed",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Stijn Van De Voorde & Thibault Christiaensen",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "TJE",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "TRASH TALK",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "The Whatevers",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Tyler Ballgame",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Tyler, The Creator",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Violet Grohl",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Wilkinson",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "X CLUB.",
+      "date": "2026-08-23"
+    },
+    {
+      "title": "Zara Larsson",
+      "date": "2026-08-23"
+    }
+  ]
+}

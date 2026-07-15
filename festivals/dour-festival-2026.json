@@ -1,0 +1,864 @@
+{
+  "id": "dour-festival-2026",
+  "name": "Dour Festival",
+  "location": "Dour, BE",
+  "genre": "Electronic",
+  "startDate": "2026-07-15",
+  "endDate": "2026-07-19",
+  "color": "#1A1423",
+  "accent": "#F72585",
+  "schedule": [
+    {
+      "title": "Boys Noize F2F SPFDJ",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "DJ Gigola F2F PETERBLUE",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Durdenhauer F2F Mika Heggemann",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Fenrick F2F Emilija",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "ISHA & Limsa d'Aulnay",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Yvnnis",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Agobun Soundsystem",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Barako Bahamas B2B DJ Cagna",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Earl Sixteen",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "GIGI",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Grünt",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "JauneOrange",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "JEUNESAMBITIEUX",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Jideh High Elements Feat Ras Ladji",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "La Roue",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "La Scarpetta",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Laure Croft F2F fumi",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "MALOKKIO",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "MAMBA",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "MARASCHINO",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Nathachelet",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Niko Hoke F2F John Gilliot",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Reemshot",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Relajadita F2F GIØ",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Sherifflazone",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Thomaslovefashionverviers",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Zinée",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Alonzo",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Amelie Lens",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Caribou",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "HOLY PRIEST",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Vald x Vladimir Cauchemar x Todiefor",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Zwangere Guy",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Charlie Sparks",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Hamdi",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Ino Casablanca",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "KUKO",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Myd",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Onlynumbers",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Roland Cristal",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Rudim3ntal",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Scylla & Furax",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "10G X.I.T",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Alpha Steppa Feat. Nai-Jah",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "alster",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "AXEL BALDI B2B CELLAR",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Bclip",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Béesau",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "BEN LOU",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Blu Samu",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Boko Yout",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "BYORN",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "CARAVEL",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "CLAFER",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Coki Feat SGT Pokes",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "DEEP IN THE LOVE B2B DANA",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Djaydub Feat. Dhazed & Daddy Cookiz",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "ENZO POSTIGA",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "GEA",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "INYZIA B2B TILAA",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Kaba & Hyas",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "King Alpha feat. Fikir Amlak",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "LESSSS",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "LinLin",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "LOTU MEETS SINAI",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "LVDV",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Maissouille B2B Radium",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Marie-Julie",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "NUPS3E",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Sinai",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Sköne",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "STILNOXXX",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "VICIOSA Presents : NMSS, Vera Moro, Ricky Corazón",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Yin Yin",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Apashe & Brass Orchestra",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Biga*Ranx",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Chris Stussy",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Guy2Bezbar",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Oklou",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Orelsan",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Sammy Virji",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Bambounou",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Buraka Som Sistema",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Danyl",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Favé",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "HAAi",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Mechatok",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Miss Bashful",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Peaches",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Sama’ Abdulhadi",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Smerz",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Swimming Paul",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Yoa",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Ão",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "AMRK b2b KUKI",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Camille Yembe",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Clara D",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "DJ Schnake",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "FENNX",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Frost Children",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "GHOSTY",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Godson",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Hanamercy",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "JAEL. & Telly",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Jeune Morty",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "keiyaA",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Khadija Al Hanafi",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Kingstep Feat. Ramon Judah",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Laura De Greef",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "LEFTO EARLY BIRD",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "LEPLOMB b2b LM/RA",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Lewis Bennett",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "LOW E",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "MADDAM",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Magi Merlin",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Mathilde Fernandez",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "MEDUSA",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Pili Pili Girls",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "RETARD MENTAL",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Sinai",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Skarra Mucci & Manudigital",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Tatyana Jane",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Urumi",
+      "date": "2026-07-17"
+    },
+    {
+      "title": "Boys Noize",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Brutalismus 3000",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Damso",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "disiz",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Funk Tribu",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Meryl",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Original Koffee",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "TOMORA",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Ultra Vomit",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "2HOT2PLAY",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Benwal",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Blawan",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Bob Vylan",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Cobrah",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Fat Dog",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Goldie Feat Medic Mc",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "horsegiirL",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "PERCEVAL",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "R2",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "RnBoi",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Adult DVD",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "AINEX",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "AUNTY RAYZOR",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "AYMYA",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "BIANKA",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "ELLiS·D",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Emilija",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "FLKN",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Huntrill",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Jahtari meets Speng Bond",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "KIRARA",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Le Motel",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Lézard",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "LORA",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "LOTTIE",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "MAELIE",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Marhu",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Marina P & Eeyun Purkins",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "NATT",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Pretty Much Average",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Rrita Jashari",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Scat Cat",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Sinai & Abzu Feat. Aziza Jaye",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "SYNOXIS",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "THÉA",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "TVOD",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "Unicorn on K",
+      "date": "2026-07-18"
+    },
+    {
+      "title": "CLOUDY",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Honey Dijon",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Interpol",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "L2B",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Mau P",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Pendulum",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Quavo",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Sean Paul",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "TRYM",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Alignment",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Amenra",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Ghinzu",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "High Vis",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Hybrid Minds",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Odezenne",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Sleaford Mods",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Teki Latex b2b Neffa-T",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Young Miko",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "a6el",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Aba Shanti-I",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "AMALYSSA",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "ARTEM",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Azzi On The Beat",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Betical",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "CUUURTIS",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Elea",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Elisethere & Maliman",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Eosine",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "GEO",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "GOLDEN ZEBORA B2B ASLAY",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Himra",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Kaat Van Stralen",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "La Sécurité",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "LAURAVIOLI",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "mad miran",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Maïcee",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Mek'Dr'Dr",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Militarie Gun",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Roll & Record meets Alpha Pup",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "sòn du maquís",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "The Experimental Tropic Blues Band",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Violent Magic Orchestra",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Weeding Dub",
+      "date": "2026-07-19"
+    }
+  ]
+}

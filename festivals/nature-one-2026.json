@@ -1,0 +1,397 @@
+{
+  "id": "nature-one-2026",
+  "name": "Nature One",
+  "location": "Kastellaun, DE",
+  "genre": "Techno",
+  "startDate": "2026-07-30",
+  "endDate": "2026-08-02",
+  "color": "#0B0F2A",
+  "accent": "#22D3EE",
+  "schedule": [
+    {
+      "title": "Pappenheimer",
+      "date": "2026-07-31",
+      "stage": "Acid Wars"
+    },
+    {
+      "title": "A.N.I.",
+      "date": "2026-07-31",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "Fantasm",
+      "date": "2026-07-31",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "Felix Kröcher",
+      "date": "2026-07-31",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "Klaudia Gawlas",
+      "date": "2026-07-31",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "Schrotthagen",
+      "date": "2026-07-31",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "Sven Väth",
+      "date": "2026-07-31",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "Ties van Dun",
+      "date": "2026-07-31",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "DJ Quicksilver",
+      "date": "2026-07-31",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "Judge Jules",
+      "date": "2026-07-31",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "Mijk van Dijk",
+      "date": "2026-07-31",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "Schiller",
+      "date": "2026-07-31",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "sunshine live DJ Team",
+      "date": "2026-07-31",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "Talla 2XLC",
+      "date": "2026-07-31",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "Westbam",
+      "date": "2026-07-31",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "DA HOOL",
+      "date": "2026-07-31",
+      "stage": "HEAVEN & HILL Festival meets HEXENHOUSE"
+    },
+    {
+      "title": "BENNETT",
+      "date": "2026-07-31",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Dominik Eulberg",
+      "date": "2026-07-31",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Jasmin Blust",
+      "date": "2026-07-31",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Neelix",
+      "date": "2026-07-31",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Paul Kalkbrenner",
+      "date": "2026-07-31",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Paul van Dyk",
+      "date": "2026-07-31",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Rewi",
+      "date": "2026-07-31",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Felix Kröcher",
+      "date": "2026-07-31",
+      "stage": "SUNSHINE LIVE meets FAZEmag"
+    },
+    {
+      "title": "Klaudia Gawlas",
+      "date": "2026-07-31",
+      "stage": "SUNSHINE LIVE meets FAZEmag"
+    },
+    {
+      "title": "99PRBLMZ",
+      "date": "2026-07-31",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "Act of Rage",
+      "date": "2026-07-31",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "Angerfist",
+      "date": "2026-07-31",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "D-Fence vs. Karun",
+      "date": "2026-07-31",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "Distress",
+      "date": "2026-07-31",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "DRS",
+      "date": "2026-07-31",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "Hysta",
+      "date": "2026-07-31",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "N-Vitral",
+      "date": "2026-07-31",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "Nolz",
+      "date": "2026-07-31",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "Predator vs. Vince",
+      "date": "2026-07-31",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "Rebelion",
+      "date": "2026-07-31",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "ALIGNMENT",
+      "date": "2026-08-01",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "Cristobal Pesce",
+      "date": "2026-08-01",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "Gregor Tresher",
+      "date": "2026-08-01",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "I Hate Models",
+      "date": "2026-08-01",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "Lilly Palmer",
+      "date": "2026-08-01",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "Pappenheimer",
+      "date": "2026-08-01",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "Peter Pahn",
+      "date": "2026-08-01",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "Ueberrest",
+      "date": "2026-08-01",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "Yanamaste",
+      "date": "2026-08-01",
+      "stage": "Century Circus"
+    },
+    {
+      "title": "Charly Lownoise",
+      "date": "2026-08-01",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "DA HOOL",
+      "date": "2026-08-01",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "Dj Raw fka Dune",
+      "date": "2026-08-01",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "Fräggel b2b Raoul",
+      "date": "2026-08-01",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "Jam El Mar",
+      "date": "2026-08-01",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "Kyau & Albert",
+      "date": "2026-08-01",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "Mental Theo",
+      "date": "2026-08-01",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "Oliver Lieb",
+      "date": "2026-08-01",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "Woody van Eyden",
+      "date": "2026-08-01",
+      "stage": "Classic Terminal"
+    },
+    {
+      "title": "Woody van Eyden",
+      "date": "2026-08-01",
+      "stage": "HeavensGate & TechnoClub"
+    },
+    {
+      "title": "Alle Farben",
+      "date": "2026-08-01",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "DJ Dag",
+      "date": "2026-08-01",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Einmusik b2b Solee",
+      "date": "2026-08-01",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Fatboy Slim",
+      "date": "2026-08-01",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Felix Jaehn",
+      "date": "2026-08-01",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Gestört aber Geil",
+      "date": "2026-08-01",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Holy Priest",
+      "date": "2026-08-01",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Nature One Inc.",
+      "date": "2026-08-01",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Nena Polap",
+      "date": "2026-08-01",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Nick Schwenderling",
+      "date": "2026-08-01",
+      "stage": "OPEN AIR FLOOR"
+    },
+    {
+      "title": "Alee",
+      "date": "2026-08-01",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "AniMe",
+      "date": "2026-08-01",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "Crypsis",
+      "date": "2026-08-01",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "D-Sturb",
+      "date": "2026-08-01",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "Deadly Guns vs. Kili",
+      "date": "2026-08-01",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "Gezellige Uptempo",
+      "date": "2026-08-01",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "Insurgent",
+      "date": "2026-08-01",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "Miss K8",
+      "date": "2026-08-01",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "Omnya",
+      "date": "2026-08-01",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "Roosterz vs. Juliëx",
+      "date": "2026-08-01",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "The Dark Horror",
+      "date": "2026-08-01",
+      "stage": "SYNDICATE Zone"
+    },
+    {
+      "title": "The Viper",
+      "date": "2026-08-01",
+      "stage": "SYNDICATE Zone"
+    }
+  ]
+}

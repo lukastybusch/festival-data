@@ -1,0 +1,1212 @@
+{
+  "id": "wacken-open-air-2026",
+  "name": "Wacken Open Air",
+  "location": "Wacken, DE",
+  "genre": "Metal",
+  "startDate": "2026-07-26",
+  "endDate": "2026-08-01",
+  "color": "#111827",
+  "accent": "#EF4444",
+  "schedule": [
+    {
+      "title": "Wacken Firefighters",
+      "date": "2026-07-26T13:00:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "T.H. and the Boneshakerz",
+      "date": "2026-07-26T14:00:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Dark Embrace",
+      "date": "2026-07-26T16:00:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Mob Rules",
+      "date": "2026-07-26T18:00:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Wildcover",
+      "date": "2026-07-26T18:30:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Acoustic Guerillas feat Ellerbek Pussyboys",
+      "date": "2026-07-26T19:45:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Jäst",
+      "date": "2026-07-26T20:00:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Skyline",
+      "date": "2026-07-26T22:00:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Metal Karaoke Massacre",
+      "date": "2026-07-26T23:30:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "2Silent",
+      "date": "2026-07-27T16:00:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Cevret",
+      "date": "2026-07-27T17:45:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Mambo Kurt",
+      "date": "2026-07-27T19:00:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Dry And Shattered",
+      "date": "2026-07-27T19:30:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Alien Rockin Explosion",
+      "date": "2026-07-27T21:00:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "xoxo",
+      "date": "2026-07-27T21:15:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Maschine's Late Night Show",
+      "date": "2026-07-27T21:30:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Metal Karaoke Massacre",
+      "date": "2026-07-27T22:30:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Mit Ohne Strom",
+      "date": "2026-07-28T12:30:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Tribute2Wacken",
+      "date": "2026-07-28T14:15:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Mambo Kurt",
+      "date": "2026-07-28T15:15:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Mawiza",
+      "date": "2026-07-28T16:00:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "The Ukeboys",
+      "date": "2026-07-28T17:00:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Die From Sorrow",
+      "date": "2026-07-28T17:45:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Pentastone",
+      "date": "2026-07-28T19:30:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Alien Rockin Explosion",
+      "date": "2026-07-28T21:00:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Grell",
+      "date": "2026-07-28T21:30:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Metal Karaoke Massacre",
+      "date": "2026-07-28T23:00:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "MB Hungary",
+      "date": "2026-07-29T11:00:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "MB USA",
+      "date": "2026-07-29T11:25:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "MB Cyprus",
+      "date": "2026-07-29T11:50:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Broken By The Scream",
+      "date": "2026-07-29T12:00:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Wacken Firefighters",
+      "date": "2026-07-29T12:00:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "MB Canada",
+      "date": "2026-07-29T12:15:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "MB Greece",
+      "date": "2026-07-29T12:40:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "MB Sub Saharan Africa",
+      "date": "2026-07-29T13:05:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Visions of Atlantis",
+      "date": "2026-07-29T13:30:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "MB Sweden",
+      "date": "2026-07-29T13:30:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Alien Rockin Explosion",
+      "date": "2026-07-29T13:30:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "MB Ireland",
+      "date": "2026-07-29T13:55:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Diabolisches Werk",
+      "date": "2026-07-29T14:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "MB Austria",
+      "date": "2026-07-29T14:20:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Expellow",
+      "date": "2026-07-29T14:45:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Megalive - A Tribute to Megadeth",
+      "date": "2026-07-29T15:00:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "5th Avenue",
+      "date": "2026-07-29T15:00:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Thundermother",
+      "date": "2026-07-29T15:15:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Battlecreek",
+      "date": "2026-07-29T15:30:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "MB France",
+      "date": "2026-07-29T15:50:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Lovebites",
+      "date": "2026-07-29T16:00:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Thomas Nicholas Band",
+      "date": "2026-07-29T16:00:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "MB Lithuania",
+      "date": "2026-07-29T16:15:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "MB Luxembourg",
+      "date": "2026-07-29T16:40:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Ricky Warwick",
+      "date": "2026-07-29T16:45:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Ragetrack - A Tribute to Rage against the Machine",
+      "date": "2026-07-29T17:00:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "The Hardkiss",
+      "date": "2026-07-29T17:00:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Poison The Preacher",
+      "date": "2026-07-29T17:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "MB Italy",
+      "date": "2026-07-29T17:05:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "MB Belgium",
+      "date": "2026-07-29T17:30:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "MB Finland",
+      "date": "2026-07-29T17:55:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "The Butcher Sisters",
+      "date": "2026-07-29T18:00:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Acoustic Steel",
+      "date": "2026-07-29T18:00:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "MB Mexico",
+      "date": "2026-07-29T18:20:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Vanir",
+      "date": "2026-07-29T18:30:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Phantom",
+      "date": "2026-07-29T18:30:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "MB Norway",
+      "date": "2026-07-29T18:45:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "The Gathering",
+      "date": "2026-07-29T18:45:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Mother - A Tribute to Danzig",
+      "date": "2026-07-29T19:00:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "MB Latvia",
+      "date": "2026-07-29T19:10:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "MB Iceland",
+      "date": "2026-07-29T19:35:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Vika Goes Wild",
+      "date": "2026-07-29T19:45:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Electric Bassboy",
+      "date": "2026-07-29T20:00:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Crypt Sermon",
+      "date": "2026-07-29T20:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Velvet Rush",
+      "date": "2026-07-29T20:15:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Dirty Shirt",
+      "date": "2026-07-29T20:15:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Ozzyfied - A Tribute to Ozzy Osbourne",
+      "date": "2026-07-29T21:00:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Lacuna Coil",
+      "date": "2026-07-29T21:00:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Alien Rockin Explosion",
+      "date": "2026-07-29T21:00:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Kadavar",
+      "date": "2026-07-29T21:15:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "The Troops Of Doom",
+      "date": "2026-07-29T21:30:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Hämatom",
+      "date": "2026-07-29T22:00:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Unzucht",
+      "date": "2026-07-29T22:15:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Rose Tattoo",
+      "date": "2026-07-29T22:45:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Sacred Steel",
+      "date": "2026-07-29T23:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Mambo Kurt",
+      "date": "2026-07-30T00:15:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "MB Balkan Regions",
+      "date": "2026-07-30T11:00:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "MB Netherlands",
+      "date": "2026-07-30T11:25:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "MB Malta",
+      "date": "2026-07-30T11:50:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Alien Ant Farm",
+      "date": "2026-07-30T12:00:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Wüstenberg",
+      "date": "2026-07-30T12:00:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "MB Czech Republic",
+      "date": "2026-07-30T12:15:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "MB Bulgaria",
+      "date": "2026-07-30T12:40:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "MB Chile",
+      "date": "2026-07-30T13:05:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "MB Philipines",
+      "date": "2026-07-30T13:30:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Katerfahrt",
+      "date": "2026-07-30T13:30:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "H-Blockx",
+      "date": "2026-07-30T13:45:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "MB India",
+      "date": "2026-07-30T13:55:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Saviourself",
+      "date": "2026-07-30T14:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "MB Japan",
+      "date": "2026-07-30T14:20:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "MB El Salvador",
+      "date": "2026-07-30T14:45:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Skyline",
+      "date": "2026-07-30T15:00:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Vogelfrey",
+      "date": "2026-07-30T15:00:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Black Tish",
+      "date": "2026-07-30T15:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "MB Spain",
+      "date": "2026-07-30T15:10:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Therapy?",
+      "date": "2026-07-30T15:30:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "MB Switzerland",
+      "date": "2026-07-30T15:35:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Special Pay with your Blood Show!",
+      "date": "2026-07-30T16:00:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Brunhilde",
+      "date": "2026-07-30T16:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "\"50th Anniversary Virgin Killer\" Show",
+      "date": "2026-07-30T16:15:00",
+      "stage": "Harder"
+    },
+    {
+      "title": "Craft",
+      "date": "2026-07-30T16:15:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Sagenbringer",
+      "date": "2026-07-30T16:45:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Firespawn",
+      "date": "2026-07-30T17:15:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "9mm Headshot",
+      "date": "2026-07-30T17:15:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Yngwie Malmsteen",
+      "date": "2026-07-30T17:30:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Life of Agony",
+      "date": "2026-07-30T17:30:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Mambo Kurt",
+      "date": "2026-07-30T17:30:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Spectral Wound",
+      "date": "2026-07-30T18:15:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Storm Seeker",
+      "date": "2026-07-30T18:30:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Wytch Hazel",
+      "date": "2026-07-30T18:30:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Europe",
+      "date": "2026-07-30T19:00:00",
+      "stage": "Harder"
+    },
+    {
+      "title": "Altered Genesis Set",
+      "date": "2026-07-30T19:15:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "System of a Down by Anett & Livi Acoustic + Radó Éden",
+      "date": "2026-07-30T19:15:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "P.O.D.",
+      "date": "2026-07-30T19:45:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Temple of the Absurd",
+      "date": "2026-07-30T19:45:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Kupfergold",
+      "date": "2026-07-30T20:15:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Savatage",
+      "date": "2026-07-30T20:30:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Misery Index",
+      "date": "2026-07-30T20:30:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Alien Rockin Explosion",
+      "date": "2026-07-30T21:00:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Evil Jared & Krogi",
+      "date": "2026-07-30T21:15:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Anaal Nathrakh",
+      "date": "2026-07-30T21:45:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Turbonegro",
+      "date": "2026-07-30T22:00:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Def Leppard",
+      "date": "2026-07-30T22:15:00",
+      "stage": "Harder"
+    },
+    {
+      "title": "Manntra",
+      "date": "2026-07-30T22:15:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "perform Behemoth's \"Sventevith\"",
+      "date": "2026-07-30T23:00:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Year of the Goat",
+      "date": "2026-07-30T23:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Cowgirls From Hell",
+      "date": "2026-07-31T00:00:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Award Ceremony",
+      "date": "2026-07-31T11:00:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Ten56.",
+      "date": "2026-07-31T12:00:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Mr. Hurley und die Pulveraffen",
+      "date": "2026-07-31T12:00:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "tuXedoo",
+      "date": "2026-07-31T12:00:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Gutalax",
+      "date": "2026-07-31T12:30:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Employed To Serve",
+      "date": "2026-07-31T13:00:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Blaas of Glory",
+      "date": "2026-07-31T13:15:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Vreid",
+      "date": "2026-07-31T13:30:00",
+      "stage": "Harder"
+    },
+    {
+      "title": "Future Palace",
+      "date": "2026-07-31T13:45:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Grand Magus",
+      "date": "2026-07-31T14:00:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Heartless Human Harvest",
+      "date": "2026-07-31T14:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Metaklapa",
+      "date": "2026-07-31T14:15:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Paradise Lost",
+      "date": "2026-07-31T14:30:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Dead by April",
+      "date": "2026-07-31T15:00:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Cursed Abyss",
+      "date": "2026-07-31T15:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Mantar",
+      "date": "2026-07-31T15:30:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Trold",
+      "date": "2026-07-31T15:30:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Danko Jones",
+      "date": "2026-07-31T15:45:00",
+      "stage": "Harder"
+    },
+    {
+      "title": "Any given Day",
+      "date": "2026-07-31T16:00:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Chaosbay",
+      "date": "2026-07-31T16:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Black Label Society",
+      "date": "2026-07-31T17:00:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Deafheaven",
+      "date": "2026-07-31T17:00:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Cruachan",
+      "date": "2026-07-31T17:00:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Paleface Swiss",
+      "date": "2026-07-31T17:15:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Luna Kills",
+      "date": "2026-07-31T17:15:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "The Hebridean Sheep",
+      "date": "2026-07-31T17:30:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Mambo Kurt",
+      "date": "2026-07-31T17:30:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Prowler In The Yard 25th Anniversary Set",
+      "date": "2026-07-31T18:00:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Saxon",
+      "date": "2026-07-31T18:15:00",
+      "stage": "Harder"
+    },
+    {
+      "title": "Insanity Alert",
+      "date": "2026-07-31T18:30:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Eläkeläiset",
+      "date": "2026-07-31T18:45:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "TBA",
+      "date": "2026-07-31T18:45:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Hatebreed",
+      "date": "2026-07-31T19:00:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Animals as Leaders",
+      "date": "2026-07-31T19:00:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "In Flames",
+      "date": "2026-07-31T19:45:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Arroganz",
+      "date": "2026-07-31T19:45:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Bear McCreary",
+      "date": "2026-07-31T20:00:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "The Limit",
+      "date": "2026-07-31T20:00:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "TBA",
+      "date": "2026-07-31T20:00:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Dubioza Kolektiv",
+      "date": "2026-07-31T20:30:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "A Tribute To Bathory",
+      "date": "2026-07-31T20:45:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Alien Rockin Explosion",
+      "date": "2026-07-31T21:00:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "35th Anniversary Show",
+      "date": "2026-07-31T21:15:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Divlje Jagode",
+      "date": "2026-07-31T21:15:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Judas Priest",
+      "date": "2026-07-31T21:30:00",
+      "stage": "Harder"
+    },
+    {
+      "title": "Maschine's Late Night Show",
+      "date": "2026-07-31T21:31:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Faun",
+      "date": "2026-07-31T22:15:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "The Haunted",
+      "date": "2026-07-31T22:30:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "\"Best of\" + Emperor EP w. original Lineup",
+      "date": "2026-07-31T22:45:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Alfahanne",
+      "date": "2026-07-31T23:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Running Wild",
+      "date": "2026-07-31T23:15:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Skynd",
+      "date": "2026-07-31T23:45:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Subway to Sally",
+      "date": "2026-08-01T00:45:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Sepultura",
+      "date": "2026-08-01T01:00:00",
+      "stage": "Harder"
+    },
+    {
+      "title": "Alcest",
+      "date": "2026-08-01T01:00:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "TBA",
+      "date": "2026-08-01T11:00:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Heavysaurus",
+      "date": "2026-08-01T11:30:00",
+      "stage": "Harder"
+    },
+    {
+      "title": "Jazz Frühshoppen",
+      "date": "2026-08-01T11:30:00",
+      "stage": "LGH Clubstage"
+    },
+    {
+      "title": "Focus.",
+      "date": "2026-08-01T12:00:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "TBA",
+      "date": "2026-08-01T12:00:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Wacken Firefighters",
+      "date": "2026-08-01T12:00:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Kim Dracula",
+      "date": "2026-08-01T12:30:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Blood Command",
+      "date": "2026-08-01T13:00:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Minotaurus",
+      "date": "2026-08-01T13:30:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Orbit Culture",
+      "date": "2026-08-01T13:45:00",
+      "stage": "Harder"
+    },
+    {
+      "title": "Kittie",
+      "date": "2026-08-01T13:45:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Crimson Glory",
+      "date": "2026-08-01T14:00:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "TBA",
+      "date": "2026-08-01T14:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Nevermore",
+      "date": "2026-08-01T15:00:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Our Promise",
+      "date": "2026-08-01T15:00:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Dieter \"Maschine\" Birr",
+      "date": "2026-08-01T15:00:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Stonem",
+      "date": "2026-08-01T15:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Thrown",
+      "date": "2026-08-01T15:30:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Angelus Apatrida",
+      "date": "2026-08-01T16:00:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Asrock",
+      "date": "2026-08-01T16:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Lamb of God",
+      "date": "2026-08-01T16:15:00",
+      "stage": "Harder"
+    },
+    {
+      "title": "Zeltinger Band",
+      "date": "2026-08-01T16:45:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Hardline",
+      "date": "2026-08-01T17:00:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Bleed From Within",
+      "date": "2026-08-01T17:15:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Allt",
+      "date": "2026-08-01T17:15:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Airbourne",
+      "date": "2026-08-01T17:30:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Municipal Waste",
+      "date": "2026-08-01T18:00:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Mambo Kurt",
+      "date": "2026-08-01T18:00:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Ad Infinitum",
+      "date": "2026-08-01T18:30:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "The Other",
+      "date": "2026-08-01T18:30:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Arch Enemy",
+      "date": "2026-08-01T19:00:00",
+      "stage": "Harder"
+    },
+    {
+      "title": "Kärbholz",
+      "date": "2026-08-01T19:00:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Lagwagon",
+      "date": "2026-08-01T19:00:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Castle Rat",
+      "date": "2026-08-01T19:45:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Dritte Wahl",
+      "date": "2026-08-01T20:00:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Finsterforst",
+      "date": "2026-08-01T20:15:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Powerwolf",
+      "date": "2026-08-01T20:45:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "Thy Art Is Murder",
+      "date": "2026-08-01T20:45:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Alien Rockin Explosion",
+      "date": "2026-08-01T21:00:00",
+      "stage": "Welcome To The Jungle"
+    },
+    {
+      "title": "Corrosion of Conformity",
+      "date": "2026-08-01T21:15:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "Guilt Trip",
+      "date": "2026-08-01T21:15:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Einherjer",
+      "date": "2026-08-01T22:15:00",
+      "stage": "Wackinger Stage"
+    },
+    {
+      "title": "Promoters Farewell & Thanks",
+      "date": "2026-08-01T22:30:00",
+      "stage": "Harder"
+    },
+    {
+      "title": "Vended",
+      "date": "2026-08-01T22:30:00",
+      "stage": "Headbangers Stage"
+    },
+    {
+      "title": "Exclusive Special Best Of Set With Several World Live Premiers",
+      "date": "2026-08-01T22:45:00",
+      "stage": "Louder"
+    },
+    {
+      "title": "Sabaton",
+      "date": "2026-08-01T23:00:00",
+      "stage": "Harder"
+    },
+    {
+      "title": "Hackneyed",
+      "date": "2026-08-01T23:00:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Fit For An Autopsy",
+      "date": "2026-08-01T23:45:00",
+      "stage": "W:E:T Stage"
+    },
+    {
+      "title": "TBA",
+      "date": "2026-08-02T00:30:00",
+      "stage": "Wasteland Stage"
+    },
+    {
+      "title": "Alestorm",
+      "date": "2026-08-02T01:00:00",
+      "stage": "Faster"
+    },
+    {
+      "title": "The Limit",
+      "date": "2026-08-02T01:00:00",
+      "stage": "Headbangers Stage"
+    }
+  ]
+}

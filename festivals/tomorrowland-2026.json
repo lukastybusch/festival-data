@@ -1,0 +1,4267 @@
+{
+  "id": "tomorrowland-2026",
+  "name": "Tomorrowland",
+  "location": "Boom, BE",
+  "genre": "EDM",
+  "startDate": "2026-07-16",
+  "endDate": "2026-07-26",
+  "color": "#160B2C",
+  "accent": "#FBBF24",
+  "schedule": [
+    {
+      "title": "Dino",
+      "date": "2026-07-16T13:00:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "Luna & Lenthe",
+      "date": "2026-07-16T14:00:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "ARTEN",
+      "date": "2026-07-16T14:00:00",
+      "stage": "THE GATHERING II"
+    },
+    {
+      "title": "Lennert Wolfs",
+      "date": "2026-07-16T15:00:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "Flavour Drop",
+      "date": "2026-07-16T16:00:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "BLUSHxBLUSH",
+      "date": "2026-07-16T16:00:00",
+      "stage": "THE GATHERING II"
+    },
+    {
+      "title": "Alycia Bezgo b2b Portex",
+      "date": "2026-07-16T16:45:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "5NAPBACK b2b Karakals",
+      "date": "2026-07-16T17:45:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "Prinz",
+      "date": "2026-07-16T18:00:00",
+      "stage": "THE GATHERING II"
+    },
+    {
+      "title": "Amber Broos",
+      "date": "2026-07-16T18:30:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "Henri PFR",
+      "date": "2026-07-16T19:30:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "Camila Jun",
+      "date": "2026-07-16T20:00:00",
+      "stage": "THE GATHERING II"
+    },
+    {
+      "title": "Mark With A K & MC Chucky: Classics Set",
+      "date": "2026-07-16T20:15:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "SURPRISE",
+      "date": "2026-07-16T21:00:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "NO SURPRISE",
+      "date": "2026-07-16T22:00:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "NOSI",
+      "date": "2026-07-16T22:00:00",
+      "stage": "THE GATHERING II"
+    },
+    {
+      "title": "SURPRISE",
+      "date": "2026-07-16T23:00:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "Bisoux",
+      "date": "2026-07-17T12:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Sacha Malice",
+      "date": "2026-07-17T12:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "ROOX",
+      "date": "2026-07-17T12:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Eileen",
+      "date": "2026-07-17T12:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "DJORA",
+      "date": "2026-07-17T12:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Semsei",
+      "date": "2026-07-17T12:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "DISCOVERY",
+      "date": "2026-07-17T12:00:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Isa Roos",
+      "date": "2026-07-17T12:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Bosart",
+      "date": "2026-07-17T12:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Cyborg-18",
+      "date": "2026-07-17T12:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "MagiK",
+      "date": "2026-07-17T12:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Synoxis",
+      "date": "2026-07-17T12:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "RAYZEN",
+      "date": "2026-07-17T13:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "MRMK",
+      "date": "2026-07-17T13:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Monsieur",
+      "date": "2026-07-17T13:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Jop Govers",
+      "date": "2026-07-17T13:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Yannick Thiry",
+      "date": "2026-07-17T13:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Manuals",
+      "date": "2026-07-17T13:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "SimonT",
+      "date": "2026-07-17T13:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Eridu",
+      "date": "2026-07-17T13:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Jesabel",
+      "date": "2026-07-17T13:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Lerato Tsotetsi",
+      "date": "2026-07-17T13:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "MAE.LIE",
+      "date": "2026-07-17T13:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "ROW1",
+      "date": "2026-07-17T14:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "SANDY WAREZ b2b REVENJA",
+      "date": "2026-07-17T14:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Juno",
+      "date": "2026-07-17T14:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "John Noseda b2b Kenny Montana",
+      "date": "2026-07-17T14:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Fran Ares",
+      "date": "2026-07-17T14:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Vintage Culture",
+      "date": "2026-07-17T14:00:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Trip-Tamine",
+      "date": "2026-07-17T14:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Tomas Grey",
+      "date": "2026-07-17T14:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "High Grade Sound",
+      "date": "2026-07-17T14:30:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Thomas Moulene",
+      "date": "2026-07-17T14:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Anton Invicta",
+      "date": "2026-07-17T14:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "elMefti",
+      "date": "2026-07-17T15:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Marsolo",
+      "date": "2026-07-17T15:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Rose Ringed",
+      "date": "2026-07-17T15:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Lucca Van Damme",
+      "date": "2026-07-17T15:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Rosey Gold",
+      "date": "2026-07-17T15:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "John OO Fleming",
+      "date": "2026-07-17T15:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "DJ Sally",
+      "date": "2026-07-17T15:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Peterblue",
+      "date": "2026-07-17T15:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Rozie",
+      "date": "2026-07-17T15:30:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Disco Lines",
+      "date": "2026-07-17T15:30:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Lolalita & Brennt (live)",
+      "date": "2026-07-17T16:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Milinguap",
+      "date": "2026-07-17T16:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "StadiumX",
+      "date": "2026-07-17T16:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Rino",
+      "date": "2026-07-17T16:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Firaga",
+      "date": "2026-07-17T16:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Whisnu Santika",
+      "date": "2026-07-17T16:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Panda Sound System",
+      "date": "2026-07-17T16:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "STOOG3S",
+      "date": "2026-07-17T16:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Camila Jun",
+      "date": "2026-07-17T16:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Frank Verstraeten",
+      "date": "2026-07-17T16:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Bassjackers",
+      "date": "2026-07-17T16:30:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Thakzin",
+      "date": "2026-07-17T16:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "sim0ne b2b Southstar",
+      "date": "2026-07-17T17:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "VON BIKRÄV",
+      "date": "2026-07-17T17:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Diffrent",
+      "date": "2026-07-17T17:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Bibi Seck",
+      "date": "2026-07-17T17:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Soul Shakers",
+      "date": "2026-07-17T17:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Amber Broos b2b DJ Daddy Broos",
+      "date": "2026-07-17T17:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Somnia",
+      "date": "2026-07-17T17:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Mike Williams",
+      "date": "2026-07-17T17:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "PALOMA",
+      "date": "2026-07-17T17:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Blooom b2b Sudley",
+      "date": "2026-07-17T17:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Henri PFR",
+      "date": "2026-07-17T17:35:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "DITHER",
+      "date": "2026-07-17T18:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Manda Moor b2b Sirus Hood",
+      "date": "2026-07-17T18:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Flavour Drop",
+      "date": "2026-07-17T18:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Max Styler",
+      "date": "2026-07-17T18:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Conrad Taylor",
+      "date": "2026-07-17T18:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Danni Gato",
+      "date": "2026-07-17T18:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Hi Profile",
+      "date": "2026-07-17T18:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Sam Feldt",
+      "date": "2026-07-17T18:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Primate",
+      "date": "2026-07-17T18:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "KUKO",
+      "date": "2026-07-17T18:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "MPH",
+      "date": "2026-07-17T18:30:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "ZUKE",
+      "date": "2026-07-17T18:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "NERVO",
+      "date": "2026-07-17T18:40:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "GPF b2b DR DONK",
+      "date": "2026-07-17T19:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Sally C",
+      "date": "2026-07-17T19:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Nicky Romero",
+      "date": "2026-07-17T19:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Vanco",
+      "date": "2026-07-17T19:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Wilbert Pigmans",
+      "date": "2026-07-17T19:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Fabio Fusco",
+      "date": "2026-07-17T19:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Da Tweekaz",
+      "date": "2026-07-17T19:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "ÆON:MODE",
+      "date": "2026-07-17T19:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "BLOND:ISH",
+      "date": "2026-07-17T19:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Tola OG",
+      "date": "2026-07-17T19:30:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Miss Monique Presents BioRhythm",
+      "date": "2026-07-17T19:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Justin Wilkes",
+      "date": "2026-07-17T19:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Marlon Hoffstadt",
+      "date": "2026-07-17T19:40:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "MANDY b2b NEGITIV",
+      "date": "2026-07-17T20:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "MIND COMPRESSOR",
+      "date": "2026-07-17T20:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Olive Anguz",
+      "date": "2026-07-17T20:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Mike Williams Throwback Set",
+      "date": "2026-07-17T20:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Funktastix",
+      "date": "2026-07-17T20:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Omiki",
+      "date": "2026-07-17T20:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Ofenbach",
+      "date": "2026-07-17T20:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Murdock",
+      "date": "2026-07-17T20:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Nona Van Braeckel",
+      "date": "2026-07-17T20:30:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "AWEN",
+      "date": "2026-07-17T20:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Novah",
+      "date": "2026-07-17T20:40:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "LUNAKORPZ",
+      "date": "2026-07-17T21:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Sasha b2b Young Marco",
+      "date": "2026-07-17T21:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Kettama b2b Michael Bibi",
+      "date": "2026-07-17T21:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Mind Against",
+      "date": "2026-07-17T21:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Gravagerz",
+      "date": "2026-07-17T21:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Neelix",
+      "date": "2026-07-17T21:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "R3hab",
+      "date": "2026-07-17T21:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Nastya Dikikh",
+      "date": "2026-07-17T21:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "A Little Sound",
+      "date": "2026-07-17T21:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Nico Moreno",
+      "date": "2026-07-17T21:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Bennett",
+      "date": "2026-07-17T21:30:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Unregular",
+      "date": "2026-07-17T21:30:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "The Chainsmokers",
+      "date": "2026-07-17T21:45:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "VERNEX b2b NRKi",
+      "date": "2026-07-17T22:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Da Capo b2b Caiiro b2b Enoo Napa",
+      "date": "2026-07-17T22:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Artbat",
+      "date": "2026-07-17T22:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "CVNTS",
+      "date": "2026-07-17T22:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Kanine",
+      "date": "2026-07-17T22:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Audiowave",
+      "date": "2026-07-17T22:30:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "4444 OF A KIND",
+      "date": "2026-07-17T22:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Mad Maxx",
+      "date": "2026-07-17T22:30:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Sebastian Ingrosso",
+      "date": "2026-07-17T22:50:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Sara Landry",
+      "date": "2026-07-17T23:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Modeselektor (DJ-set)",
+      "date": "2026-07-17T23:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Franky Rizardo",
+      "date": "2026-07-17T23:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Nicky Romero",
+      "date": "2026-07-17T23:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Junkie Kid",
+      "date": "2026-07-17T23:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Alison Wonderland",
+      "date": "2026-07-17T23:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Rick & James 80's Party",
+      "date": "2026-07-17T23:30:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Holy Priest",
+      "date": "2026-07-17T23:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Martin Garrix",
+      "date": "2026-07-17T23:50:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Hardwell b2b Sub Zero Project",
+      "date": "2026-07-18T00:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Camo & Krooked",
+      "date": "2026-07-18T00:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Interactive Noise",
+      "date": "2026-07-18T12:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Luna Fields",
+      "date": "2026-07-18T12:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Sef sansT",
+      "date": "2026-07-18T12:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Capoon",
+      "date": "2026-07-18T12:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Cici Daze",
+      "date": "2026-07-18T12:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Dave Lambert",
+      "date": "2026-07-18T12:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "DISCOVERY",
+      "date": "2026-07-18T12:00:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "LYA",
+      "date": "2026-07-18T12:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Jeroen Visser",
+      "date": "2026-07-18T12:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "D'Angello & Francis",
+      "date": "2026-07-18T12:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Marvin & Cameron",
+      "date": "2026-07-18T12:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Just-K",
+      "date": "2026-07-18T12:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Sebsky",
+      "date": "2026-07-18T13:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Sojuju & Julian Jermain",
+      "date": "2026-07-18T13:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Makasi",
+      "date": "2026-07-18T13:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Chocolate Puma",
+      "date": "2026-07-18T13:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "CIEL.",
+      "date": "2026-07-18T13:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "The Spook",
+      "date": "2026-07-18T13:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Phi Phi",
+      "date": "2026-07-18T13:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Curol",
+      "date": "2026-07-18T13:30:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "DALI",
+      "date": "2026-07-18T13:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Luna & Lenthe",
+      "date": "2026-07-18T13:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Hermanos Inglesos",
+      "date": "2026-07-18T13:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Marhu",
+      "date": "2026-07-18T14:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Maike Depas",
+      "date": "2026-07-18T14:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Encure b2b Honey Gee",
+      "date": "2026-07-18T14:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Lordesius & Anders",
+      "date": "2026-07-18T14:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Lennert Wolfs",
+      "date": "2026-07-18T14:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Merow",
+      "date": "2026-07-18T14:00:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Marnik",
+      "date": "2026-07-18T14:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Marwan Dua",
+      "date": "2026-07-18T14:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Los Bomberos",
+      "date": "2026-07-18T14:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Jente b2b Neall",
+      "date": "2026-07-18T14:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Joyse b2b Ryan Spicer",
+      "date": "2026-07-18T15:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Betical",
+      "date": "2026-07-18T15:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "NOSI",
+      "date": "2026-07-18T15:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Pretty Girls Like Trap Music Soundsystem (Imani & Claire Lyons)",
+      "date": "2026-07-18T15:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Plastik Funk b2b Olympe",
+      "date": "2026-07-18T15:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Mark Roma",
+      "date": "2026-07-18T15:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Stephani B",
+      "date": "2026-07-18T15:00:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Emiliano Demarco",
+      "date": "2026-07-18T15:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Funkhauser",
+      "date": "2026-07-18T15:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Kaaze",
+      "date": "2026-07-18T15:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "MR. Belt & Wezol",
+      "date": "2026-07-18T15:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Aghatixx",
+      "date": "2026-07-18T15:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Blvckprint",
+      "date": "2026-07-18T15:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Estella Boersma",
+      "date": "2026-07-18T15:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Not My Type",
+      "date": "2026-07-18T15:30:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Block & Crown b2b LYNNE",
+      "date": "2026-07-18T16:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Ballantine & Dieux Père",
+      "date": "2026-07-18T16:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Fonsi Nieto",
+      "date": "2026-07-18T16:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Omdat Het Kan & Average Rob",
+      "date": "2026-07-18T16:00:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Ian Asher",
+      "date": "2026-07-18T16:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Linska",
+      "date": "2026-07-18T16:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Linska",
+      "date": "2026-07-18T16:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Brits & Boen",
+      "date": "2026-07-18T16:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Greg S.",
+      "date": "2026-07-18T16:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Dino Lenny",
+      "date": "2026-07-18T16:30:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Space 92",
+      "date": "2026-07-18T16:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "UNREAD",
+      "date": "2026-07-18T16:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Elli Acula",
+      "date": "2026-07-18T17:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "A.N.I.",
+      "date": "2026-07-18T17:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Diego Miranda b2b Pette",
+      "date": "2026-07-18T17:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Dean Turnley",
+      "date": "2026-07-18T17:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "WEF",
+      "date": "2026-07-18T17:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Manuals b2b Averix",
+      "date": "2026-07-18T17:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Quintino",
+      "date": "2026-07-18T17:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Jazzy",
+      "date": "2026-07-18T17:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "DJ Furax",
+      "date": "2026-07-18T17:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Maddix",
+      "date": "2026-07-18T17:05:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Monta",
+      "date": "2026-07-18T17:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Dimitri Vangelis & Wyman",
+      "date": "2026-07-18T18:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Antdot",
+      "date": "2026-07-18T18:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "MELV!EE",
+      "date": "2026-07-18T18:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Symphony Of Unity",
+      "date": "2026-07-18T18:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Lucas & Steve",
+      "date": "2026-07-18T18:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Chinonegro",
+      "date": "2026-07-18T18:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Laidback Luke",
+      "date": "2026-07-18T18:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Andromedik",
+      "date": "2026-07-18T18:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "DJ Ghost",
+      "date": "2026-07-18T18:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "HALŌ",
+      "date": "2026-07-18T18:10:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Ben Klock",
+      "date": "2026-07-18T18:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Dexphase",
+      "date": "2026-07-18T18:30:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Ben Hemsley",
+      "date": "2026-07-18T18:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Yves V",
+      "date": "2026-07-18T19:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Vunzige Deuntjes Soundsystem",
+      "date": "2026-07-18T19:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Meduza³",
+      "date": "2026-07-18T19:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Kris Kross Amsterdam",
+      "date": "2026-07-18T19:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Idemi",
+      "date": "2026-07-18T19:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Je Broer",
+      "date": "2026-07-18T19:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "SURPRISE",
+      "date": "2026-07-18T19:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Marten Hørger",
+      "date": "2026-07-18T19:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Vitucci",
+      "date": "2026-07-18T19:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Push",
+      "date": "2026-07-18T19:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Boris Brejcha",
+      "date": "2026-07-18T19:10:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "SAMM b2b Ajna",
+      "date": "2026-07-18T19:30:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "BIIA b2b Charlie Sparks",
+      "date": "2026-07-18T20:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "BYORN",
+      "date": "2026-07-18T20:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Dj Nano",
+      "date": "2026-07-18T20:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Morten b2b Malaa",
+      "date": "2026-07-18T20:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Kurashi Soundsystem",
+      "date": "2026-07-18T20:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Netsky",
+      "date": "2026-07-18T20:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Yuuki Yoshiyama",
+      "date": "2026-07-18T20:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Jelle DK",
+      "date": "2026-07-18T20:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Lucas & Steve",
+      "date": "2026-07-18T20:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Agents Of Time",
+      "date": "2026-07-18T20:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Jan Vervloet",
+      "date": "2026-07-18T20:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "John Newman",
+      "date": "2026-07-18T20:10:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Sam Shure",
+      "date": "2026-07-18T20:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Soulcity",
+      "date": "2026-07-18T20:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Matisse & Sadko",
+      "date": "2026-07-18T21:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Encore Soundsystem",
+      "date": "2026-07-18T21:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Symphony Of Unity",
+      "date": "2026-07-18T21:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "MANDY",
+      "date": "2026-07-18T21:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Bassjackers",
+      "date": "2026-07-18T21:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Funkhauser",
+      "date": "2026-07-18T21:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Fisher",
+      "date": "2026-07-18T21:15:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Indira Paganotto",
+      "date": "2026-07-18T21:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Vieze Asbak",
+      "date": "2026-07-18T21:30:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Carlita b2b Malive",
+      "date": "2026-07-18T21:30:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Steve Angello",
+      "date": "2026-07-18T21:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Lost Frequencies",
+      "date": "2026-07-18T21:30:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Will Sparks",
+      "date": "2026-07-18T22:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Rockefellababe",
+      "date": "2026-07-18T22:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Armin van Buuren",
+      "date": "2026-07-18T22:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "TWENTY SIX",
+      "date": "2026-07-18T22:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "DVBBS",
+      "date": "2026-07-18T22:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Bobby & Djenko",
+      "date": "2026-07-18T22:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Franky Kloeck",
+      "date": "2026-07-18T22:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Dimitri Vegas & Like Mike",
+      "date": "2026-07-18T22:20:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Oliver Heldens",
+      "date": "2026-07-18T22:45:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Bedouin",
+      "date": "2026-07-18T23:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Afrolosjes Soundsystem",
+      "date": "2026-07-18T23:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Arado",
+      "date": "2026-07-18T23:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Steve Aoki",
+      "date": "2026-07-18T23:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "X-Tof",
+      "date": "2026-07-18T23:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Reinier Zonneveld (live)",
+      "date": "2026-07-18T23:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Jonas van Opstal",
+      "date": "2026-07-18T23:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "David Guetta",
+      "date": "2026-07-18T23:35:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Steww Soundsystem",
+      "date": "2026-07-19T00:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Illenium",
+      "date": "2026-07-19T00:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Bonzai All Stars",
+      "date": "2026-07-19T00:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Flour",
+      "date": "2026-07-19T12:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Klaps F2F Miamor",
+      "date": "2026-07-19T12:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Sentin",
+      "date": "2026-07-19T12:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Massignan.y",
+      "date": "2026-07-19T12:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Poleen",
+      "date": "2026-07-19T12:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Neon",
+      "date": "2026-07-19T12:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "DISCOVERY",
+      "date": "2026-07-19T12:00:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Le Windey",
+      "date": "2026-07-19T12:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Tom Cosyns",
+      "date": "2026-07-19T12:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Exception",
+      "date": "2026-07-19T12:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Diètro",
+      "date": "2026-07-19T12:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Digital Madness",
+      "date": "2026-07-19T12:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "G-Lo",
+      "date": "2026-07-19T13:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "DJ GAB",
+      "date": "2026-07-19T13:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Yazzmin",
+      "date": "2026-07-19T13:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "YERUN",
+      "date": "2026-07-19T13:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "The Z.",
+      "date": "2026-07-19T13:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Punctual",
+      "date": "2026-07-19T13:15:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Cyria (Hybrid)",
+      "date": "2026-07-19T13:30:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Re-Type",
+      "date": "2026-07-19T13:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "DJ Licious",
+      "date": "2026-07-19T13:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "DJ Gee",
+      "date": "2026-07-19T13:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "VE/RA",
+      "date": "2026-07-19T14:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Hurts F2F ROW 1",
+      "date": "2026-07-19T14:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Ineffekt",
+      "date": "2026-07-19T14:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Sako Glitch",
+      "date": "2026-07-19T14:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Krevix",
+      "date": "2026-07-19T14:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "James Carter",
+      "date": "2026-07-19T14:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Hannah Laing",
+      "date": "2026-07-19T14:30:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Christian82",
+      "date": "2026-07-19T14:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Adrenalize",
+      "date": "2026-07-19T14:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Fake Mood",
+      "date": "2026-07-19T15:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Hitty",
+      "date": "2026-07-19T15:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Favella Som Sistema",
+      "date": "2026-07-19T15:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Aline Rocha",
+      "date": "2026-07-19T15:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "AdamK",
+      "date": "2026-07-19T15:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "SABAI",
+      "date": "2026-07-19T15:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Viktor",
+      "date": "2026-07-19T15:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Mell Tierra",
+      "date": "2026-07-19T15:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "FUMI F2F HUJUS",
+      "date": "2026-07-19T15:30:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Karakals",
+      "date": "2026-07-19T15:30:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Tania Moon",
+      "date": "2026-07-19T15:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "TNT",
+      "date": "2026-07-19T15:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Blondex",
+      "date": "2026-07-19T16:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Fafi Abdel Nour",
+      "date": "2026-07-19T16:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "DJ FASTA",
+      "date": "2026-07-19T16:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Arielle Free",
+      "date": "2026-07-19T16:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Sofía Cristo",
+      "date": "2026-07-19T16:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Les Mecs Eclectics",
+      "date": "2026-07-19T16:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "[IVY]",
+      "date": "2026-07-19T16:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Hypaton",
+      "date": "2026-07-19T16:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Öona Dahl",
+      "date": "2026-07-19T16:30:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "ELFIGO",
+      "date": "2026-07-19T16:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Malugi",
+      "date": "2026-07-19T16:30:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "CRISTINA TOSIO",
+      "date": "2026-07-19T16:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Dries Smet",
+      "date": "2026-07-19T16:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Rooler",
+      "date": "2026-07-19T16:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "David Löhlein F2F Yasmin regisford",
+      "date": "2026-07-19T17:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Noah",
+      "date": "2026-07-19T17:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Sam Hofman",
+      "date": "2026-07-19T17:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Nostalgix",
+      "date": "2026-07-19T17:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Gabry Ponte",
+      "date": "2026-07-19T17:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "SHDW b2b ÜBERKIKZ",
+      "date": "2026-07-19T17:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Jack Shore",
+      "date": "2026-07-19T17:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Noaffection b2b OM3N",
+      "date": "2026-07-19T17:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Isaac",
+      "date": "2026-07-19T17:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Kevin de Vries",
+      "date": "2026-07-19T17:35:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Helsloot",
+      "date": "2026-07-19T18:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Sedef Adasï",
+      "date": "2026-07-19T18:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Wade",
+      "date": "2026-07-19T18:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Team Damp",
+      "date": "2026-07-19T18:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "NORO$T",
+      "date": "2026-07-19T18:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Lunnas",
+      "date": "2026-07-19T18:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "LEVEL UP",
+      "date": "2026-07-19T18:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "MATTN",
+      "date": "2026-07-19T18:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "EMILIJA F2F Frederic.",
+      "date": "2026-07-19T18:30:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Pegassi",
+      "date": "2026-07-19T18:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Rebelion",
+      "date": "2026-07-19T18:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "B Jones",
+      "date": "2026-07-19T18:55:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Øtta",
+      "date": "2026-07-19T19:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Heaven Sam",
+      "date": "2026-07-19T19:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Da Tweekaz",
+      "date": "2026-07-19T19:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Marta Loe b2b Rebeca Ark",
+      "date": "2026-07-19T19:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Effe Serieus",
+      "date": "2026-07-19T19:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Arcando",
+      "date": "2026-07-19T19:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Blasterjaxx",
+      "date": "2026-07-19T19:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Nederhand",
+      "date": "2026-07-19T19:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "MXGPU (Hybrid)",
+      "date": "2026-07-19T19:30:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "DJ Gigola",
+      "date": "2026-07-19T19:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Pat B",
+      "date": "2026-07-19T19:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "SURPRISE",
+      "date": "2026-07-19T19:40:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Serafina F2F zwilling",
+      "date": "2026-07-19T20:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Avalon Emerson b2b Ben UFO",
+      "date": "2026-07-19T20:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Karyo",
+      "date": "2026-07-19T20:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Chase & Status (DJ set)",
+      "date": "2026-07-19T20:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Da Tweekaz",
+      "date": "2026-07-19T20:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Delafino",
+      "date": "2026-07-19T20:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Jerrooo",
+      "date": "2026-07-19T20:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Malaa's  Alter Ego",
+      "date": "2026-07-19T20:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Gryffin",
+      "date": "2026-07-19T20:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Foxed Up",
+      "date": "2026-07-19T20:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Anetha",
+      "date": "2026-07-19T20:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Sub Zero Project",
+      "date": "2026-07-19T20:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "John Summit",
+      "date": "2026-07-19T20:40:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Nico Morano b2b Xinobi",
+      "date": "2026-07-19T21:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Oscar and the Wolf",
+      "date": "2026-07-19T21:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Tribal Kush",
+      "date": "2026-07-19T21:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "ALOK: Rave The World",
+      "date": "2026-07-19T21:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Blasterjaxx",
+      "date": "2026-07-19T21:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Dave Hang",
+      "date": "2026-07-19T21:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Liquid Stranger",
+      "date": "2026-07-19T21:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Dimitri Vegas b2b Timmy Trumpet",
+      "date": "2026-07-19T21:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Mitched",
+      "date": "2026-07-19T21:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Adrián Mills F2F SISU",
+      "date": "2026-07-19T21:30:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Alesso",
+      "date": "2026-07-19T21:45:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Job Jobse",
+      "date": "2026-07-19T22:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "DJ Tennis b2b Vintage Culture",
+      "date": "2026-07-19T22:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Sleazy Stereo",
+      "date": "2026-07-19T22:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "I Hate Models",
+      "date": "2026-07-19T22:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Felix Da Funk",
+      "date": "2026-07-19T22:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Seven Lions",
+      "date": "2026-07-19T22:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Afrojack",
+      "date": "2026-07-19T22:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Coco Bevan",
+      "date": "2026-07-19T22:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "The Saints",
+      "date": "2026-07-19T22:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Amelie Lens",
+      "date": "2026-07-19T22:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Calvin Harris",
+      "date": "2026-07-19T22:50:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Jeronimø",
+      "date": "2026-07-19T23:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Subtronics",
+      "date": "2026-07-19T23:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Vini Vici",
+      "date": "2026-07-19T23:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Godtripper",
+      "date": "2026-07-19T23:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Renee",
+      "date": "2026-07-23T13:00:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "Naomi Cazier",
+      "date": "2026-07-23T14:00:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "MAEYER",
+      "date": "2026-07-23T14:00:00",
+      "stage": "THE GATHERING II"
+    },
+    {
+      "title": "Dave Lambert",
+      "date": "2026-07-23T15:00:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "Meaghan",
+      "date": "2026-07-23T16:00:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "Billy",
+      "date": "2026-07-23T16:00:00",
+      "stage": "THE GATHERING II"
+    },
+    {
+      "title": "ELFIGO",
+      "date": "2026-07-23T16:45:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "BYORN",
+      "date": "2026-07-23T17:30:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "Bisoux",
+      "date": "2026-07-23T18:00:00",
+      "stage": "THE GATHERING II"
+    },
+    {
+      "title": "Omdat Het Kan & Average Rob",
+      "date": "2026-07-23T18:15:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "Regi b2b Yves V",
+      "date": "2026-07-23T19:15:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "ROW1",
+      "date": "2026-07-23T20:00:00",
+      "stage": "THE GATHERING II"
+    },
+    {
+      "title": "Andromedik",
+      "date": "2026-07-23T20:15:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "SURPRISE",
+      "date": "2026-07-23T21:00:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "SURPRISE",
+      "date": "2026-07-23T22:00:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "Luna Fields",
+      "date": "2026-07-23T22:00:00",
+      "stage": "THE GATHERING II"
+    },
+    {
+      "title": "SURPRISE",
+      "date": "2026-07-23T23:00:00",
+      "stage": "THE GATHERING"
+    },
+    {
+      "title": "Skeletor Yogi",
+      "date": "2026-07-24T12:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "BAZZY",
+      "date": "2026-07-24T12:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Gissa",
+      "date": "2026-07-24T12:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Fais Le Beau b2b Sixsixsixties",
+      "date": "2026-07-24T12:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Deco",
+      "date": "2026-07-24T12:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Esin Boz",
+      "date": "2026-07-24T12:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "DISCOVERY",
+      "date": "2026-07-24T12:00:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "SPIES",
+      "date": "2026-07-24T12:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Prosit",
+      "date": "2026-07-24T12:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Locus",
+      "date": "2026-07-24T12:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Calumny",
+      "date": "2026-07-24T12:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Shawiya Tribe",
+      "date": "2026-07-24T12:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "TOXIC TWINS",
+      "date": "2026-07-24T13:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Rosh",
+      "date": "2026-07-24T13:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Reygel",
+      "date": "2026-07-24T13:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Domi Re",
+      "date": "2026-07-24T13:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Meaghan",
+      "date": "2026-07-24T13:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Sanne Dammers",
+      "date": "2026-07-24T13:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Saar Kuus",
+      "date": "2026-07-24T13:30:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Capoon",
+      "date": "2026-07-24T13:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "JOA",
+      "date": "2026-07-24T13:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "LICIA",
+      "date": "2026-07-24T13:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "BOY&GIRL",
+      "date": "2026-07-24T14:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "TODIEFOR",
+      "date": "2026-07-24T14:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Alan Alvarez & CRAZY SIR-G",
+      "date": "2026-07-24T14:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "More to be announced",
+      "date": "2026-07-24T14:00:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Joulie",
+      "date": "2026-07-24T14:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Beat Controllers",
+      "date": "2026-07-24T14:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "NOME.",
+      "date": "2026-07-24T14:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Brooke Bailey b2b Taliyah Ayana",
+      "date": "2026-07-24T14:30:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Leesa",
+      "date": "2026-07-24T14:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "IMHAPPY",
+      "date": "2026-07-24T15:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "AAT",
+      "date": "2026-07-24T15:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Kamma",
+      "date": "2026-07-24T15:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Aaron Hibell",
+      "date": "2026-07-24T15:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Martin Trevy",
+      "date": "2026-07-24T15:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Vitor Falabella",
+      "date": "2026-07-24T15:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "5NAPBACK",
+      "date": "2026-07-24T15:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Lucky Luke",
+      "date": "2026-07-24T15:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Mha Iri",
+      "date": "2026-07-24T15:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Malive",
+      "date": "2026-07-24T15:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Ely Oaks",
+      "date": "2026-07-24T15:30:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "L-Fêtes",
+      "date": "2026-07-24T15:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "NATTE VISSTICK",
+      "date": "2026-07-24T16:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Valentino Ignoto",
+      "date": "2026-07-24T16:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Amber Broos b2b Juliet Fox",
+      "date": "2026-07-24T16:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Vinne",
+      "date": "2026-07-24T16:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Jo Cox",
+      "date": "2026-07-24T16:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Firaga",
+      "date": "2026-07-24T16:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Merow",
+      "date": "2026-07-24T16:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "VIKTÖR b2b MZDZ",
+      "date": "2026-07-24T16:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Goddard. & Dread MC",
+      "date": "2026-07-24T16:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Mark Knight",
+      "date": "2026-07-24T16:30:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Yves V",
+      "date": "2026-07-24T16:30:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Callush",
+      "date": "2026-07-24T17:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "DJ FURAX",
+      "date": "2026-07-24T17:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Bibi Seck b2b Faisal",
+      "date": "2026-07-24T17:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Joezi",
+      "date": "2026-07-24T17:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Iris Rooth",
+      "date": "2026-07-24T17:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Ely Oaks",
+      "date": "2026-07-24T17:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Planet Groove DJ's",
+      "date": "2026-07-24T17:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Somnia",
+      "date": "2026-07-24T17:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "B Jones",
+      "date": "2026-07-24T17:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Ghengar",
+      "date": "2026-07-24T17:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Enrico Sangiuliano",
+      "date": "2026-07-24T17:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Lou8",
+      "date": "2026-07-24T17:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Miss Monique",
+      "date": "2026-07-24T17:35:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "PARTYRAISER b2b BULLETPROOF",
+      "date": "2026-07-24T18:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Miro",
+      "date": "2026-07-24T18:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "ELFIGO",
+      "date": "2026-07-24T18:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Phaxe",
+      "date": "2026-07-24T18:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Regi",
+      "date": "2026-07-24T18:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "ALLEYCVT",
+      "date": "2026-07-24T18:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Hannah Laing",
+      "date": "2026-07-24T18:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Belters Only",
+      "date": "2026-07-24T18:30:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Kitty Amor b2b Curol",
+      "date": "2026-07-24T18:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Jared",
+      "date": "2026-07-24T18:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Indira Paganotto",
+      "date": "2026-07-24T18:40:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "DRS b2b SANDY WAREZ",
+      "date": "2026-07-24T19:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Ogazón",
+      "date": "2026-07-24T19:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Nems",
+      "date": "2026-07-24T19:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "John Newman (Live band)",
+      "date": "2026-07-24T19:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Telykast",
+      "date": "2026-07-24T19:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Otto Wunderbar",
+      "date": "2026-07-24T19:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Blazy",
+      "date": "2026-07-24T19:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "MANDY",
+      "date": "2026-07-24T19:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Basstripper",
+      "date": "2026-07-24T19:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Eko Roosevelt Live",
+      "date": "2026-07-24T19:15:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "BYORN",
+      "date": "2026-07-24T19:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Xijaro & Pitch",
+      "date": "2026-07-24T19:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Nicky Romero",
+      "date": "2026-07-24T19:40:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "LEKKERFACES",
+      "date": "2026-07-24T20:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Ruze b2b Ranger Trucco",
+      "date": "2026-07-24T20:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Ruze b2b Ranger Trucco",
+      "date": "2026-07-24T20:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Shimza",
+      "date": "2026-07-24T20:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "$hirak",
+      "date": "2026-07-24T20:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Bebe Rexha",
+      "date": "2026-07-24T20:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Didi Han",
+      "date": "2026-07-24T20:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "John Noseda",
+      "date": "2026-07-24T20:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "The Bobmeister",
+      "date": "2026-07-24T20:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Blastoyz",
+      "date": "2026-07-24T20:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Omdat Het Kan & Average Rob",
+      "date": "2026-07-24T20:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Jessica Audiffred",
+      "date": "2026-07-24T20:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Dyen b2b Maddix",
+      "date": "2026-07-24T20:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Bullet Tooth",
+      "date": "2026-07-24T20:30:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "James Hype",
+      "date": "2026-07-24T20:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Mr. Joy",
+      "date": "2026-07-24T20:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Kölsch",
+      "date": "2026-07-24T20:40:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "YOSHIKO",
+      "date": "2026-07-24T21:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Flash",
+      "date": "2026-07-24T21:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "MEGURU",
+      "date": "2026-07-24T21:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Vegas",
+      "date": "2026-07-24T21:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "HALŌ",
+      "date": "2026-07-24T21:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Riot Ten",
+      "date": "2026-07-24T21:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Azyr",
+      "date": "2026-07-24T21:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Mr. Belt & Wezol",
+      "date": "2026-07-24T21:30:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Hugel",
+      "date": "2026-07-24T21:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Fisher",
+      "date": "2026-07-24T21:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Alok",
+      "date": "2026-07-24T21:45:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "TERRORCLOWN",
+      "date": "2026-07-24T22:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Mall Grab",
+      "date": "2026-07-24T22:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Dany Neville",
+      "date": "2026-07-24T22:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Jeroen Delodder",
+      "date": "2026-07-24T22:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Avalon",
+      "date": "2026-07-24T22:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Kaskade",
+      "date": "2026-07-24T22:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Mairee",
+      "date": "2026-07-24T22:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "BOU + B LIVE 247",
+      "date": "2026-07-24T22:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Steve Angello",
+      "date": "2026-07-24T22:50:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Onlynumbers",
+      "date": "2026-07-24T23:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Mahmut Orhan",
+      "date": "2026-07-24T23:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Irwan",
+      "date": "2026-07-24T23:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Alesso",
+      "date": "2026-07-24T23:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Electric Universe",
+      "date": "2026-07-24T23:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Alan Walker",
+      "date": "2026-07-24T23:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Bisoux b2b Jef Nice",
+      "date": "2026-07-24T23:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Borgore",
+      "date": "2026-07-24T23:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Oscar and the Wolf",
+      "date": "2026-07-24T23:45:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Hardwell",
+      "date": "2026-07-24T23:50:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Holy Priest",
+      "date": "2026-07-25T00:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Cham b2b Uneak",
+      "date": "2026-07-25T00:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Illenium",
+      "date": "2026-07-25T00:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Illenium",
+      "date": "2026-07-25T00:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Sullivan King",
+      "date": "2026-07-25T00:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Kneiz",
+      "date": "2026-07-25T12:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Rune Evens",
+      "date": "2026-07-25T12:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Yamo",
+      "date": "2026-07-25T12:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "DC Noises b2b Tori.Ann",
+      "date": "2026-07-25T12:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Naomi Cazier",
+      "date": "2026-07-25T12:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Romy Janssen",
+      "date": "2026-07-25T12:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "DISCOVERY",
+      "date": "2026-07-25T12:00:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Mooris",
+      "date": "2026-07-25T12:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Mobius One",
+      "date": "2026-07-25T12:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "NA:TUS",
+      "date": "2026-07-25T12:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Luna & Lenthe",
+      "date": "2026-07-25T12:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Quincy",
+      "date": "2026-07-25T12:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Odssey",
+      "date": "2026-07-25T13:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Knox Kind",
+      "date": "2026-07-25T13:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Triciaa",
+      "date": "2026-07-25T13:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Radio Cargo",
+      "date": "2026-07-25T13:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Charleen Herzig",
+      "date": "2026-07-25T13:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Charleen Herzig",
+      "date": "2026-07-25T13:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Macon",
+      "date": "2026-07-25T13:30:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "GUZ",
+      "date": "2026-07-25T13:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Calao",
+      "date": "2026-07-25T13:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Tim Bliss",
+      "date": "2026-07-25T13:30:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Danny Corten",
+      "date": "2026-07-25T13:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "2hot2play",
+      "date": "2026-07-25T14:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "LNY TNZ: Jump Never Dies (Take-Over)",
+      "date": "2026-07-25T14:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "RUBY XX",
+      "date": "2026-07-25T14:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Likki",
+      "date": "2026-07-25T14:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Angemi",
+      "date": "2026-07-25T14:00:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Emilia De La Paz",
+      "date": "2026-07-25T14:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "me n ü",
+      "date": "2026-07-25T14:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Gaddi",
+      "date": "2026-07-25T14:30:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Simon B",
+      "date": "2026-07-25T14:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "X&Trick",
+      "date": "2026-07-25T14:45:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "SHEE",
+      "date": "2026-07-25T15:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Roddy Lima",
+      "date": "2026-07-25T15:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Butterfly Effect",
+      "date": "2026-07-25T15:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "PHILOU",
+      "date": "2026-07-25T15:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Rassix",
+      "date": "2026-07-25T15:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Mike Williams",
+      "date": "2026-07-25T15:00:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Mr. E",
+      "date": "2026-07-25T15:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Alicia Hahn",
+      "date": "2026-07-25T15:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Mesto",
+      "date": "2026-07-25T15:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Maite Dedecker",
+      "date": "2026-07-25T15:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "TOO BIASED",
+      "date": "2026-07-25T15:30:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Soulastico b2b Tohma",
+      "date": "2026-07-25T15:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Noise Mafia",
+      "date": "2026-07-25T16:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Swanky Tunes",
+      "date": "2026-07-25T16:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "DJ ART",
+      "date": "2026-07-25T16:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Mosimann b2b ELFIGO",
+      "date": "2026-07-25T16:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Yaz.",
+      "date": "2026-07-25T16:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "ZHU",
+      "date": "2026-07-25T16:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Pat Krimson",
+      "date": "2026-07-25T16:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "IOSIO",
+      "date": "2026-07-25T16:15:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "D.O.D",
+      "date": "2026-07-25T16:15:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Dino Lenny b2b Radioslave",
+      "date": "2026-07-25T16:30:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "LP Giobbi",
+      "date": "2026-07-25T16:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Yet More",
+      "date": "2026-07-25T16:30:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Dimitri Cooman",
+      "date": "2026-07-25T16:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Bingo Players with Iceman",
+      "date": "2026-07-25T17:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Eimco",
+      "date": "2026-07-25T17:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Andromedik",
+      "date": "2026-07-25T17:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Carly Wilford",
+      "date": "2026-07-25T17:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Henri PFR",
+      "date": "2026-07-25T17:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "MATTN",
+      "date": "2026-07-25T17:20:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "EMILIJA b2b Fenrick",
+      "date": "2026-07-25T17:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Daire b2b Mero",
+      "date": "2026-07-25T17:30:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Larry Masmero",
+      "date": "2026-07-25T17:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Roma",
+      "date": "2026-07-25T17:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "DJ Ghost",
+      "date": "2026-07-25T17:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Dada Life",
+      "date": "2026-07-25T18:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Ayybo b2b Odd Mob",
+      "date": "2026-07-25T18:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Sandersville",
+      "date": "2026-07-25T18:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Symphony Of Unity",
+      "date": "2026-07-25T18:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Mosimann",
+      "date": "2026-07-25T18:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Dyzen",
+      "date": "2026-07-25T18:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Chris Lorenzo",
+      "date": "2026-07-25T18:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Morten",
+      "date": "2026-07-25T18:20:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "DJ Boring",
+      "date": "2026-07-25T18:30:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Franky Kloeck",
+      "date": "2026-07-25T18:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Alt8",
+      "date": "2026-07-25T19:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Uberjak'd feat Ella Young",
+      "date": "2026-07-25T19:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Chocolate Puma",
+      "date": "2026-07-25T19:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Lady S",
+      "date": "2026-07-25T19:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Massano",
+      "date": "2026-07-25T19:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "N0sefin",
+      "date": "2026-07-25T19:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Geheimzinnig Soundsystem",
+      "date": "2026-07-25T19:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "De Romeo's",
+      "date": "2026-07-25T19:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Wilkinson",
+      "date": "2026-07-25T19:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Ben Malone",
+      "date": "2026-07-25T19:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Agents of Time",
+      "date": "2026-07-25T19:20:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Max Styler",
+      "date": "2026-07-25T19:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Yulia Niko",
+      "date": "2026-07-25T19:30:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Jamie Dill",
+      "date": "2026-07-25T19:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Niotech",
+      "date": "2026-07-25T20:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Gregor Salto",
+      "date": "2026-07-25T20:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "⁠⁠SHOARMA SOUNDSYSTEM",
+      "date": "2026-07-25T20:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Argy presents NEWORLD",
+      "date": "2026-07-25T20:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Dada Life",
+      "date": "2026-07-25T20:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Kurt Verheyen",
+      "date": "2026-07-25T20:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Sonny Fodera",
+      "date": "2026-07-25T20:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Sub Zero Project",
+      "date": "2026-07-25T20:25:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Pegassi",
+      "date": "2026-07-25T20:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Skream b2b dj Seinfeld",
+      "date": "2026-07-25T20:30:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Séa",
+      "date": "2026-07-25T20:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Jorn Pricez",
+      "date": "2026-07-25T20:30:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Youri Parker",
+      "date": "2026-07-25T20:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Mondello",
+      "date": "2026-07-25T21:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Sander van doorn",
+      "date": "2026-07-25T21:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "HI-LO b2b Layton Giordani",
+      "date": "2026-07-25T21:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Annabel Stop It",
+      "date": "2026-07-25T21:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Symphony Of Unity",
+      "date": "2026-07-25T21:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Atkö",
+      "date": "2026-07-25T21:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Colyn b2b Sainte Vie",
+      "date": "2026-07-25T21:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Armin van Buuren",
+      "date": "2026-07-25T21:25:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Lost Frequencies",
+      "date": "2026-07-25T21:30:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "BountyHunter",
+      "date": "2026-07-25T21:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Novah",
+      "date": "2026-07-25T22:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Stanne",
+      "date": "2026-07-25T22:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Dannic b2b Dyro",
+      "date": "2026-07-25T22:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Nina Black",
+      "date": "2026-07-25T22:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Sebastian Ingrosso",
+      "date": "2026-07-25T22:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Sam Girling",
+      "date": "2026-07-25T22:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Flowchief",
+      "date": "2026-07-25T22:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "HAAi b2b The Blessed Madonna",
+      "date": "2026-07-25T22:30:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "John Summit",
+      "date": "2026-07-25T22:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Dimitri Vegas & Like Mike",
+      "date": "2026-07-25T22:30:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Chris Avantgarde b2b Konstantin Sibold",
+      "date": "2026-07-25T22:30:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Gorgon City",
+      "date": "2026-07-25T22:45:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "NOA",
+      "date": "2026-07-25T23:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Timmy Trumpet",
+      "date": "2026-07-25T23:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Netherworld",
+      "date": "2026-07-25T23:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Cherry Moon Legends (& Friends)",
+      "date": "2026-07-25T23:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "I Hate Models",
+      "date": "2026-07-25T23:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Calvin Harris",
+      "date": "2026-07-25T23:45:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Hide N Seek",
+      "date": "2026-07-26T00:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Netsky",
+      "date": "2026-07-26T00:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Mirage",
+      "date": "2026-07-26T12:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Amalie",
+      "date": "2026-07-26T12:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Catalina",
+      "date": "2026-07-26T12:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Benja b2b Franc Fala",
+      "date": "2026-07-26T12:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Laura Hoogland",
+      "date": "2026-07-26T12:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "DISCOVERY",
+      "date": "2026-07-26T12:00:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Dominico",
+      "date": "2026-07-26T12:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Mr. E",
+      "date": "2026-07-26T12:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Olivex",
+      "date": "2026-07-26T12:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Zero Gravity",
+      "date": "2026-07-26T12:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "BassBrain",
+      "date": "2026-07-26T12:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Mendosa",
+      "date": "2026-07-26T12:30:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Dino",
+      "date": "2026-07-26T13:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "DJ Lex",
+      "date": "2026-07-26T13:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Okayval",
+      "date": "2026-07-26T13:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Lucca van Damme",
+      "date": "2026-07-26T13:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Benny Plays",
+      "date": "2026-07-26T13:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Lost Identity",
+      "date": "2026-07-26T13:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Riana Holley",
+      "date": "2026-07-26T13:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Netty Hugo",
+      "date": "2026-07-26T13:30:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Lisa Korver",
+      "date": "2026-07-26T13:30:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Kellar",
+      "date": "2026-07-26T13:30:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Axel Haube",
+      "date": "2026-07-26T13:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Mess",
+      "date": "2026-07-26T14:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Bobbi Antonni",
+      "date": "2026-07-26T14:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Diego Miranda b2b Jerry Davila",
+      "date": "2026-07-26T14:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "D-Charged b2b Serzo",
+      "date": "2026-07-26T14:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Reeze",
+      "date": "2026-07-26T14:30:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Sebastian Rivero",
+      "date": "2026-07-26T14:30:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Odd Mob",
+      "date": "2026-07-26T14:30:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Portex",
+      "date": "2026-07-26T15:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Amotik",
+      "date": "2026-07-26T15:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Newtone",
+      "date": "2026-07-26T15:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Bhaskar",
+      "date": "2026-07-26T15:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Push only",
+      "date": "2026-07-26T15:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Emi Navarro",
+      "date": "2026-07-26T15:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "ANAYA",
+      "date": "2026-07-26T15:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Darren Styles",
+      "date": "2026-07-26T15:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "EME",
+      "date": "2026-07-26T15:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Mark With A K & MC Chucky",
+      "date": "2026-07-26T15:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Saidah",
+      "date": "2026-07-26T15:30:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Macker",
+      "date": "2026-07-26T15:30:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Cyril",
+      "date": "2026-07-26T15:30:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Cristiano Da Silva",
+      "date": "2026-07-26T15:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Lennert Wolfs",
+      "date": "2026-07-26T16:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Korolova",
+      "date": "2026-07-26T16:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "The Criminal Sounds",
+      "date": "2026-07-26T16:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Brian",
+      "date": "2026-07-26T16:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "VASSY",
+      "date": "2026-07-26T16:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "VASSY",
+      "date": "2026-07-26T16:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Kaaze",
+      "date": "2026-07-26T16:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Kriss Reeve",
+      "date": "2026-07-26T16:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Hard Driver",
+      "date": "2026-07-26T16:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Alycia Bezgo b2b Biianco",
+      "date": "2026-07-26T16:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Kyle Starkey",
+      "date": "2026-07-26T16:30:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Brina Knauss",
+      "date": "2026-07-26T16:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Lucas & Steve",
+      "date": "2026-07-26T16:30:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Rayco Santos",
+      "date": "2026-07-26T16:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Quelza",
+      "date": "2026-07-26T17:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Helena Lauwaert",
+      "date": "2026-07-26T17:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Karakals",
+      "date": "2026-07-26T17:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "DJ F.R.A.N.K",
+      "date": "2026-07-26T17:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Yves V b2b StadiumX",
+      "date": "2026-07-26T17:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Paris Hilton",
+      "date": "2026-07-26T17:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Muze",
+      "date": "2026-07-26T17:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "The Purge",
+      "date": "2026-07-26T17:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Fideles",
+      "date": "2026-07-26T17:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Valentín Huedo",
+      "date": "2026-07-26T17:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Chase & Status (DJ set)",
+      "date": "2026-07-26T17:35:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Adrián Mills",
+      "date": "2026-07-26T18:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Bella Claxton b2b Paige Tomlinson",
+      "date": "2026-07-26T18:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Like Mike",
+      "date": "2026-07-26T18:00:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "TIGERLILY",
+      "date": "2026-07-26T18:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Sick individuals",
+      "date": "2026-07-26T18:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Joel Corry",
+      "date": "2026-07-26T18:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Mr. Rewind",
+      "date": "2026-07-26T18:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Sound Rush",
+      "date": "2026-07-26T18:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Lammer",
+      "date": "2026-07-26T18:30:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Vikkstar",
+      "date": "2026-07-26T18:30:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Alex Kennon",
+      "date": "2026-07-26T18:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Sara Landry",
+      "date": "2026-07-26T18:40:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Blasha & Allatt",
+      "date": "2026-07-26T19:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "Cassian b2b Joris Voorn",
+      "date": "2026-07-26T19:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Bassjackers",
+      "date": "2026-07-26T19:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Peter Wackel",
+      "date": "2026-07-26T19:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Deorro",
+      "date": "2026-07-26T19:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "NERVO",
+      "date": "2026-07-26T19:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "D. Guaetta b2b Neon",
+      "date": "2026-07-26T19:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Coone",
+      "date": "2026-07-26T19:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Nikolina",
+      "date": "2026-07-26T19:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Morgan Seatree",
+      "date": "2026-07-26T19:30:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Mind Against",
+      "date": "2026-07-26T19:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Kav Verhouzer & de Hofnar presents: Eurodance",
+      "date": "2026-07-26T19:30:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Oriol Calvo",
+      "date": "2026-07-26T19:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Afrojack b2b R3hab",
+      "date": "2026-07-26T19:40:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Joel Corry",
+      "date": "2026-07-26T20:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Jan V",
+      "date": "2026-07-26T20:00:00",
+      "stage": "MOOSE BAR"
+    },
+    {
+      "title": "Laidback Luke",
+      "date": "2026-07-26T20:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Nico Moreno",
+      "date": "2026-07-26T20:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Hyalyte",
+      "date": "2026-07-26T20:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Da Tweekaz",
+      "date": "2026-07-26T20:00:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Benwal b2b LB aka Labat",
+      "date": "2026-07-26T20:30:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Artbat",
+      "date": "2026-07-26T20:30:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Delafino & Luna Fino",
+      "date": "2026-07-26T20:30:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Lost Frequencies",
+      "date": "2026-07-26T20:40:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Trym",
+      "date": "2026-07-26T21:00:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Freddy K",
+      "date": "2026-07-26T21:00:00",
+      "stage": "CAGE"
+    },
+    {
+      "title": "HU",
+      "date": "2026-07-26T21:00:00",
+      "stage": "CELESTIA BY KUCOIN"
+    },
+    {
+      "title": "Jaël Ost & MagiK",
+      "date": "2026-07-26T21:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "The Rocketman",
+      "date": "2026-07-26T21:00:00",
+      "stage": "HOUSE OF FORTUNE BY JBL"
+    },
+    {
+      "title": "Superheroes",
+      "date": "2026-07-26T21:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Bassjackers",
+      "date": "2026-07-26T21:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "Leenders",
+      "date": "2026-07-26T21:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "Kevin de Vries b2b Meduza",
+      "date": "2026-07-26T21:30:00",
+      "stage": "CRYSTAL GARDEN"
+    },
+    {
+      "title": "Warface",
+      "date": "2026-07-26T21:30:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Steve Aoki",
+      "date": "2026-07-26T21:45:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Malugi",
+      "date": "2026-07-26T22:00:00",
+      "stage": "CORE"
+    },
+    {
+      "title": "Michael Amani",
+      "date": "2026-07-26T22:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Amelie Lens presents Aura",
+      "date": "2026-07-26T22:00:00",
+      "stage": "FREEDOM BY BUD"
+    },
+    {
+      "title": "Eli Rojas",
+      "date": "2026-07-26T22:00:00",
+      "stage": "MELODIA BY CORONA"
+    },
+    {
+      "title": "Quintino",
+      "date": "2026-07-26T22:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Dimitri Vegas b2b Nico Moreno",
+      "date": "2026-07-26T22:00:00",
+      "stage": "THE GREAT LIBRARY"
+    },
+    {
+      "title": "DXNØ",
+      "date": "2026-07-26T22:00:00",
+      "stage": "THE RAVE CAVE"
+    },
+    {
+      "title": "The Straikerz",
+      "date": "2026-07-26T22:15:00",
+      "stage": "THE ROSE GARDEN"
+    },
+    {
+      "title": "Kobosil",
+      "date": "2026-07-26T22:30:00",
+      "stage": "ATMOSPHERE"
+    },
+    {
+      "title": "Martin Garrix",
+      "date": "2026-07-26T22:50:00",
+      "stage": "MAINSTAGE"
+    },
+    {
+      "title": "Michael Amani & Friends",
+      "date": "2026-07-26T23:00:00",
+      "stage": "ELIXIR"
+    },
+    {
+      "title": "Chuckie",
+      "date": "2026-07-26T23:00:00",
+      "stage": "PLANAXIS"
+    },
+    {
+      "title": "Brennan Heart",
+      "date": "2026-07-26T23:00:00",
+      "stage": "THE GREAT LIBRARY"
+    }
+  ]
+}

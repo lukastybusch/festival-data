@@ -1,0 +1,1267 @@
+{
+  "id": "iceland-eclipse-2026",
+  "name": "Iceland Eclipse",
+  "location": "Snæfellsnes, IS",
+  "genre": "Electronic",
+  "startDate": "2026-08-11",
+  "endDate": "2026-08-15",
+  "color": "#0A0E1A",
+  "accent": "#F5C518",
+  "schedule": [
+    {
+      "title": "OPEN CEREMONY",
+      "date": "2026-08-11T17:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "AWARË",
+      "date": "2026-08-11T18:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Atma Silvia Bök",
+      "date": "2026-08-12T08:00:00",
+      "stage": "CAMPSITE YOGA"
+    },
+    {
+      "title": "Óli Björn Karlsson",
+      "date": "2026-08-12T09:00:00",
+      "stage": "CAMPSITE YOGA"
+    },
+    {
+      "title": "Mary Dohrmann, Dr.",
+      "date": "2026-08-12T10:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Michael Graziano",
+      "date": "2026-08-12T10:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Roz Dimon",
+      "date": "2026-08-12T10:00:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Ipek Williamson",
+      "date": "2026-08-12T10:30:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Christian Van Camp",
+      "date": "2026-08-12T10:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Paul Dougherty, Dr.",
+      "date": "2026-08-12T10:30:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Justin Natoli",
+      "date": "2026-08-12T11:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Alex & Jennifer Moscow",
+      "date": "2026-08-12T11:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Michael Turner",
+      "date": "2026-08-12T11:00:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Jackie Knechtel",
+      "date": "2026-08-12T11:15:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Kayla Knopp",
+      "date": "2026-08-12T11:30:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Michael Jelen",
+      "date": "2026-08-12T11:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Rock Thomas",
+      "date": "2026-08-12T11:30:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Rohan Roberts",
+      "date": "2026-08-12T12:15:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Cyberdelic Nexus",
+      "date": "2026-08-12T12:30:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Shen Tong  沈彤",
+      "date": "2026-08-12T12:30:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Hinrik Jóhannesson",
+      "date": "2026-08-12T12:30:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Samantha Tauber",
+      "date": "2026-08-12T12:45:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Carl Hayden Smith",
+      "date": "2026-08-12T13:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Gunnar Ólafsson",
+      "date": "2026-08-12T13:00:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Roberto Carlino",
+      "date": "2026-08-12T13:15:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Kim Booth",
+      "date": "2026-08-12T13:30:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Tristan Semmelhack",
+      "date": "2026-08-12T13:45:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Jason Silva",
+      "date": "2026-08-12T14:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Alex Grey & Allyson Grey",
+      "date": "2026-08-12T14:30:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Lóránt Czárán",
+      "date": "2026-08-12T14:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Tinna María",
+      "date": "2026-08-12T14:30:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Stephen Brooks",
+      "date": "2026-08-12T14:45:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Christopher Huie",
+      "date": "2026-08-12T15:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Ayla Schafer",
+      "date": "2026-08-12T15:20:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Sofiah Thom",
+      "date": "2026-08-12T15:30:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Sian Proctor, Dr.",
+      "date": "2026-08-12T15:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Christopher Breedlove",
+      "date": "2026-08-12T15:30:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "ECLIPSE Ceremony",
+      "date": "2026-08-12T15:45:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Ron Garan",
+      "date": "2026-08-12T16:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Ezra Bookman",
+      "date": "2026-08-12T16:00:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "ECLIPSE Ceremony",
+      "date": "2026-08-12T16:30:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Högni",
+      "date": "2026-08-12T16:35:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Eclipse",
+      "date": "2026-08-12T16:45:00",
+      "stage": "All Stages"
+    },
+    {
+      "title": "Totality",
+      "date": "2026-08-12T17:45:00",
+      "stage": "All Stages"
+    },
+    {
+      "title": "Poranguí",
+      "date": "2026-08-12T17:45:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Ásgeir",
+      "date": "2026-08-12T18:05:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Test Shot Starfish",
+      "date": "2026-08-12T18:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Allen Hulsey",
+      "date": "2026-08-12T19:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Amaresh Kollipara",
+      "date": "2026-08-12T19:15:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Emilíana Torrini",
+      "date": "2026-08-12T19:25:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Eduardo Castillo presents 'The Overview Effect'",
+      "date": "2026-08-12T19:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Darren Aronofsky",
+      "date": "2026-08-12T19:45:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Luana Schwengber",
+      "date": "2026-08-12T20:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Heimir Logi",
+      "date": "2026-08-12T20:00:00",
+      "stage": "SACRED FIRE"
+    },
+    {
+      "title": "Booka Shade (Live)",
+      "date": "2026-08-12T20:45:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Brent Pella",
+      "date": "2026-08-12T20:45:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Tristan Baylis",
+      "date": "2026-08-12T20:45:00",
+      "stage": "Röstin Film Premiers"
+    },
+    {
+      "title": "DJ Brownie",
+      "date": "2026-08-12T21:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Dhamika",
+      "date": "2026-08-12T21:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Gathering of the Tribes: Prayers, Songs and Stories from Traditions Around the World",
+      "date": "2026-08-12T21:00:00",
+      "stage": "SACRED FIRE"
+    },
+    {
+      "title": "David Heilbroner",
+      "date": "2026-08-12T21:15:00",
+      "stage": "Röstin Film Premiers"
+    },
+    {
+      "title": "Orang Volante",
+      "date": "2026-08-12T22:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Bloomurian ft. Saoirse Watters",
+      "date": "2026-08-12T22:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Maribou State",
+      "date": "2026-08-12T22:30:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "REW",
+      "date": "2026-08-12T23:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Suduaya",
+      "date": "2026-08-12T23:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Haraldur Erlendsson, Dr.",
+      "date": "2026-08-12T23:00:00",
+      "stage": "SACRED FIRE"
+    },
+    {
+      "title": "Agzilla",
+      "date": "2026-08-13T00:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Captain Hook",
+      "date": "2026-08-13T00:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "The Blue Lions",
+      "date": "2026-08-13T08:15:00",
+      "stage": "CAMPSITE YOGA"
+    },
+    {
+      "title": "Marisa Radha Weppner",
+      "date": "2026-08-13T09:15:00",
+      "stage": "CAMPSITE YOGA"
+    },
+    {
+      "title": "Cynthia Cramblett & Benjamin Moore",
+      "date": "2026-08-13T11:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Michael Zuckerman",
+      "date": "2026-08-13T11:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Ishkayah",
+      "date": "2026-08-13T11:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Edge City Community Demo Day",
+      "date": "2026-08-13T11:00:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Tony Cho",
+      "date": "2026-08-13T11:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Ben Rein, Dr.",
+      "date": "2026-08-13T12:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Steven Blumenfeld",
+      "date": "2026-08-13T12:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Shanti Faiia",
+      "date": "2026-08-13T12:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Bryant Maxwell",
+      "date": "2026-08-13T12:15:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Chris Decker",
+      "date": "2026-08-13T12:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Tim Mullen",
+      "date": "2026-08-13T12:45:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Júlía Óttarsdóttir",
+      "date": "2026-08-13T13:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Jordan Amadio, Dr.",
+      "date": "2026-08-13T13:15:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "SciArt Exchange",
+      "date": "2026-08-13T13:15:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Taylor Bright",
+      "date": "2026-08-13T13:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Hjaltalín",
+      "date": "2026-08-13T13:30:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Aneil Mallavarapu",
+      "date": "2026-08-13T13:45:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Tucker Garrison",
+      "date": "2026-08-13T14:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Atma Silvia Bök",
+      "date": "2026-08-13T14:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Moli G.ott.",
+      "date": "2026-08-13T14:00:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Jonathan Schooler",
+      "date": "2026-08-13T14:15:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Joycelyn Longdon",
+      "date": "2026-08-13T14:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Amanda Gregory",
+      "date": "2026-08-13T14:45:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Lindsay Brandon",
+      "date": "2026-08-13T15:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Carbon Based Lifeforms w/ Alex Grey & Allyson Grey  Live Painting",
+      "date": "2026-08-13T15:00:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Brainblock Closing",
+      "date": "2026-08-13T15:15:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Ebtesam",
+      "date": "2026-08-13T15:15:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Gudrun Bergmann",
+      "date": "2026-08-13T15:30:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Jason Achilles",
+      "date": "2026-08-13T16:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Davíð Svanur",
+      "date": "2026-08-13T16:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Katy Bohinc",
+      "date": "2026-08-13T16:15:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Quantic (DJ set)",
+      "date": "2026-08-13T16:30:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Lunacy: The Explosive Past",
+      "date": "2026-08-13T16:45:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Cell7",
+      "date": "2026-08-13T16:50:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Android Jones",
+      "date": "2026-08-13T17:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "CEREMONY: TEMPLE OF THE BIRD TRIBES",
+      "date": "2026-08-13T17:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Josh Draper",
+      "date": "2026-08-13T17:30:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "CiCi",
+      "date": "2026-08-13T18:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Ryan Hope",
+      "date": "2026-08-13T18:00:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Him Gone Ape",
+      "date": "2026-08-13T18:15:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Blankiflúr",
+      "date": "2026-08-13T18:45:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Nitin",
+      "date": "2026-08-13T19:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Ella Knight",
+      "date": "2026-08-13T19:30:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Vincent Bruneau",
+      "date": "2026-08-13T19:30:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Rave Mehta",
+      "date": "2026-08-13T19:45:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "The Blue Lions",
+      "date": "2026-08-13T20:00:00",
+      "stage": "SACRED FIRE"
+    },
+    {
+      "title": "Reorientate",
+      "date": "2026-08-13T20:15:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Reggie Watts",
+      "date": "2026-08-13T20:30:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "TRPTYCH",
+      "date": "2026-08-13T21:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Luca Donzelli",
+      "date": "2026-08-13T21:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Kenny Dope",
+      "date": "2026-08-13T21:00:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Amélie Ravalec & Vincent Ravalec",
+      "date": "2026-08-13T21:00:00",
+      "stage": "Röstin Film Premiers"
+    },
+    {
+      "title": "Tao Txana",
+      "date": "2026-08-13T21:00:00",
+      "stage": "SACRED FIRE"
+    },
+    {
+      "title": "Macro/micro",
+      "date": "2026-08-13T22:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Allen Hulsey + Vincent Bruneau",
+      "date": "2026-08-13T22:00:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Art Department",
+      "date": "2026-08-13T22:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "berlioz",
+      "date": "2026-08-13T22:30:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Ruby Chase",
+      "date": "2026-08-13T23:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "East Forest",
+      "date": "2026-08-14T00:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Tiga",
+      "date": "2026-08-14T00:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Patrick Kronfli",
+      "date": "2026-08-14T08:00:00",
+      "stage": "CAMPSITE YOGA"
+    },
+    {
+      "title": "Airi-Triin Teder",
+      "date": "2026-08-14T09:00:00",
+      "stage": "CAMPSITE YOGA"
+    },
+    {
+      "title": "Yoga Moves",
+      "date": "2026-08-14T11:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Kevin Russell",
+      "date": "2026-08-14T11:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Hinrik Jóhannesson",
+      "date": "2026-08-14T11:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "EDGE CITY: LIGHTING OPEN MIC BLOCK",
+      "date": "2026-08-14T11:00:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Brittany Kaiser",
+      "date": "2026-08-14T12:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Heiðrún María",
+      "date": "2026-08-14T12:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Daniel Leeb",
+      "date": "2026-08-14T12:15:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Yasmine El Baggari",
+      "date": "2026-08-14T12:15:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "David Helgason",
+      "date": "2026-08-14T12:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Ubaldo Ciminieri",
+      "date": "2026-08-14T13:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Leanne Falco",
+      "date": "2026-08-14T13:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Karlakórinn Heiðbjört",
+      "date": "2026-08-14T13:00:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Samwise",
+      "date": "2026-08-14T13:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Jake Groshong",
+      "date": "2026-08-14T13:30:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Ron Garan",
+      "date": "2026-08-14T13:45:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Dr Chrispy",
+      "date": "2026-08-14T13:50:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Brien Egan",
+      "date": "2026-08-14T14:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Johanna Maggy",
+      "date": "2026-08-14T14:00:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Kyter",
+      "date": "2026-08-14T14:30:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Ryan Horst",
+      "date": "2026-08-14T14:45:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Carla Rose",
+      "date": "2026-08-14T15:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "The Wizard Devin Person",
+      "date": "2026-08-14T15:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Zero 7 (DJ Set)",
+      "date": "2026-08-14T15:00:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "JT Marino",
+      "date": "2026-08-14T15:45:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Emily Fletcher",
+      "date": "2026-08-14T16:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Anouk Wipprecht",
+      "date": "2026-08-14T16:15:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "BenSöl",
+      "date": "2026-08-14T16:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Adam Stark",
+      "date": "2026-08-14T16:45:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Alex Grey & Allyson Grey",
+      "date": "2026-08-14T16:45:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "CEREMONY: WOLF",
+      "date": "2026-08-14T17:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Hjálmar",
+      "date": "2026-08-14T17:00:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "annu",
+      "date": "2026-08-14T17:45:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Gio Israel",
+      "date": "2026-08-14T17:45:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Sísý Ey",
+      "date": "2026-08-14T18:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Vök",
+      "date": "2026-08-14T18:15:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Kayla Knopp",
+      "date": "2026-08-14T18:15:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "dj. flugvél og geimskip",
+      "date": "2026-08-14T19:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Ali Love",
+      "date": "2026-08-14T19:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "RJD2",
+      "date": "2026-08-14T19:15:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Bear Kittay presents Topia",
+      "date": "2026-08-14T19:30:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Erik Hammer",
+      "date": "2026-08-14T19:45:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Freedom Fighters",
+      "date": "2026-08-14T20:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Rojelio Carrillo Carrillo",
+      "date": "2026-08-14T20:00:00",
+      "stage": "SACRED FIRE"
+    },
+    {
+      "title": "CloZee with Live visuals by Android Jones",
+      "date": "2026-08-14T20:30:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Mendeleyev",
+      "date": "2026-08-14T20:45:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Joaqopelli Tribute: GDubz & Mena Domina",
+      "date": "2026-08-14T21:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Gio Israel",
+      "date": "2026-08-14T21:00:00",
+      "stage": "Röstin Film Premiers"
+    },
+    {
+      "title": "Winter Jendayi",
+      "date": "2026-08-14T21:00:00",
+      "stage": "SACRED FIRE"
+    },
+    {
+      "title": "Desert Hearts",
+      "date": "2026-08-14T21:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "VNCCII",
+      "date": "2026-08-14T22:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Apashe & Brass Orchestra",
+      "date": "2026-08-14T22:00:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Bear Kittay Topia Band Jam",
+      "date": "2026-08-14T22:00:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "East Forest",
+      "date": "2026-08-14T22:30:00",
+      "stage": "Röstin Film Premiers"
+    },
+    {
+      "title": "Klaki",
+      "date": "2026-08-14T23:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "ANNA",
+      "date": "2026-08-14T23:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Sacred Explorer",
+      "date": "2026-08-14T23:00:00",
+      "stage": "SACRED FIRE"
+    },
+    {
+      "title": "Above & Beyond",
+      "date": "2026-08-14T23:30:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Natural Symphony",
+      "date": "2026-08-15T00:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Nick Warren",
+      "date": "2026-08-15T00:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "BigRedMachine",
+      "date": "2026-08-15T01:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Dave Clarke",
+      "date": "2026-08-15T02:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "John 00 Fleming",
+      "date": "2026-08-15T02:30:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "exos",
+      "date": "2026-08-15T03:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Lisa Love Rueff",
+      "date": "2026-08-15T08:00:00",
+      "stage": "CAMPSITE YOGA"
+    },
+    {
+      "title": "Rise N Thrive",
+      "date": "2026-08-15T09:00:00",
+      "stage": "CAMPSITE YOGA"
+    },
+    {
+      "title": "INNA",
+      "date": "2026-08-15T11:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Austin Mao",
+      "date": "2026-08-15T11:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Victor Gressier",
+      "date": "2026-08-15T11:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Rick Doblin, Dr.",
+      "date": "2026-08-15T11:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Simeon Schnapper",
+      "date": "2026-08-15T12:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Illi Adato",
+      "date": "2026-08-15T12:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Freyr Friðfinnsson",
+      "date": "2026-08-15T12:15:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Amanda Sage",
+      "date": "2026-08-15T12:15:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Nightmares on Wax",
+      "date": "2026-08-15T13:00:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "DJ Andrea Jóns",
+      "date": "2026-08-15T13:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Red Owl Medicine Woman",
+      "date": "2026-08-15T13:30:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Janeya Griffin",
+      "date": "2026-08-15T13:30:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Gabor Szorad",
+      "date": "2026-08-15T13:45:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Space For Humanity",
+      "date": "2026-08-15T14:00:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Olafur Sigurvinsson",
+      "date": "2026-08-15T14:15:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Alexander Layendecker, Dr.",
+      "date": "2026-08-15T14:45:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Emily Bilbao",
+      "date": "2026-08-15T15:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Scarlett de la torre",
+      "date": "2026-08-15T15:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Ben Haldeman",
+      "date": "2026-08-15T15:15:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Alex Jay & DJ McLov3n",
+      "date": "2026-08-15T16:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Dr Chrispy",
+      "date": "2026-08-15T16:00:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Magnús Jensson",
+      "date": "2026-08-15T16:15:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Nik Halik",
+      "date": "2026-08-15T16:30:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Ruth Daniel",
+      "date": "2026-08-15T16:45:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Fox Train Safari",
+      "date": "2026-08-15T16:45:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "FRDRK",
+      "date": "2026-08-15T17:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "CEREMONY",
+      "date": "2026-08-15T17:00:00",
+      "stage": "COSMIC CONNECTION (Wellness)"
+    },
+    {
+      "title": "Henk Rogers",
+      "date": "2026-08-15T17:00:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Néfur",
+      "date": "2026-08-15T17:15:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "gugusar",
+      "date": "2026-08-15T17:50:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Intergalactic Transmission: Showcase",
+      "date": "2026-08-15T18:00:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "Daði Freyr",
+      "date": "2026-08-15T18:05:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Android Jones",
+      "date": "2026-08-15T18:15:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Jamie Clarke (Either)",
+      "date": "2026-08-15T19:10:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Curawaka",
+      "date": "2026-08-15T19:15:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Fear N Love",
+      "date": "2026-08-15T19:30:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Nana Marina Cruz",
+      "date": "2026-08-15T20:00:00",
+      "stage": "SACRED FIRE"
+    },
+    {
+      "title": "Shanin Blake",
+      "date": "2026-08-15T20:15:00",
+      "stage": "POLARIS"
+    },
+    {
+      "title": "James Ellington",
+      "date": "2026-08-15T20:30:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Justin Sloe (Droog)",
+      "date": "2026-08-15T20:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Arc De Soleil",
+      "date": "2026-08-15T20:30:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Kári Viðarsson",
+      "date": "2026-08-15T20:45:00",
+      "stage": "Röstin Film Premiers"
+    },
+    {
+      "title": "Elliot From Earth",
+      "date": "2026-08-15T22:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Hólmar “Acid Tourist”",
+      "date": "2026-08-15T22:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Ida Engberg",
+      "date": "2026-08-15T22:00:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "Ceremonial Fireside Jam",
+      "date": "2026-08-15T22:00:00",
+      "stage": "SACRED FIRE"
+    },
+    {
+      "title": "Rayconen",
+      "date": "2026-08-15T23:30:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "Rechulski",
+      "date": "2026-08-15T23:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "GusGus",
+      "date": "2026-08-15T23:30:00",
+      "stage": "ECLIPSE (Main Stage)"
+    },
+    {
+      "title": "TRAVELER",
+      "date": "2026-08-16T01:00:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "DJ Margeir",
+      "date": "2026-08-16T01:00:00",
+      "stage": "AURORA (Electronic Tent)"
+    },
+    {
+      "title": "Solar Simon",
+      "date": "2026-08-16T02:30:00",
+      "stage": "AFTERGLOW (Dome)"
+    },
+    {
+      "title": "VisionQuest",
+      "date": "2026-08-16T02:30:00",
+      "stage": "AURORA (Electronic Tent)"
+    }
+  ]
+}

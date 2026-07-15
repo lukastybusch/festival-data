@@ -1,0 +1,3115 @@
+{
+  "id": "sziget-festival-2026",
+  "name": "Sziget Festival",
+  "location": "Budapest, HU",
+  "genre": "Pop / Rock",
+  "startDate": "2026-08-09",
+  "endDate": "2026-08-15",
+  "color": "#1A1030",
+  "accent": "#FF3D9A",
+  "schedule": [
+    {
+      "title": "Day of Brody Songs",
+      "date": "2026-08-09T18:00:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "DJ GAMPEL",
+      "date": "2026-08-10T17:00:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Goran Bregovic with his Wedding & Funeral Orchestra",
+      "date": "2026-08-10T18:00:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Morcheeba",
+      "date": "2026-08-10T19:45:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Faithless",
+      "date": "2026-08-10T21:30:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Stephanie",
+      "date": "2026-08-10T22:45:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Lakatos Krisztián Creasy",
+      "date": "2026-08-10T23:00:00",
+      "stage": "Piros Pezsgő"
+    },
+    {
+      "title": "Korda György és Balázs Klári",
+      "date": "2026-08-10T23:00:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Before I Die",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "BuzzLab – create, learn, and connect with nature!",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "Les Filles du Renard Pale",
+      "date": "2026-08-11"
+    },
+    {
+      "title": "BRINCADEIRA",
+      "date": "2026-08-11",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "GENOA: Inland sailors",
+      "date": "2026-08-11",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Gijs van Bon: Skryf",
+      "date": "2026-08-11",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Homo Sípiens: THAÜT",
+      "date": "2026-08-11",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "LA FAM Teatre: Nomadesh",
+      "date": "2026-08-11",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "LA FAM Teatre: The Wolves",
+      "date": "2026-08-11",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Mirrorman",
+      "date": "2026-08-11",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "The Natural Theatre Company",
+      "date": "2026-08-11",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "The Three Goodbirds: DODO'S",
+      "date": "2026-08-11",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Théâtre de la Toupine",
+      "date": "2026-08-11",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Working Boys Club: Serving Sounds",
+      "date": "2026-08-11",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "KRISTOF KOSZEGI",
+      "date": "2026-08-11T02:00:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "FRIDAY collective: QORA",
+      "date": "2026-08-11T06:00:00"
+    },
+    {
+      "title": "Vivi Piti: Morning Dance",
+      "date": "2026-08-11T11:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Break YOGA with Georgi",
+      "date": "2026-08-11T11:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Játszóház Projekt - modern board games",
+      "date": "2026-08-11T12:00:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "Membrán",
+      "date": "2026-08-11T13:00:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Hiro 10",
+      "date": "2026-08-11T13:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Ginevra",
+      "date": "2026-08-11T13:55:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "TRUESCHOOL: Rhythm & Flow",
+      "date": "2026-08-11T14:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "DIANA SALLES: DELUSIONAL I Killed a Man",
+      "date": "2026-08-11T14:30:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Daytime Party",
+      "date": "2026-08-11T14:30:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Giulia Mei",
+      "date": "2026-08-11T14:50:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "manoAmano: KINEMATOS",
+      "date": "2026-08-11T15:00:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Laika",
+      "date": "2026-08-11T15:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Vándor Kamilló, Matuska Gréta: Drag & Draw: Cosmic Creatures",
+      "date": "2026-08-11T15:00:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "Kinetic Orchestra: Bolero",
+      "date": "2026-08-11T15:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Race Horse Company",
+      "date": "2026-08-11T16:00:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Mirror Talks: The New Era of Queer Hungary",
+      "date": "2026-08-11T16:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Bad Nerves",
+      "date": "2026-08-11T16:00:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "PLAYWORK-GROUP:PLAYWORK",
+      "date": "2026-08-11T16:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Szunyog Tess",
+      "date": "2026-08-11T16:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "BenKane",
+      "date": "2026-08-11T16:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Pales",
+      "date": "2026-08-11T16:05:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Csaba Molnár ⇄ Nicole Clore: Lust Lab: Embodying Desire",
+      "date": "2026-08-11T16:15:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "Brooke Combe",
+      "date": "2026-08-11T16:30:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Lekvárherceg",
+      "date": "2026-08-11T16:35:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "KIRAS",
+      "date": "2026-08-11T16:50:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "KRISTOF KOSZEGI",
+      "date": "2026-08-11T17:00:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Sarah Green",
+      "date": "2026-08-11T17:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Compagnie Accrorap: Prélude Out",
+      "date": "2026-08-11T17:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Bibi Seck",
+      "date": "2026-08-11T17:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Hargitai Anikó - Fodor Lilla - Purger Anna",
+      "date": "2026-08-11T17:15:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Cypher Town Battle",
+      "date": "2026-08-11T17:15:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Dávid Gerlei-Emese Kovács: Permaflux",
+      "date": "2026-08-11T17:25:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Alta Gama: Mentir lo Mínimo",
+      "date": "2026-08-11T17:30:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "RAISHA COSIMA: VOGUING WORKSHOP",
+      "date": "2026-08-11T17:30:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "Wolf Alice",
+      "date": "2026-08-11T17:30:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Ana Frango Elétrico",
+      "date": "2026-08-11T18:00:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Irie Maffia",
+      "date": "2026-08-11T18:20:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Jahson The Scientist",
+      "date": "2026-08-11T18:20:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Szabikeyz",
+      "date": "2026-08-11T18:30:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Ivo Dimchev & Band",
+      "date": "2026-08-11T18:30:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Sziget Specials: Flag Party",
+      "date": "2026-08-11T18:30:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Dóri Czakó, Forró Budapest: Forró Workshop",
+      "date": "2026-08-11T18:30:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Koikoi",
+      "date": "2026-08-11T18:30:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Robert White",
+      "date": "2026-08-11T18:30:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "Marsh",
+      "date": "2026-08-11T18:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Ruhatár × Máté Roland – Equal Opportunity Fashion Show",
+      "date": "2026-08-11T19:00:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "Miss Kaninna",
+      "date": "2026-08-11T19:00:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Tridiculous: The Show",
+      "date": "2026-08-11T19:15:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Zara Larsson",
+      "date": "2026-08-11T19:15:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Lambrini Girls",
+      "date": "2026-08-11T19:45:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Mehringer",
+      "date": "2026-08-11T19:50:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Bernathy Live",
+      "date": "2026-08-11T20:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Kristoaf",
+      "date": "2026-08-11T20:00:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Losinformalls: PERDÓN",
+      "date": "2026-08-11T20:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Company XY",
+      "date": "2026-08-11T20:00:00",
+      "stage": "Le Grand Theatre"
+    },
+    {
+      "title": "AVRALIZE",
+      "date": "2026-08-11T20:00:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Siegfried & Joy: Las Vegas in Budapest",
+      "date": "2026-08-11T20:00:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "CURTISY",
+      "date": "2026-08-11T20:00:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Oskar Med K",
+      "date": "2026-08-11T20:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "House of Circus - Carnivale Royale",
+      "date": "2026-08-11T20:30:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Dorota",
+      "date": "2026-08-11T21:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Mirror Glimpse",
+      "date": "2026-08-11T21:20:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "SOMBR",
+      "date": "2026-08-11T21:30:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Calle Mambo",
+      "date": "2026-08-11T21:30:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "SYREETA",
+      "date": "2026-08-11T21:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Kim Dracula",
+      "date": "2026-08-11T21:45:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Kitti Kay",
+      "date": "2026-08-11T22:00:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Isu",
+      "date": "2026-08-11T22:30:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Bréda Bia",
+      "date": "2026-08-11T22:45:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Carlo Chicco",
+      "date": "2026-08-11T22:45:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "The Whale Street",
+      "date": "2026-08-11T23:00:00"
+    },
+    {
+      "title": "Mollywood",
+      "date": "2026-08-11T23:00:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Manuel",
+      "date": "2026-08-11T23:00:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Vince Varga - Gábor Keresztes",
+      "date": "2026-08-11T23:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Recirquel",
+      "date": "2026-08-11T23:00:00",
+      "stage": "Le Grand Theatre"
+    },
+    {
+      "title": "Anybody Walking: Ballroom Magic",
+      "date": "2026-08-11T23:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Fűzy Gábor",
+      "date": "2026-08-11T23:00:00",
+      "stage": "Piros Pezsgő"
+    },
+    {
+      "title": "Stacey Clare and Keri Gold ELSC Productions CIC",
+      "date": "2026-08-11T23:00:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "WAVY",
+      "date": "2026-08-11T23:00:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Jazzy",
+      "date": "2026-08-11T23:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Perturbator",
+      "date": "2026-08-11T23:10:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "BIIA",
+      "date": "2026-08-11T23:30:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Hazetomika",
+      "date": "2026-08-11T23:45:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Dijon",
+      "date": "2026-08-11T23:45:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Aserdus FireDance Company: Sparklingers",
+      "date": "2026-08-11T23:50:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Before I Die",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "BuzzLab – create, learn, and connect with nature!",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "Les Filles du Renard Pale",
+      "date": "2026-08-12"
+    },
+    {
+      "title": "BRINCADEIRA",
+      "date": "2026-08-12",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "GENOA: Inland sailors",
+      "date": "2026-08-12",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Gijs van Bon: Skryf",
+      "date": "2026-08-12",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Homo Sípiens: THAÜT",
+      "date": "2026-08-12",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "LA FAM Teatre: Nomadesh",
+      "date": "2026-08-12",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "LA FAM Teatre: The Wolves",
+      "date": "2026-08-12",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Mirrorman",
+      "date": "2026-08-12",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "The Natural Theatre Company",
+      "date": "2026-08-12",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "The Three Goodbirds: DODO'S",
+      "date": "2026-08-12",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Théâtre de la Toupine",
+      "date": "2026-08-12",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Working Boys Club: Serving Sounds",
+      "date": "2026-08-12",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "KiNK",
+      "date": "2026-08-12T00:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Lil Frakk",
+      "date": "2026-08-12T00:10:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Midnight Cabaret",
+      "date": "2026-08-12T00:15:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "Indira Paganotto",
+      "date": "2026-08-12T00:30:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Coco & Breezy",
+      "date": "2026-08-12T00:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Soft Loft",
+      "date": "2026-08-12T00:40:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Budai House Clique",
+      "date": "2026-08-12T00:45:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Club Guy & Roni, Australasian Dance Collective, HIIIT & Boris Acket",
+      "date": "2026-08-12T01:00:00",
+      "stage": "Le Grand Theatre"
+    },
+    {
+      "title": "Fab Mayday",
+      "date": "2026-08-12T01:00:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Stemin: Sinners & Lovers",
+      "date": "2026-08-12T01:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Karyuu",
+      "date": "2026-08-12T01:10:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Gazsi Nobert",
+      "date": "2026-08-12T01:30:00",
+      "stage": "Piros Pezsgő"
+    },
+    {
+      "title": "Underworld",
+      "date": "2026-08-12T01:30:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "CVRDWELL Live",
+      "date": "2026-08-12T02:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Sara Landry",
+      "date": "2026-08-12T02:00:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Roberto Rios",
+      "date": "2026-08-12T02:00:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Mike Trotter",
+      "date": "2026-08-12T02:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Mëstiza",
+      "date": "2026-08-12T02:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Pure Lust",
+      "date": "2026-08-12T03:00:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Indirect Movement",
+      "date": "2026-08-12T03:30:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Trym",
+      "date": "2026-08-12T03:30:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Vintage Culture",
+      "date": "2026-08-12T03:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "FRIDAY collective: QORA",
+      "date": "2026-08-12T06:00:00"
+    },
+    {
+      "title": "Vivi Piti: Morning Dance",
+      "date": "2026-08-12T11:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Break YOGA with Georgi",
+      "date": "2026-08-12T11:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Játszóház Projekt - modern board games",
+      "date": "2026-08-12T12:00:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "Boglárka Börcsök & Andreas Bolm",
+      "date": "2026-08-12T13:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Kids Don't Smoke",
+      "date": "2026-08-12T13:00:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Remi Toin",
+      "date": "2026-08-12T13:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Eosine",
+      "date": "2026-08-12T13:55:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Kinetic Orchestra: Bolero",
+      "date": "2026-08-12T14:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Flóra Boros: violet glace",
+      "date": "2026-08-12T14:30:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Daytime Party",
+      "date": "2026-08-12T14:30:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Emma Nolde",
+      "date": "2026-08-12T14:50:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Le Patin Libre: Wheels & cello",
+      "date": "2026-08-12T15:00:00"
+    },
+    {
+      "title": "manoAmano: KINEMATOS",
+      "date": "2026-08-12T15:00:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Laika",
+      "date": "2026-08-12T15:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Emese Pongrácz, Dominik Gazdag: Minorities within the LGBTQ minority",
+      "date": "2026-08-12T15:00:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "Le Patin Libre: Wheels & cello",
+      "date": "2026-08-12T15:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Race Horse Company",
+      "date": "2026-08-12T16:00:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Mirror Talks: The New Era of Love and Sex",
+      "date": "2026-08-12T16:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Giant Rooks",
+      "date": "2026-08-12T16:00:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "PLAYWORK-GROUP:PLAYWORK",
+      "date": "2026-08-12T16:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Rose May",
+      "date": "2026-08-12T16:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Krudy C",
+      "date": "2026-08-12T16:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Grandmas House",
+      "date": "2026-08-12T16:05:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Csaba Molnár ⇄ Nicole Clore: Lust Lab: Embodying Desire",
+      "date": "2026-08-12T16:15:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "Cibi",
+      "date": "2026-08-12T16:35:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "ALT BLK ERA",
+      "date": "2026-08-12T16:45:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "ATTYLOS AKA STEFANO DI MATTEO",
+      "date": "2026-08-12T16:50:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Girlhood",
+      "date": "2026-08-12T17:00:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Péterfy Bori & Love Band",
+      "date": "2026-08-12T17:00:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "KRISTOF KOSZEGI",
+      "date": "2026-08-12T17:00:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Anna Borrás and Márton Debreczenyi",
+      "date": "2026-08-12T17:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Compagnie Accrorap: Prélude Out",
+      "date": "2026-08-12T17:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "The Zawose Queens",
+      "date": "2026-08-12T17:00:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "HANK",
+      "date": "2026-08-12T17:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Meeting Point Collective",
+      "date": "2026-08-12T17:20:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Alta Gama: Mentir lo Mínimo",
+      "date": "2026-08-12T17:30:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "RAISHA COSIMA: VOGUING WORKSHOP",
+      "date": "2026-08-12T17:30:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "Biffy Clyro",
+      "date": "2026-08-12T17:30:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Cypher Town Battle",
+      "date": "2026-08-12T17:55:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Tolo & Falcao (LavaLava)",
+      "date": "2026-08-12T18:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "DE'WAYNE",
+      "date": "2026-08-12T18:15:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Ivan & The Parazol",
+      "date": "2026-08-12T18:20:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Libra",
+      "date": "2026-08-12T18:20:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "WXLFLESS",
+      "date": "2026-08-12T18:30:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "DIANA SALLES: DELUSIONAL I Killed a Man",
+      "date": "2026-08-12T18:30:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Sziget Specials: Siegfried & Joy",
+      "date": "2026-08-12T18:30:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Nóra Horváth/Balázs Oláh: BÁL - Hungarian Mulatós dance workshop",
+      "date": "2026-08-12T18:30:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Golden Hours",
+      "date": "2026-08-12T18:30:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Hungarian Comedy Club by Dumaszínház",
+      "date": "2026-08-12T18:30:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "Wild Wild Women",
+      "date": "2026-08-12T19:00:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Tridiculous: The Show",
+      "date": "2026-08-12T19:15:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "CC:DISCO!",
+      "date": "2026-08-12T19:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Natasha Bedingfield",
+      "date": "2026-08-12T19:45:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Bohemian Betyars x Parno Graszt",
+      "date": "2026-08-12T19:50:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "THIRD 2HIFT",
+      "date": "2026-08-12T20:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Saya Noé",
+      "date": "2026-08-12T20:00:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Losinformalls: PERDÓN",
+      "date": "2026-08-12T20:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Company XY",
+      "date": "2026-08-12T20:00:00",
+      "stage": "Le Grand Theatre"
+    },
+    {
+      "title": "Health",
+      "date": "2026-08-12T20:00:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Gabriella Lester",
+      "date": "2026-08-12T20:00:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "Chadia",
+      "date": "2026-08-12T20:00:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "House of Circus - Carnivale Royale",
+      "date": "2026-08-12T20:30:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Paralich",
+      "date": "2026-08-12T21:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "ATRIP",
+      "date": "2026-08-12T21:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Twenty One Pilots",
+      "date": "2026-08-12T21:15:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Tankcsapda",
+      "date": "2026-08-12T21:20:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Melina",
+      "date": "2026-08-12T21:30:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Chet Faker",
+      "date": "2026-08-12T21:45:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Kamafaka",
+      "date": "2026-08-12T22:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Metha",
+      "date": "2026-08-12T22:00:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Swimming Paul",
+      "date": "2026-08-12T22:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "IMMI V",
+      "date": "2026-08-12T22:45:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Fab Mayday",
+      "date": "2026-08-12T22:45:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "The Whale Street",
+      "date": "2026-08-12T23:00:00"
+    },
+    {
+      "title": "Jauri",
+      "date": "2026-08-12T23:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "KKevin",
+      "date": "2026-08-12T23:00:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Kispál és a Borz",
+      "date": "2026-08-12T23:00:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Zsófia Helmeczi",
+      "date": "2026-08-12T23:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Recirquel",
+      "date": "2026-08-12T23:00:00",
+      "stage": "Le Grand Theatre"
+    },
+    {
+      "title": "Anybody Walking: Ballroom Magic",
+      "date": "2026-08-12T23:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Rakonczai Imre",
+      "date": "2026-08-12T23:00:00",
+      "stage": "Piros Pezsgő"
+    },
+    {
+      "title": "Stacey Clare and Keri Gold ELSC Productions CIC",
+      "date": "2026-08-12T23:00:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "YT",
+      "date": "2026-08-12T23:00:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Ikkimel",
+      "date": "2026-08-12T23:10:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Tripolism",
+      "date": "2026-08-12T23:30:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Belano",
+      "date": "2026-08-12T23:45:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Ashnikko",
+      "date": "2026-08-12T23:45:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Aserdus FireDance Company: Sparklingers",
+      "date": "2026-08-12T23:50:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Before I Die",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "BuzzLab – create, learn, and connect with nature!",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "Les Filles du Renard Pale",
+      "date": "2026-08-13"
+    },
+    {
+      "title": "BRINCADEIRA",
+      "date": "2026-08-13",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "GENOA: Inland sailors",
+      "date": "2026-08-13",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Gijs van Bon: Skryf",
+      "date": "2026-08-13",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Homo Sípiens: THAÜT",
+      "date": "2026-08-13",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "LA FAM Teatre: Nomadesh",
+      "date": "2026-08-13",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "LA FAM Teatre: The Wolves",
+      "date": "2026-08-13",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Mirrorman",
+      "date": "2026-08-13",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "The Natural Theatre Company",
+      "date": "2026-08-13",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "The Three Goodbirds: DODO'S",
+      "date": "2026-08-13",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Théâtre de la Toupine",
+      "date": "2026-08-13",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Working Boys Club: Serving Sounds",
+      "date": "2026-08-13",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "SveTec",
+      "date": "2026-08-13T00:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Tiga",
+      "date": "2026-08-13T00:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Dj Shocca",
+      "date": "2026-08-13T00:10:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Midnight Cabaret",
+      "date": "2026-08-13T00:15:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "Báder Mari - Horváth Joci",
+      "date": "2026-08-13T00:30:00",
+      "stage": "Piros Pezsgő"
+    },
+    {
+      "title": "Jazzbois",
+      "date": "2026-08-13T00:40:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Tesco Disco",
+      "date": "2026-08-13T00:45:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "WhoMadeWho (Hybrid DJ Set)",
+      "date": "2026-08-13T01:00:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "BRAM",
+      "date": "2026-08-13T01:00:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Club Guy & Roni, Australasian Dance Collective, HIIIT & Boris Acket",
+      "date": "2026-08-13T01:00:00",
+      "stage": "Le Grand Theatre"
+    },
+    {
+      "title": "CHROMA SOUND SYSTEM",
+      "date": "2026-08-13T01:00:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Me siento extraña: Verushka, Meritxell de Soto, Maia: Me siento extraña Takeover <3",
+      "date": "2026-08-13T01:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Charlie Sparks",
+      "date": "2026-08-13T01:30:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "TOMORA",
+      "date": "2026-08-13T01:30:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "STUK Live",
+      "date": "2026-08-13T01:30:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "¥ØU$UK€ ¥UK1MAT$U",
+      "date": "2026-08-13T01:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Rusty",
+      "date": "2026-08-13T02:00:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Argy",
+      "date": "2026-08-13T02:30:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Sikztah",
+      "date": "2026-08-13T03:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Haai",
+      "date": "2026-08-13T03:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Johanna Bozai",
+      "date": "2026-08-13T04:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Omiki",
+      "date": "2026-08-13T04:00:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "FRIDAY collective: QORA",
+      "date": "2026-08-13T06:00:00"
+    },
+    {
+      "title": "Vivi Piti: Morning Dance",
+      "date": "2026-08-13T11:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Break YOGA with Georgi",
+      "date": "2026-08-13T11:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Játszóház Projekt - modern board games",
+      "date": "2026-08-13T12:00:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "Boglárka Börcsök & Andreas Bolm",
+      "date": "2026-08-13T13:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Stone Sober",
+      "date": "2026-08-13T13:00:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Kapela",
+      "date": "2026-08-13T13:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Little Pieces of Marmelade",
+      "date": "2026-08-13T13:55:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Andrea Costanzo Martini: Life in Lycra",
+      "date": "2026-08-13T14:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Alen Nsambu: NEON BEIGE",
+      "date": "2026-08-13T14:30:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Daytime Party",
+      "date": "2026-08-13T14:30:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "I Patagarri",
+      "date": "2026-08-13T14:50:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Le Patin Libre: Wheels & cello",
+      "date": "2026-08-13T15:00:00"
+    },
+    {
+      "title": "manoAmano: KINEMATOS",
+      "date": "2026-08-13T15:00:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Laika",
+      "date": "2026-08-13T15:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Emese Pongrácz, Dominik Gazdag: Minorities within the LGBTQ minority",
+      "date": "2026-08-13T15:00:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "Le Patin Libre: Wheels & cello",
+      "date": "2026-08-13T15:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Ahmed Ayed",
+      "date": "2026-08-13T16:00:00"
+    },
+    {
+      "title": "Race Horse Company",
+      "date": "2026-08-13T16:00:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Mirror Talks: The New Era of Gender",
+      "date": "2026-08-13T16:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Paris Paloma",
+      "date": "2026-08-13T16:00:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Ahmed Ayed",
+      "date": "2026-08-13T16:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Enemy",
+      "date": "2026-08-13T16:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Kettőbé!",
+      "date": "2026-08-13T16:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Varangyék",
+      "date": "2026-08-13T16:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Secret Factory",
+      "date": "2026-08-13T16:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Oskar Haag",
+      "date": "2026-08-13T16:05:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Csaba Molnár ⇄ Nicole Clore: Lust Lab: Embodying Desire",
+      "date": "2026-08-13T16:15:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "Black Country, New Road",
+      "date": "2026-08-13T16:30:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "AMA",
+      "date": "2026-08-13T16:50:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Waiting room",
+      "date": "2026-08-13T17:00:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Platon Karataev",
+      "date": "2026-08-13T17:00:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "DJ GAMPEL",
+      "date": "2026-08-13T17:00:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Eva Palandjian",
+      "date": "2026-08-13T17:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "LaCerda: El Baile de la Zurda",
+      "date": "2026-08-13T17:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Max Baby",
+      "date": "2026-08-13T17:00:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Julya Karma",
+      "date": "2026-08-13T17:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Sara Sandvik Arnestad",
+      "date": "2026-08-13T17:15:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "OneTwoMany: Don’t Forget to Breathe!",
+      "date": "2026-08-13T17:30:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "RAISHA COSIMA: VOGUING WORKSHOP",
+      "date": "2026-08-13T17:30:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "Loyle Carner",
+      "date": "2026-08-13T17:30:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Kapela",
+      "date": "2026-08-13T17:55:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "makrohang",
+      "date": "2026-08-13T18:00:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Natascha Polké",
+      "date": "2026-08-13T18:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Kolibri",
+      "date": "2026-08-13T18:20:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Illbucks",
+      "date": "2026-08-13T18:20:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Jules War",
+      "date": "2026-08-13T18:30:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "BASHAR MURAD",
+      "date": "2026-08-13T18:30:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Sziget Specials: Fabla Collective",
+      "date": "2026-08-13T18:30:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "TRUESCHOOL: Open Jam workshop",
+      "date": "2026-08-13T18:30:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "TEEN MORTGAGE",
+      "date": "2026-08-13T18:30:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Rebecka Vilhonen, Dan Zerin, Pablo Lechuga, Nadine Froughi",
+      "date": "2026-08-13T18:30:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "Alizade",
+      "date": "2026-08-13T19:00:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Tridiculous: The Show",
+      "date": "2026-08-13T19:15:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Lewis Capaldi",
+      "date": "2026-08-13T19:15:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Olympe",
+      "date": "2026-08-13T19:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Fcukers",
+      "date": "2026-08-13T19:45:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Co Lee",
+      "date": "2026-08-13T19:50:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Ential",
+      "date": "2026-08-13T20:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Fiúk",
+      "date": "2026-08-13T20:00:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Losinformalls: PERDÓN",
+      "date": "2026-08-13T20:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Company XY",
+      "date": "2026-08-13T20:00:00",
+      "stage": "Le Grand Theatre"
+    },
+    {
+      "title": "LEAP",
+      "date": "2026-08-13T20:00:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Gabriella Lester",
+      "date": "2026-08-13T20:00:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "Bongor",
+      "date": "2026-08-13T20:00:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "House of Circus - Carnivale Royale",
+      "date": "2026-08-13T20:30:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Imola Kacsó - Márton Gláser-Áron Porteleki: Say Hello to the Void",
+      "date": "2026-08-13T21:00:00"
+    },
+    {
+      "title": "ANNA",
+      "date": "2026-08-13T21:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Dub Personal",
+      "date": "2026-08-13T21:15:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Florence + the Machine",
+      "date": "2026-08-13T21:15:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "ByeAlex és a Slepp",
+      "date": "2026-08-13T21:20:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "John Coffey",
+      "date": "2026-08-13T21:30:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Sef",
+      "date": "2026-08-13T21:45:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Andrea Lane",
+      "date": "2026-08-13T22:00:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Raise Spirit",
+      "date": "2026-08-13T22:30:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Dixon",
+      "date": "2026-08-13T22:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Edo Denova",
+      "date": "2026-08-13T22:45:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "CHROMA SOUND SYSTEM",
+      "date": "2026-08-13T22:45:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "The Whale Street",
+      "date": "2026-08-13T23:00:00"
+    },
+    {
+      "title": "VINI",
+      "date": "2026-08-13T23:00:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Majka",
+      "date": "2026-08-13T23:00:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Recirquel",
+      "date": "2026-08-13T23:00:00",
+      "stage": "Le Grand Theatre"
+    },
+    {
+      "title": "Anybody Walking: Ballroom Magic",
+      "date": "2026-08-13T23:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Popper Péter",
+      "date": "2026-08-13T23:00:00",
+      "stage": "Piros Pezsgő"
+    },
+    {
+      "title": "Tejfakasztó (Lactation) Alt-Comedy Club",
+      "date": "2026-08-13T23:00:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "Deki Alem",
+      "date": "2026-08-13T23:00:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Sylvie Kreusch",
+      "date": "2026-08-13T23:10:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Koven",
+      "date": "2026-08-13T23:30:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Jamback",
+      "date": "2026-08-13T23:30:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Bruno X Spacc",
+      "date": "2026-08-13T23:45:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Parcels",
+      "date": "2026-08-13T23:45:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Aserdus FireDance Company: Sparklingers",
+      "date": "2026-08-13T23:50:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Before I Die",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "BuzzLab – create, learn, and connect with nature!",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Les Filles du Renard Pale",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "BRINCADEIRA",
+      "date": "2026-08-14",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "GENOA: Inland sailors",
+      "date": "2026-08-14",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Gijs van Bon: Skryf",
+      "date": "2026-08-14",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Homo Sípiens: THAÜT",
+      "date": "2026-08-14",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "LA FAM Teatre: Nomadesh",
+      "date": "2026-08-14",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "LA FAM Teatre: The Wolves",
+      "date": "2026-08-14",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Mirrorman",
+      "date": "2026-08-14",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "The Natural Theatre Company",
+      "date": "2026-08-14",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "The Three Goodbirds: DODO'S",
+      "date": "2026-08-14",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Théâtre de la Toupine",
+      "date": "2026-08-14",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Working Boys Club: Serving Sounds",
+      "date": "2026-08-14",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "6363",
+      "date": "2026-08-14T00:10:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Midnight Cabaret",
+      "date": "2026-08-14T00:15:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "Bug",
+      "date": "2026-08-14T00:30:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "K-OSZ DISCO",
+      "date": "2026-08-14T00:30:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Joris Voorn",
+      "date": "2026-08-14T00:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Night Tapes",
+      "date": "2026-08-14T00:40:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "NECC PARTY",
+      "date": "2026-08-14T00:45:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Rossi.",
+      "date": "2026-08-14T01:00:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Wilcox",
+      "date": "2026-08-14T01:00:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Club Guy & Roni, Australasian Dance Collective, HIIIT & Boris Acket",
+      "date": "2026-08-14T01:00:00",
+      "stage": "Le Grand Theatre"
+    },
+    {
+      "title": "Palánta Crew",
+      "date": "2026-08-14T01:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Elipsa",
+      "date": "2026-08-14T01:10:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Báder Mari - Horváth Joci",
+      "date": "2026-08-14T01:30:00",
+      "stage": "Piros Pezsgő"
+    },
+    {
+      "title": "Antony Szmierek",
+      "date": "2026-08-14T01:30:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "DJ Fuckoff",
+      "date": "2026-08-14T02:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "NCT",
+      "date": "2026-08-14T02:00:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Richie Hawtin",
+      "date": "2026-08-14T02:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Dom Dolla",
+      "date": "2026-08-14T02:30:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Antique",
+      "date": "2026-08-14T03:00:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Blooom",
+      "date": "2026-08-14T03:00:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Pan-Pot",
+      "date": "2026-08-14T03:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Kishdead aka Klay",
+      "date": "2026-08-14T04:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Boys Noize",
+      "date": "2026-08-14T04:00:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Aktive",
+      "date": "2026-08-14T04:00:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "FRIDAY collective: QORA",
+      "date": "2026-08-14T06:00:00"
+    },
+    {
+      "title": "Vivi Piti: Morning Dance",
+      "date": "2026-08-14T11:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Break YOGA with Georgi",
+      "date": "2026-08-14T11:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Játszóház Projekt - modern board games",
+      "date": "2026-08-14T12:00:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "MÁTÉ MÉSZÁROS, ANDRÁS SZOMBATHY, PATRIK KERESZTES, ÁBRIS GRYLLUS: PITCH BLACK RIVER",
+      "date": "2026-08-14T13:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Martini Police",
+      "date": "2026-08-14T13:00:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Nebz",
+      "date": "2026-08-14T13:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Vaeva",
+      "date": "2026-08-14T13:55:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Andrea Costanzo Martini: Life in Lycra",
+      "date": "2026-08-14T14:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Mazorra: ENG I wanted to be a faggot but I was born latino",
+      "date": "2026-08-14T14:30:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Daytime Party",
+      "date": "2026-08-14T14:30:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Cent Grál",
+      "date": "2026-08-14T14:50:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Le Patin Libre: Wheels & cello",
+      "date": "2026-08-14T15:00:00"
+    },
+    {
+      "title": "manoAmano: KINEMATOS",
+      "date": "2026-08-14T15:00:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Veronika Szabó",
+      "date": "2026-08-14T15:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Vándor Kamilló, Matuska Gréta: Drag & Draw: Cosmic Creatures",
+      "date": "2026-08-14T15:00:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "Le Patin Libre: Wheels & cello",
+      "date": "2026-08-14T15:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Ahmed Ayed",
+      "date": "2026-08-14T16:00:00"
+    },
+    {
+      "title": "Race Horse Company",
+      "date": "2026-08-14T16:00:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Mirror Talks: The New Era of Drag",
+      "date": "2026-08-14T16:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Karen Dió",
+      "date": "2026-08-14T16:00:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Ahmed Ayed",
+      "date": "2026-08-14T16:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Detto",
+      "date": "2026-08-14T16:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Jáky Chan",
+      "date": "2026-08-14T16:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "SodaKill",
+      "date": "2026-08-14T16:05:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Csaba Molnár ⇄ Nicole Clore: Lust Lab: Embodying Desire",
+      "date": "2026-08-14T16:15:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "Nation of Language",
+      "date": "2026-08-14T16:30:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Gently Da Spittah’",
+      "date": "2026-08-14T16:35:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Fab Mayday",
+      "date": "2026-08-14T16:50:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "FRANKO",
+      "date": "2026-08-14T17:00:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "LAZARVS",
+      "date": "2026-08-14T17:00:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "KRISTOF KOSZEGI",
+      "date": "2026-08-14T17:00:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Szeri Viktor",
+      "date": "2026-08-14T17:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "LaCerda: El Baile de la Zurda",
+      "date": "2026-08-14T17:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "YARIMA",
+      "date": "2026-08-14T17:00:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Hiro 10",
+      "date": "2026-08-14T17:15:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Fabla Collective: Do Birds Dream of Flying?",
+      "date": "2026-08-14T17:30:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "RAISHA COSIMA: VOGUING WORKSHOP",
+      "date": "2026-08-14T17:30:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "Sigrid",
+      "date": "2026-08-14T17:30:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Rose Gray",
+      "date": "2026-08-14T18:00:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "CRB",
+      "date": "2026-08-14T18:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "AWS",
+      "date": "2026-08-14T18:20:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Gyuris",
+      "date": "2026-08-14T18:20:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Henri Gonzo és a Papírsárkányok",
+      "date": "2026-08-14T18:30:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Roi Soleil",
+      "date": "2026-08-14T18:30:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Sziget Specials: ILL-Abilities™",
+      "date": "2026-08-14T18:30:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Táncra Fel!",
+      "date": "2026-08-14T18:30:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Luke Black",
+      "date": "2026-08-14T18:30:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Áron Molnár, Orsi Tapasztó, Nóra Rainer-Micsinyei",
+      "date": "2026-08-14T18:30:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "dtnb.",
+      "date": "2026-08-14T19:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Tridiculous: The Show",
+      "date": "2026-08-14T19:15:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Skepta",
+      "date": "2026-08-14T19:15:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Naïka",
+      "date": "2026-08-14T19:45:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Bëlga",
+      "date": "2026-08-14T19:50:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Zagi",
+      "date": "2026-08-14T20:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "imago mundi",
+      "date": "2026-08-14T20:00:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Oli Mathiesen with Lucy Lynch and Sharvon Mortimer",
+      "date": "2026-08-14T20:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Company XY",
+      "date": "2026-08-14T20:00:00",
+      "stage": "Le Grand Theatre"
+    },
+    {
+      "title": "Baby Lasagna",
+      "date": "2026-08-14T20:00:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Gabriella Lester",
+      "date": "2026-08-14T20:00:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "House of Circus - Carnivale Royale",
+      "date": "2026-08-14T20:30:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Yssi SB",
+      "date": "2026-08-14T20:45:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "X-Coast",
+      "date": "2026-08-14T21:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Pogány Induló",
+      "date": "2026-08-14T21:20:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Zvezda Beta",
+      "date": "2026-08-14T21:30:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Bring Me The Horizon",
+      "date": "2026-08-14T21:30:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Altin Gün",
+      "date": "2026-08-14T21:30:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Ski Aggu",
+      "date": "2026-08-14T21:45:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "MPH",
+      "date": "2026-08-14T22:00:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Lammer",
+      "date": "2026-08-14T22:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "MILAN",
+      "date": "2026-08-14T22:45:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "AMA",
+      "date": "2026-08-14T22:45:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "The Whale Street",
+      "date": "2026-08-14T23:00:00"
+    },
+    {
+      "title": "Hruscsov",
+      "date": "2026-08-14T23:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "ABBA Tribute",
+      "date": "2026-08-14T23:00:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Beton.Hofi",
+      "date": "2026-08-14T23:00:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "TAS Visuals",
+      "date": "2026-08-14T23:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Recirquel",
+      "date": "2026-08-14T23:00:00",
+      "stage": "Le Grand Theatre"
+    },
+    {
+      "title": "Anybody Walking: Ballroom Magic",
+      "date": "2026-08-14T23:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Fűzy Gábor",
+      "date": "2026-08-14T23:00:00",
+      "stage": "Piros Pezsgő"
+    },
+    {
+      "title": "JERONIMO RABELL",
+      "date": "2026-08-14T23:00:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "Kristof7s",
+      "date": "2026-08-14T23:00:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Annisokay",
+      "date": "2026-08-14T23:10:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Peggy Gou",
+      "date": "2026-08-14T23:30:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Nia Archives",
+      "date": "2026-08-14T23:45:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Aserdus FireDance Company: Sparklingers",
+      "date": "2026-08-14T23:50:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Before I Die",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "BuzzLab – create, learn, and connect with nature!",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "Les Filles du Renard Pale",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "BRINCADEIRA",
+      "date": "2026-08-15",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "GENOA: Inland sailors",
+      "date": "2026-08-15",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Gijs van Bon: Skryf",
+      "date": "2026-08-15",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Homo Sípiens: THAÜT",
+      "date": "2026-08-15",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "LA FAM Teatre: Nomadesh",
+      "date": "2026-08-15",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "LA FAM Teatre: The Wolves",
+      "date": "2026-08-15",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Mirrorman",
+      "date": "2026-08-15",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "The Natural Theatre Company",
+      "date": "2026-08-15",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "The Three Goodbirds: DODO'S",
+      "date": "2026-08-15",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Théâtre de la Toupine",
+      "date": "2026-08-15",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "Working Boys Club: Serving Sounds",
+      "date": "2026-08-15",
+      "stage": "Walkabouts"
+    },
+    {
+      "title": "ONYVAA",
+      "date": "2026-08-15T00:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Midnight Cabaret",
+      "date": "2026-08-15T00:15:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "Vitor Falabella",
+      "date": "2026-08-15T00:30:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Bratri",
+      "date": "2026-08-15T00:40:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Lithium Night",
+      "date": "2026-08-15T00:45:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Club Guy & Roni, Australasian Dance Collective, HIIIT & Boris Acket",
+      "date": "2026-08-15T01:00:00",
+      "stage": "Le Grand Theatre"
+    },
+    {
+      "title": "APE Soundsystem",
+      "date": "2026-08-15T01:00:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Rachel Erdos: Karaoke",
+      "date": "2026-08-15T01:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Monrroe & Duskee",
+      "date": "2026-08-15T01:11:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Vegas",
+      "date": "2026-08-15T01:30:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Yulia Niko",
+      "date": "2026-08-15T01:30:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Gazsi Nobert",
+      "date": "2026-08-15T01:30:00",
+      "stage": "Piros Pezsgő"
+    },
+    {
+      "title": "BUNT.",
+      "date": "2026-08-15T01:30:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "sim0ne",
+      "date": "2026-08-15T01:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "SIPI",
+      "date": "2026-08-15T02:00:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Botond",
+      "date": "2026-08-15T03:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Anfisa Letyago",
+      "date": "2026-08-15T03:00:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Hector Oaks",
+      "date": "2026-08-15T03:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Slym & Szoliver",
+      "date": "2026-08-15T04:30:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Hiroko Yamamura",
+      "date": "2026-08-15T04:30:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Lacchesi",
+      "date": "2026-08-15T04:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "FRIDAY collective: QORA",
+      "date": "2026-08-15T06:00:00"
+    },
+    {
+      "title": "Vivi Piti: Morning Dance",
+      "date": "2026-08-15T11:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Break YOGA with Georgi",
+      "date": "2026-08-15T11:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Játszóház Projekt - modern board games",
+      "date": "2026-08-15T12:00:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "MÁTÉ MÉSZÁROS, ANDRÁS SZOMBATHY, PATRIK KERESZTES, ÁBRIS GRYLLUS: PITCH BLACK RIVER",
+      "date": "2026-08-15T13:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Cassies",
+      "date": "2026-08-15T13:55:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "TRUESCHOOL: Rhythm & Flow",
+      "date": "2026-08-15T14:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Kinga Ötvös: Ice Requiem",
+      "date": "2026-08-15T14:30:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Melanie Baker",
+      "date": "2026-08-15T14:50:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "manoAmano: KINEMATOS",
+      "date": "2026-08-15T15:00:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Veronika Szabó",
+      "date": "2026-08-15T15:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Vándor Kamilló, Matuska Gréta: Drag & Draw: Cosmic Creatures",
+      "date": "2026-08-15T15:00:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "SUB.LAB.PRO  - Valentin Alfery (AT): Slow Burner",
+      "date": "2026-08-15T15:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Ahmed Ayed",
+      "date": "2026-08-15T16:00:00"
+    },
+    {
+      "title": "Race Horse Company",
+      "date": "2026-08-15T16:00:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Mirror Talks: The New Era of Queer Revolution",
+      "date": "2026-08-15T16:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Sisi",
+      "date": "2026-08-15T16:00:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Ahmed Ayed",
+      "date": "2026-08-15T16:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "AKE",
+      "date": "2026-08-15T16:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Daniel Moritz",
+      "date": "2026-08-15T16:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "FAEDA",
+      "date": "2026-08-15T16:05:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Csaba Molnár ⇄ Nicole Clore: Lust Lab: Embodying Desire",
+      "date": "2026-08-15T16:15:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "Cassia",
+      "date": "2026-08-15T16:30:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Esti Kornél",
+      "date": "2026-08-15T17:00:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Haden",
+      "date": "2026-08-15T17:00:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Szeri Viktor",
+      "date": "2026-08-15T17:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "cmqmartina",
+      "date": "2026-08-15T17:00:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "LaCerda: El Baile de la Zurda",
+      "date": "2026-08-15T17:00:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Soudeni",
+      "date": "2026-08-15T17:00:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Kid Mario",
+      "date": "2026-08-15T17:15:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Fabla Collective: Do Birds Dream of Flying?",
+      "date": "2026-08-15T17:30:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "RAISHA COSIMA: VOGUING WORKSHOP",
+      "date": "2026-08-15T17:30:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "bbno$",
+      "date": "2026-08-15T17:30:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "AUTOFLOWER",
+      "date": "2026-08-15T17:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "UJAÏ",
+      "date": "2026-08-15T18:00:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "Zimmer90",
+      "date": "2026-08-15T18:00:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Pál Utcai Fiúk",
+      "date": "2026-08-15T18:20:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Lil 404",
+      "date": "2026-08-15T18:20:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "cancel.",
+      "date": "2026-08-15T18:30:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "YAV: MOVEMENTS OF SOUL (ALWAYS WRITTEN IN CAPSLOCK )",
+      "date": "2026-08-15T18:30:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Sziget Specials: Superar Children's Choir",
+      "date": "2026-08-15T18:30:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Losinformalls: INFORMAL STAGE",
+      "date": "2026-08-15T18:30:00",
+      "stage": "Mobilis"
+    },
+    {
+      "title": "Dressed Like Boys",
+      "date": "2026-08-15T18:30:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Kitti Nagy, Carmen Chraim, Happeningfish, Amelia Jane Hunter",
+      "date": "2026-08-15T18:30:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "GBA Style: GBA Style fashion show",
+      "date": "2026-08-15T19:00:00",
+      "stage": "Magic Runway"
+    },
+    {
+      "title": "NKS",
+      "date": "2026-08-15T19:00:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Lucky Done Gone",
+      "date": "2026-08-15T19:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Tridiculous: The Show",
+      "date": "2026-08-15T19:15:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "Jorja Smith (party set)",
+      "date": "2026-08-15T19:15:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Charlotte Cardin",
+      "date": "2026-08-15T19:45:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Blahalouisiana",
+      "date": "2026-08-15T19:50:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Raasa",
+      "date": "2026-08-15T20:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Csinszka",
+      "date": "2026-08-15T20:00:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Oli Mathiesen with Lucy Lynch and Sharvon Mortimer",
+      "date": "2026-08-15T20:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Company XY",
+      "date": "2026-08-15T20:00:00",
+      "stage": "Le Grand Theatre"
+    },
+    {
+      "title": "Evening Elephants",
+      "date": "2026-08-15T20:00:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "Balazs V. Kiss",
+      "date": "2026-08-15T20:00:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "House of Circus - Carnivale Royale",
+      "date": "2026-08-15T20:30:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Akác",
+      "date": "2026-08-15T20:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Adis Is OK",
+      "date": "2026-08-15T21:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Skrillex",
+      "date": "2026-08-15T21:15:00",
+      "stage": "Main Stage"
+    },
+    {
+      "title": "Quimby",
+      "date": "2026-08-15T21:20:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Duckshell",
+      "date": "2026-08-15T21:30:00",
+      "stage": "The Buzz delivered by DHL"
+    },
+    {
+      "title": "fka.m4a (Jay Jackson)",
+      "date": "2026-08-15T22:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Next Level: Grandover",
+      "date": "2026-08-15T22:00:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Elefánt",
+      "date": "2026-08-15T22:00:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "TDJ",
+      "date": "2026-08-15T22:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Next Level: Dublic",
+      "date": "2026-08-15T22:45:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "IMMI V",
+      "date": "2026-08-15T22:45:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "CHROMA SOUND SYSTEM",
+      "date": "2026-08-15T22:45:00",
+      "stage": "Light Stage"
+    },
+    {
+      "title": "The Whale Street",
+      "date": "2026-08-15T23:00:00"
+    },
+    {
+      "title": "Don't Stop The Queen",
+      "date": "2026-08-15T23:00:00",
+      "stage": "Bacardí Stage"
+    },
+    {
+      "title": "Analog Balaton",
+      "date": "2026-08-15T23:00:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "HALASZ PETER (Peter Van Minden, Siblicity)",
+      "date": "2026-08-15T23:00:00",
+      "stage": "Le DÔME"
+    },
+    {
+      "title": "Recirquel",
+      "date": "2026-08-15T23:00:00",
+      "stage": "Le Grand Theatre"
+    },
+    {
+      "title": "Anybody Walking: Ballroom Magic",
+      "date": "2026-08-15T23:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "Báder Mari - Horváth Joci",
+      "date": "2026-08-15T23:00:00",
+      "stage": "Piros Pezsgő"
+    },
+    {
+      "title": "ZEP",
+      "date": "2026-08-15T23:00:00",
+      "stage": "VISA Live x dropYard"
+    },
+    {
+      "title": "Hamdi",
+      "date": "2026-08-15T23:30:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "u.r.trax",
+      "date": "2026-08-15T23:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Aserdus FireDance Company: Sparklingers",
+      "date": "2026-08-15T23:50:00",
+      "stage": "CIRQUE du SZIGET"
+    },
+    {
+      "title": "QUEST",
+      "date": "2026-08-16T00:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Soulwax",
+      "date": "2026-08-16T00:00:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Goro",
+      "date": "2026-08-16T00:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Midnight Cabaret",
+      "date": "2026-08-16T00:15:00",
+      "stage": "The Joker"
+    },
+    {
+      "title": "Sub Focus",
+      "date": "2026-08-16T00:30:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "SZIÁMI és a Vendégek & Ági és fiúk",
+      "date": "2026-08-16T01:00:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "Groove Generation",
+      "date": "2026-08-16T01:00:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Club Guy & Roni, Australasian Dance Collective, HIIIT & Boris Acket",
+      "date": "2026-08-16T01:00:00",
+      "stage": "Le Grand Theatre"
+    },
+    {
+      "title": "Anybody Walking: Ballroom Magic",
+      "date": "2026-08-16T01:00:00",
+      "stage": "Magic Mirror"
+    },
+    {
+      "title": "DJ MĂ-TA",
+      "date": "2026-08-16T01:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Patrick Mason",
+      "date": "2026-08-16T01:00:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "2manydjs (DJ Set)",
+      "date": "2026-08-16T01:30:00",
+      "stage": "Revolut Stage"
+    },
+    {
+      "title": "Dimension",
+      "date": "2026-08-16T01:45:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Shonky",
+      "date": "2026-08-16T02:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Hundred Sins",
+      "date": "2026-08-16T02:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Vasovski",
+      "date": "2026-08-16T02:30:00",
+      "stage": "Coca-Cola Stage"
+    },
+    {
+      "title": "Anetha",
+      "date": "2026-08-16T02:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Zomboy",
+      "date": "2026-08-16T03:00:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "Tüptürüp w/Rusty",
+      "date": "2026-08-16T03:00:00",
+      "stage": "Budapest Park Stage by Johnnie Walker"
+    },
+    {
+      "title": "SaberZ",
+      "date": "2026-08-16T03:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Pizza Amore & Switch Nollie",
+      "date": "2026-08-16T04:00:00",
+      "stage": "Arzenál x Turbina: Der Klub"
+    },
+    {
+      "title": "Flux Pavilion",
+      "date": "2026-08-16T04:00:00",
+      "stage": "BOLT Night Stage"
+    },
+    {
+      "title": "BELIAL",
+      "date": "2026-08-16T04:00:00",
+      "stage": "The Cypher by Friss"
+    },
+    {
+      "title": "Funk Tribu",
+      "date": "2026-08-16T04:30:00",
+      "stage": "Yettel Colosseum"
+    },
+    {
+      "title": "Shaymi",
+      "date": "2026-08-16T05:00:00",
+      "stage": "BOLT Night Stage"
+    }
+  ]
+}

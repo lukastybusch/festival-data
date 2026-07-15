@@ -9,7 +9,7 @@ Diese Datenschutzerklärung informiert dich über den Umgang mit Daten in der Ap
 
 **Verantwortlich:**
 Lukas Tybusch
-E-Mail: 
+E-Mail: support@forgehub.eu
 
 ## Kurzfassung
 
@@ -44,7 +44,7 @@ Wir können diese Datenschutzerklärung anpassen, wenn sich die App ändert. Die
 
 ## Kontakt
 
-Lukas Tybusch · MAIL
+Lukas Tybusch · support@forgehub.eu
 
 ---
 
@@ -56,7 +56,7 @@ This privacy policy explains how data is handled in the **Festival Countdown** a
 
 **Controller:**
 Lukas Tybusch
-Email: 
+Email: support@forgehub.eu
 
 ## Summary
 
@@ -91,4 +91,4 @@ We may update this privacy policy as the App changes. The current version is alw
 
 ## Contact
 
-Lukas Tybsuch · MAIL
+Lukas Tybsuch · support@forgehub.eu

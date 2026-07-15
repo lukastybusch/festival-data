@@ -1,0 +1,617 @@
+{
+  "id": "way-out-west-2026",
+  "name": "Way Out West",
+  "location": "Gothenburg, SE",
+  "genre": "Indie / Pop",
+  "startDate": "2026-08-13",
+  "endDate": "2026-08-15",
+  "color": "#141018",
+  "accent": "#FF4D8D",
+  "schedule": [
+    {
+      "title": "Mattias El Mansouri",
+      "date": "2026-08-13",
+      "stage": "Dungen Stage"
+    },
+    {
+      "title": "Roni",
+      "date": "2026-08-13",
+      "stage": "Dungen Stage"
+    },
+    {
+      "title": "Alessi Rose",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Anna von Hausswolff",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Arthur Verocai",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Ben UFO",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "COBRAH",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Clipse",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "DJ Boring",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "DJ Gigola",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "David Ritschard",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Dove Ellis",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "HiTech",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Jehnny Beth",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Kasino",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Lily Allen",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Moby",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Oklou",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "The xx",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Yaeger",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Zara Larsson",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Σtella",
+      "date": "2026-08-13",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Agitator",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Andreas Tilliander & Goran Kajfeš",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Bricknasty",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Earl Sweatshirt",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Freak Slug",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Hayeminol",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "James Yorkston & Johanna Söderberg",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Kid08",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Knut€",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Mietze Conte",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "My New Band Believe",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Ninajirachi",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Thaiboy Digital",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "The Alchemist",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Tyler Ballgame",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Weatherday",
+      "date": "2026-08-13",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Anish Kumar",
+      "date": "2026-08-14",
+      "stage": "Dungen Stage"
+    },
+    {
+      "title": "Anna-My B2B MOLØ",
+      "date": "2026-08-14",
+      "stage": "Dungen Stage"
+    },
+    {
+      "title": "Hanna Ojanen",
+      "date": "2026-08-14",
+      "stage": "Dungen Stage"
+    },
+    {
+      "title": "Kim Öhman",
+      "date": "2026-08-14",
+      "stage": "Dungen Stage"
+    },
+    {
+      "title": "Annahstasia",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Ash Lauryn",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Blood Orange",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Bonnie “Prince” Billy",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Dijon",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Fcukers",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Four Tet",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Geese",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Jalen Ngonda",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Killen. (DJ-set)",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Lambrini Girls",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Lykke Li",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "MC Yallah & Debmaster",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Nektar",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Nick Cave & The Bad Seeds",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Nu Genea",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Qendresa",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Ravyn Lenae",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Rochelle Jordan",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Saoirse B2B Leon Vynehall",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Sara Parkman",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Son Rompe Pera",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "The Cure",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "The Hives",
+      "date": "2026-08-14",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Agnes",
+      "date": "2026-08-14",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Dgeral",
+      "date": "2026-08-14",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Elise Elvira",
+      "date": "2026-08-14",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Esther",
+      "date": "2026-08-14",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Fanny Avonne",
+      "date": "2026-08-14",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Greg Freeman",
+      "date": "2026-08-14",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Honey Dijon",
+      "date": "2026-08-14",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Josh Caffé",
+      "date": "2026-08-14",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Melody’s Echo Chamber",
+      "date": "2026-08-14",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "ORKID",
+      "date": "2026-08-14",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Radio Free Alice",
+      "date": "2026-08-14",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Sailor Honeymoon",
+      "date": "2026-08-14",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Sharp Pins",
+      "date": "2026-08-14",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Småland",
+      "date": "2026-08-14",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Sven Wunder",
+      "date": "2026-08-14",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Daesta",
+      "date": "2026-08-15",
+      "stage": "Dungen Stage"
+    },
+    {
+      "title": "Main Phase",
+      "date": "2026-08-15",
+      "stage": "Dungen Stage"
+    },
+    {
+      "title": "Parsa",
+      "date": "2026-08-15",
+      "stage": "Dungen Stage"
+    },
+    {
+      "title": "Anoushka Shankar",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Celeste",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Current Joys",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Ezra Collective",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Gorillaz",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Hannes",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Joshua Idehen",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Kettama",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Lorde",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Maribou State",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Mohajer",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Peder Mannerfelt",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Raghd",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "S-candalo",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Smerz",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Svart Ridå",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Swank Mami",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Terra",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "The Magnolia",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Veronica Maggio",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "Wilco",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "sombr",
+      "date": "2026-08-15",
+      "stage": "Slottsskogen"
+    },
+    {
+      "title": "9entle",
+      "date": "2026-08-15",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "A Good Year",
+      "date": "2026-08-15",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Bleech 9:3",
+      "date": "2026-08-15",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Cockhouse",
+      "date": "2026-08-15",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Hannah Cohen",
+      "date": "2026-08-15",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Iceage",
+      "date": "2026-08-15",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "James K",
+      "date": "2026-08-15",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Jane Remover",
+      "date": "2026-08-15",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Les Big Byrd",
+      "date": "2026-08-15",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Mami Umami",
+      "date": "2026-08-15",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Olga Myko",
+      "date": "2026-08-15",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Supermodel*",
+      "date": "2026-08-15",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Sylvie’s Head",
+      "date": "2026-08-15",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "The Passion Tax",
+      "date": "2026-08-15",
+      "stage": "Stay Out West"
+    },
+    {
+      "title": "Westside Cowboy",
+      "date": "2026-08-15",
+      "stage": "Stay Out West"
+    }
+  ]
+}

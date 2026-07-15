@@ -1,0 +1,408 @@
+{
+  "id": "about-you-pangea-festival-2026",
+  "name": "About You Pangea Festival",
+  "location": "Pütnitz an der See, DE",
+  "genre": "Pop / Hip-Hop",
+  "startDate": "2026-08-06",
+  "endDate": "2026-08-09",
+  "color": "#0F172A",
+  "accent": "#F97316",
+  "schedule": [
+    {
+      "title": "Ali E",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Ceren",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "EllA",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Hinterlandgang",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "KAFFKIEZ",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "karete bu",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "MHP",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Mika Noé",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "MilleniumKid",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "NINO",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "TEMMIS",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "WILDERÍCH",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Yung Ak",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "BABA THE KNIFE",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Bernie & Erndt",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Big Time Crush",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Brise",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Corios",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "DJ BIG SIP",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "DJ GIGI",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Etiennette",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "F Gang",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Fabian Schall",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "femmzy",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Filow",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "FREDDY",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Giant Rooks",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Goyanu",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Hannie Phi",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "herbst",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Hop'n Honey",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Janis Zielinski",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Joje",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "KYÇYC",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Laura Nahr",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Laurenz Nikolaus",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "LIRICA",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Lowrenzo",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Magda",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Nadine",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Neomint",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "panicbaby",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Paraçek",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "RANGØ B2B HANS HAMMER",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "RaverPik",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Ritter Lean",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Sam Aroha",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "sarah4k",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "SURREAL B2B SVEN",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "The Jakob Sister",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Urem",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "yung pepp",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "AEREA Live",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Antja",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Bad Boombox",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Bonjour Ben",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "BUNT.",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "DILLA",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "DJ Hyperdrive B2B Mija",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Djill.wav",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Faster Disaster",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Flora",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Franz-Frühlicht",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "FREDRIK",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "future.666",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "IKKIMEL",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "JOHANNES ALBERT",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Kasi",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "KIARABABA",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Kuestenklatsch",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Lindkeks",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "lovehead",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "MARI OVER",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Maryline K",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Moonbootica",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "NAOMI",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Ouhana",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "PA69",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Paula (DNB)",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Peet.Flower",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Renard",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Rob Banana",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Roman Adam",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Schepperkörner",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Souly",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Sunshinespice",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Teenage Mutants",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "TTT",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Überhaupt & Außerdem",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "VAUH",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "YSKA&LENN.ART",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Benjebeng",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "CARGO",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "DJ CRINGEY",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "DJ DRECKISCH",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Ephy Pinkman",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Sabu!",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Schrotthagen",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Zackavelli",
+      "date": "2026-08-09"
+    }
+  ]
+}

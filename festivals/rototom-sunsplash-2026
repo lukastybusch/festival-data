@@ -1,0 +1,1064 @@
+{
+  "id": "rototom-sunsplash-2026",
+  "name": "Rototom Sunsplash",
+  "location": "Benicàssim, ES",
+  "genre": "Reggae",
+  "startDate": "2026-08-16",
+  "endDate": "2026-08-22",
+  "color": "#0B2E1A",
+  "accent": "#FDB813",
+  "schedule": [
+    {
+      "title": "Dj FAKE GUIDO",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "GOOD OVER EVIL",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "GREENLIGHT",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "IYAMAN PABLO & Irie Reggae Vibes",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "LEON Selector",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "MOUNTAIN TOPS",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "OTO old school jungle",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "SOTABOSC",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "ALPHA BLONDY & The Solar System",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "ALPHEUS",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "ATLAS Sound",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Abdul Basit",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "BABABOOM Hi-Fi",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Betty Roca Hubbauer",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Circo Diverso",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "David Katz",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Del Camp a la Taula",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Dj DOUDS",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Dj LILAS",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Doudou Nganga",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Ellen Köhlings",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Espai de Circ",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Fundación Villarreal CF",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "GOLD UP",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "HOLLIE COOK",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "JIMI LIONS",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "JULES I",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "KART SELEKTO",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "KING EARTHQUAKE",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "LA UNION",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "LAS NINYAS DEL CORRO",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "LUCIANO & Jah Messenjah Band",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Laia Molina",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "MO ALI & The Islamic Roots",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "MR VEGAS",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Mouv'Ment Dancer'Z",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "P. MONTANA",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Pendrafoc",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Pete Lilly",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Pier Tosi",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Pájaros al Viento",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "QUEEN OMEGA & The Royal Souls",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "R-Evolution School",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "RAGGAMURI",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Ras Ibi",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Ras Julio",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Sergi Pitarch",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "THE SKATALITES",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Witos Selekta (Urban Corner)",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "YOUTHICAL VYBZ",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Zineb Rimi",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Álvaro Pascual-Leone",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "ALPHA BLONDY & The Solar System",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "ALPHA STEPPA",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Abdul Basit",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "BIGA*RANX",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "BLACK OMOLO",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "BOQUERONIANS",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Baraka Circ",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "CALABASH Crew",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "CHARLY BLACK",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Circo Diverso",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "DRE TALA",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "David Katz",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Dj DOUDS",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Elga Molina",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Ellen Köhlings",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Em_Gyal",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Erol Urbà",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Espai de Circ",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Fundación Villarreal CF",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "GREENLIGHT",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Isabel Vergara",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "JAH SOUND International",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "JAÏ MIZIK FOR LOVE",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "JIMI LIONS",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Josele Ska",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "LION'S DEN",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "LYDIE THE DJETTE",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Let's Grow",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Llavors d'Ací",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "MAJOR LAZER Soundsystem",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "María Prado",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Moha Gerehou",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "OYOFE",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Pete Lilly",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Pier Tosi",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "QUEEN OMEGA & The Royal Souls",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "R-Evolution School",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Ras Ibi",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Ras Julio",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "SERIOUS THING",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "THE ITALS & The Roots Radics",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "THK",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "TWAN TEE",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "YAKKAS",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Zineb Rimi",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "1988 RECORDS",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Ameba Teatre",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "BAMBY",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "BURNIN FYAH",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Carampa",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Circo Diverso",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "DAVOJAH",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "DUB INC",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "David Katz",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Dj DOUDS",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Dj LILAS",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Dj MAC",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "ESKORZO",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Ellen Köhlings",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Erol Urbà",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Espai de Circ",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Francisco Vera",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Fundación Villarreal CF",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "G-5 ft Kiko Veneno, Muchachito...",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "HIGH LEGAL BROTHERS",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "ISRAEL VIBRATION & The Roots Radics",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "JIMI LIONS",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "KHARLOSS Selektah",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Let's Grow",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Llavors d'Ací",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Lyroï (Féwoss Squad)",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "María José Parejo",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "NGOMEZ NOKASS",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "OMAR PERRY",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "OUMAR NGOM",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Pete Lilly",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Pier Tosi",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Pájaros al Viento",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "R-Evolution School",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "RISING FYAH",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Ras Ibi",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Ras Julio",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "SERENA",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "SKANK 45",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "THE ITALS & The Roots Radics",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Vandana Shiva",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Zineb Rimi",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "ADRIANA ROGAN",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "AFROCALL",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "ANDRÉS COTTER",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Afrodiccionario",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "BUSHMAN & The Grassroots Band",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "CHUSTERFIELD",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "COOKAH P",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "COSTA RICA CREW",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Circo Diverso",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Colectivo Soré",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "DON MIMI",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "DRE TALA",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "DUB DAWA",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "DUBCHAINED",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "David Katz",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Dj DOUDS",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Doudou Nganga",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Ellen Köhlings",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Espai de Circ",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Fundación Villarreal CF",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "GREENLIGHT",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "ILAN AMORES",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "ISRAEL VIBRATION & The Roots Radics",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "JIMI LIONS",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "JUDY",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Juan Bordera",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "KANO SUNSAY",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "KHARLOSS Selektah",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "KING MAGNETO",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "KING REYES",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "LASAI",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "LEGENDARIO",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "MISTAH GODEH",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "MORODO",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Makuriya",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Miss Rose",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "NGOMEZ NOKASS",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "OMEGA NEBULA",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "PEPE BAO",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "PURE NEGGA",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Pete Lilly",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Pier Tosi",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "RICKROCKET",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Ras Ibi",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Ras Julio",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Rokhaya Diallo",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "SHENSEEA",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "TIANO BLESS",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "TONY MATTERHORN",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "TWINKLE BROTHERS",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "WAKANDA QUEEN",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "YANISS ODUA",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "YOGHI BAMBA",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Zineb Rimi",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "BENJI ROOTS",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "BLEU SOLEIL",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "BUSHMAN & The Grassroots Band",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Batalla de Promesas",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Brotsanbert",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Circo Diverso",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "DRUM.D",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "David Katz",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Dj DOUDS",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Ellen Köhlings",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Em_Gyal",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Espai de Circ",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Fatu Africangyal",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Fundación Villarreal CF",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "HIGHER MEDITATION",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "ITAL POWER",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "JAVS",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "JIMI LIONS",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "KING ADDIES",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "LADY LESHURR",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "MACKA B",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "MASIA ONE",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "MOUNTAIN HIGH",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Makuriya",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Miss Rose",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "NATALIA DOCO",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "PROTOJE & The Indiggnation",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Pete Lilly",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Pier Tosi",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Pájaros al Viento",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "R-Evolution School",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "RED LAND ft Hugo Otto & Jaime Budokai",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "ROYAL VIBES",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Ras Ibi",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Ras Julio",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "SUZETE",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "TWINKLE BROTHERS",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Zineb Rimi",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "BLACKBOARD JUNGLE",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Batalla de Promesas",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Biodanza Valencia",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Circo Diverso",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "DIRTY RAW",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "DJ BLUE Teamblue",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "DREYA",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Dj DOUDS",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Dj WILL",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Doudou Nganga",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Espai de Circ",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Fatu Africangyal",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Fundación Villarreal CF",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "GREENTEA PENG",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "JAVS",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "JEA",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "JIMI LIONS",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Javi Javichy",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "KYBBA",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "LIA KALI",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "LOS GUARDIANES DE GREGORY ft Rey & Quena",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "MARKY LYRICAL",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "MASIA ONE",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Mouv'Ment Dancer'Z",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "R-Evolution School",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "RAS DIGBY",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "REGGAE TIME Sound",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "ROWSI & The Cozys",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "TARRACO REGGAE",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Víctor Barreda",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "YELLA SKY",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Zineb Rimi",
+      "date": "2026-08-22"
+    }
+  ]
+}

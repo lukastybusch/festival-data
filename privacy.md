@@ -5,7 +5,7 @@ title: Datenschutz
 
 _Stand: 14.07.2026_
 
-Diese Datenschutzerklärung informiert dich über den Umgang mit Daten in der App **Festival Countdown** („die App").
+Diese Datenschutzerklärung informiert dich über den Umgang mit Daten in der App **Festdays** („die App").
 
 **Verantwortlich:**
 Lukas Tybusch
@@ -52,7 +52,7 @@ Lukas Tybusch · support@forgehub.eu
 
 _Last updated: 14.07.2026_
 
-This privacy policy explains how data is handled in the **Festival Countdown** app ("the App").
+This privacy policy explains how data is handled in the **Festdays** app ("the App").
 
 **Controller:**
 Lukas Tybusch

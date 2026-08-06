@@ -1,31 +1,40 @@
-name: Merge festivals
+name: Build festivals.json
 
-# Fügt alle Dateien aus dem Ordner festivals/ automatisch zu festivals.json zusammen.
-# Datei-Pfad im Repo: .github/workflows/merge-festivals.yml
+# Baut aus series/, artists/, affiliate/, genres.json und festivals/ die
+# fertige festivals.json. Datei-Pfad im Repo: .github/workflows/merge-festivals.yml
 
 on:
   push:
     branches: [ main ]
-    paths: [ 'festivals/**' ]
+    paths:
+      - 'festivals/**'
+      - 'series/**'
+      - 'artists/**'
+      - 'affiliate/**'
+      - 'genres.json'
+      - 'build_festivals.py'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  merge:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Einzeldateien zu festivals.json zusammenführen
-        run: |
-          jq -s '{version: 1, festivals: [.[]]}' festivals/*.json > festivals.json
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: festivals.json bauen (Join)
+        run: python3 build_festivals.py
 
       - name: festivals.json committen (nur bei Änderung)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add festivals.json
-          git diff --staged --quiet || git commit -m "Auto-merge festivals.json"
+          git diff --staged --quiet || git commit -m "Auto-build festivals.json"
           git push

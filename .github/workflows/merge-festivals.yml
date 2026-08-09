@@ -1,7 +1,9 @@
-name: Build festivals.json
+name: Enrich + Build festivals.json
 
-# Baut aus series/, artists/, affiliate/, genres.json und festivals/ die
-# fertige festivals.json. Datei-Pfad im Repo: .github/workflows/merge-festivals.yml
+# Reichert artists/ automatisch via Spotify an und baut daraus festivals.json.
+# Datei-Pfad im Repo: .github/workflows/merge-festivals.yml
+# Spotify-Zugangsdaten als Repository-Secrets hinterlegen:
+#   SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET
 
 on:
   push:
@@ -12,8 +14,10 @@ on:
       - 'artists/**'
       - 'affiliate/**'
       - 'genres.json'
-      - 'build_festivals.py'
-  workflow_dispatch:
+      - '*.py'
+  schedule:
+    - cron: '0 4 * * 1'      # wöchentlich Montag 04:00 UTC – holt fehlende Bilder nach
+  workflow_dispatch:          # manuell startbar
 
 permissions:
   contents: write
@@ -28,13 +32,25 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Künstler via Spotify anreichern (optional)
+        continue-on-error: true          # Build läuft auch, wenn Spotify mal hakt
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        run: |
+          if [ -n "$SPOTIFY_CLIENT_ID" ]; then
+            python3 enrich_artists.py
+          else
+            echo "Keine Spotify-Secrets gesetzt – überspringe Anreicherung."
+          fi
+
       - name: festivals.json bauen (Join)
         run: python3 build_festivals.py
 
-      - name: festivals.json committen (nur bei Änderung)
+      - name: Änderungen committen (nur bei Änderung)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add festivals.json
-          git diff --staged --quiet || git commit -m "Auto-build festivals.json"
+          git add artists festivals.json
+          git diff --staged --quiet || git commit -m "Auto: Spotify-Anreicherung + Build"
           git push

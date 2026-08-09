@@ -1,1 +1,14 @@
-
+{
+  "id": "pangea",
+  "name": "Pangea Festival",
+  "location": "Pütnitz, DE",
+  "genre": "Festival",
+  "website": "https://www.aboutyoupangea-festival.de/",
+  "color": "#2E1065",
+  "accent": "#C084FC",
+  "info": {
+    "faq": "https://www.aboutyoupangea-festival.de/faqs/",
+    "instagram": "https://www.instagram.com/aboutyoupangeafestival/",
+    "map": "https://www.google.com/maps/search/Pangea+Festival+P%C3%BCtnitz"
+  }
+}

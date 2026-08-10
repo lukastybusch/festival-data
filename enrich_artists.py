@@ -1,19 +1,14 @@
 #!/usr/bin/env python3
 """
-Reichert artists/ automatisch mit Spotify-Daten an: Bild-URL, Spotify-Link,
-Genre-Vorschlag. Sammelt alle Künstlernamen aus festivals/*.json, sucht sie auf
-Spotify und schreibt/aktualisiert artists/<slug>.json.
-MANUELL gesetzte Felder bleiben erhalten (das Skript füllt nur Leeres auf).
+Reichert artists/ mit Spotify-Daten an: Bild-URL, Spotify-Link, Genre-Vorschlag.
+Sammelt Künstlernamen aus festivals/*.json, sucht sie auf Spotify und schreibt/
+aktualisiert artists/<slug>.json. Manuelle Felder bleiben erhalten; schon geprüfte
+Namen werden übersprungen (Re-Runs sind schnell).
 
-Voraussetzung: kostenlose Spotify-Developer-App → Client ID + Secret.
-Als Umgebungsvariablen setzen (NICHT im Code speichern!):
-
-    export SPOTIFY_CLIENT_ID=deine_id
-    export SPOTIFY_CLIENT_SECRET=dein_secret
-    python3 enrich_artists.py
-
-Spotify-Terms beachten: Bild-URLs nur referenzieren (nicht selbst re-hosten),
-Bilder nicht verändern, in der App "In Spotify öffnen" + Attribution zeigen.
+Env-Variablen setzen (nicht im Code speichern):
+    export SPOTIFY_CLIENT_ID=...
+    export SPOTIFY_CLIENT_SECRET=...
+    python3 -u enrich_artists.py
 """
 
 import os, re, glob, json, time, base64, sys
@@ -21,9 +16,12 @@ import urllib.parse, urllib.request, urllib.error
 
 CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
 CLIENT_SECRET = os.environ.get("SPOTIFY_CLIENT_SECRET")
-
 if not CLIENT_ID or not CLIENT_SECRET:
-    sys.exit("Bitte SPOTIFY_CLIENT_ID und SPOTIFY_CLIENT_SECRET als Umgebungsvariablen setzen.")
+    sys.exit("Bitte SPOTIFY_CLIENT_ID und SPOTIFY_CLIENT_SECRET setzen.")
+
+
+def log(*a):
+    print(*a, flush=True)          # sofort ausgeben, nicht puffern
 
 
 def get_token():
@@ -33,24 +31,31 @@ def get_token():
         "https://accounts.spotify.com/api/token", data=data,
         headers={"Authorization": f"Basic {auth}",
                  "Content-Type": "application/x-www-form-urlencoded"})
-    with urllib.request.urlopen(req) as r:
+    with urllib.request.urlopen(req, timeout=30) as r:
         return json.load(r)["access_token"]
 
 
-def search_artist(name, token):
+def search_artist(name, token, tries=3):
+    """Gibt (artist_dict_or_None, fehler_or_None) zurück – hängt NIE endlos."""
     q = urllib.parse.urlencode({"q": name, "type": "artist", "limit": 1})
     req = urllib.request.Request(
         f"https://api.spotify.com/v1/search?{q}",
         headers={"Authorization": f"Bearer {token}"})
-    try:
-        with urllib.request.urlopen(req) as r:
-            items = json.load(r).get("artists", {}).get("items", [])
-            return items[0] if items else None
-    except urllib.error.HTTPError as e:
-        if e.code == 429:                     # Rate-Limit → warten und erneut
-            time.sleep(int(e.headers.get("Retry-After", "2")) + 1)
-            return search_artist(name, token)
-        raise
+    for attempt in range(tries):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                items = json.load(r).get("artists", {}).get("items", [])
+                return (items[0] if items else None), None
+        except urllib.error.HTTPError as e:
+            if e.code == 429:                       # Rate-Limit → begrenzt warten
+                wait = min(int(e.headers.get("Retry-After", "5")), 30)
+                log(f"   429 Rate-Limit, warte {wait}s (Versuch {attempt+1}/{tries})")
+                time.sleep(wait + 1)
+                continue
+            return None, f"HTTP {e.code}"           # 401/403/… → nicht crashen
+        except Exception as e:
+            return None, str(e)
+    return None, "429 (aufgegeben)"
 
 
 def slug(name):
@@ -58,7 +63,7 @@ def slug(name):
     return s or "artist"
 
 
-# --- Künstlernamen aus allen Festivals sammeln ------------------------------
+# --- Namen sammeln ----------------------------------------------------------
 names = set()
 for p in glob.glob("festivals/*.json"):
     fest = json.load(open(p, encoding="utf-8"))
@@ -66,17 +71,32 @@ for p in glob.glob("festivals/*.json"):
         n = it.get("artist") or it.get("title")
         if n:
             names.add(n.strip())
+names = sorted(names)
+log(f"{len(names)} eindeutige Namen gefunden.")
 
+# --- Login + Selbsttest -----------------------------------------------------
+try:
+    token = get_token()
+    log("Spotify-Login OK.")
+except Exception as e:
+    sys.exit(f"Spotify-Login fehlgeschlagen: {e}")
+
+test, err = search_artist("Coldplay", token)
+if err:
+    log(f"WARNUNG: Selbsttest fehlgeschlagen ({err}). Zugriff evtl. eingeschränkt.")
+elif test and test.get("images"):
+    log("Selbsttest OK - Spotify liefert Kuenstlerbilder.")
+else:
+    log("WARNUNG: Selbsttest lieferte kein Bild - Zugriff evtl. eingeschraenkt.")
+
+# --- Anreichern -------------------------------------------------------------
 os.makedirs("artists", exist_ok=True)
-token = get_token()
-created = updated = skipped = 0
+created = updated = skipped = with_image = 0
 
-for name in sorted(names):
+for i, name in enumerate(names, 1):
     path = f"artists/{slug(name)}.json"
     existing = json.load(open(path, encoding="utf-8")) if os.path.exists(path) else {}
 
-    # Schon angereichert ODER schon erfolglos gesucht → API-Call sparen.
-    # Das macht Re-Runs schnell: nur der erste Lauf sucht wirklich alles.
     if existing.get("image") and existing.get("spotify"):
         skipped += 1
         continue
@@ -84,16 +104,17 @@ for name in sorted(names):
         skipped += 1
         continue
 
-    art = search_artist(name, token)
-    time.sleep(0.25)                           # sanft mit der Rate umgehen
+    art, err = search_artist(name, token)
+    time.sleep(0.2)
 
     data = dict(existing)
     data.setdefault("name", name)
-    data["spotifyChecked"] = True              # markieren → beim nächsten Lauf überspringen
+    data["spotifyChecked"] = True
     if art:
         imgs = art.get("images", [])
         if imgs and not data.get("image"):
-            data["image"] = imgs[0]["url"]     # größtes Bild
+            data["image"] = imgs[0]["url"]
+            with_image += 1
         sp = art.get("external_urls", {}).get("spotify")
         if sp and not data.get("spotify"):
             data["spotify"] = sp
@@ -101,12 +122,14 @@ for name in sorted(names):
         if genres:
             data.setdefault("spotifyGenres", genres)
             if not data.get("genre"):
-                data["genre"] = genres[0].title()   # Vorschlag – manuell überschreibbar
+                data["genre"] = genres[0].title()
 
     json.dump(data, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
-    print(("~ aktualisiert " if existing else "+ neu          ") + f"{name} → {path}")
-    updated += 1 if existing else 0
-    created += 0 if existing else 1
+    mark = "img" if data.get("image") else " - "
+    log(f"[{i}/{len(names)}] {mark}  {name}")
+    if existing:
+        updated += 1
+    else:
+        created += 1
 
-print(f"\nFertig: {created} neu, {updated} aktualisiert, {skipped} übersprungen.")
-print("Tipp: Genre-Vorschläge in artists/*.json ggf. auf deine Kategorien anpassen.")
+log(f"\nFertig: {created} neu, {updated} aktualisiert, {skipped} uebersprungen, {with_image} mit Bild.")

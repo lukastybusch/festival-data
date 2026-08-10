@@ -1,732 +1,936 @@
 {
   "id": "pukkelpop-2026",
-  "name": "Pukkelpop",
-  "location": "Hasselt, BE",
-  "genre": "Alternative",
+  "seriesId": "pukkelpop",
   "startDate": "2026-08-20",
   "endDate": "2026-08-23",
-  "color": "#14140F",
-  "accent": "#E5C100",
+  "ticket": {
+    "url": "https://tickets.pukkelpop.be/en/"
+  },
   "schedule": [
     {
-      "title": "Alice Mae",
-      "date": "2026-08-20"
+      "artist": "Adriatique",
+      "date": "2026-08-22T00:00:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Andromedik pres. Ascension",
-      "date": "2026-08-20"
+      "artist": "Adéla",
+      "date": "2026-08-23T13:30:00",
+      "stage": "Wave"
     },
     {
-      "title": "Antoon",
-      "date": "2026-08-20"
+      "artist": "Aili & Orson",
+      "date": "2026-08-22T20:00:00",
+      "stage": "Lift"
     },
     {
-      "title": "Arter",
-      "date": "2026-08-20"
+      "artist": "Alessi Rose",
+      "date": "2026-08-21T14:50:00",
+      "stage": "Wave"
     },
     {
-      "title": "BOY&GIRL",
-      "date": "2026-08-20"
+      "artist": "Alice Mae",
+      "date": "2026-08-20T20:40:00",
+      "stage": "Club"
     },
     {
-      "title": "BRUX",
-      "date": "2026-08-20"
+      "artist": "Amyl and The Sniffers",
+      "date": "2026-08-22T22:10:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Bloody Bloody Kempen",
-      "date": "2026-08-20"
+      "artist": "Andromedik pres. Ascension",
+      "date": "2026-08-21T00:20:00",
+      "stage": "Wave"
     },
     {
-      "title": "CRACKUPS",
-      "date": "2026-08-20"
+      "artist": "Antoon",
+      "date": "2026-08-20T22:20:00",
+      "stage": "Wave"
     },
     {
-      "title": "Discohans",
-      "date": "2026-08-20"
+      "artist": "Apparat",
+      "date": "2026-08-22T23:15:00",
+      "stage": "Club"
     },
     {
-      "title": "Flavour Drop",
-      "date": "2026-08-20"
+      "artist": "Aroh DJ b2b Otis",
+      "date": "2026-08-22T02:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Flo Windey & Laurens Luyten",
-      "date": "2026-08-20"
+      "artist": "Arter",
+      "date": "2026-08-20T20:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Gull House",
-      "date": "2026-08-20"
+      "artist": "Audrey Hobert",
+      "date": "2026-08-21T16:40:00",
+      "stage": "Wave"
     },
     {
-      "title": "Hakimm",
-      "date": "2026-08-20"
+      "artist": "Audrey Nuna",
+      "date": "2026-08-23T17:15:00",
+      "stage": "Wave"
     },
     {
-      "title": "Hindu Radio DJ's",
-      "date": "2026-08-20"
+      "artist": "Basement",
+      "date": "2026-08-21T20:35:00",
+      "stage": "Backyard"
     },
     {
-      "title": "Hoge Druk",
-      "date": "2026-08-20"
+      "artist": "Baxter Dury",
+      "date": "2026-08-23T20:30:00",
+      "stage": "Club"
     },
     {
-      "title": "Isaac Roux",
-      "date": "2026-08-20"
+      "artist": "Bazart",
+      "date": "2026-08-23T16:10:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "JEKKAMAÏ",
-      "date": "2026-08-20"
+      "artist": "Becky Hill",
+      "date": "2026-08-21T15:40:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "KABOUTERTJE PUTLUCHT",
-      "date": "2026-08-20"
+      "artist": "Bella Claxton",
+      "date": "2026-08-23T21:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Lenny Lenny",
-      "date": "2026-08-20"
+      "artist": "Betical",
+      "date": "2026-08-21T18:00:00",
+      "stage": "Boiler"
     },
     {
-      "title": "MEAU",
-      "date": "2026-08-20"
+      "artist": "Bibi Seck",
+      "date": "2026-08-23T02:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Maraschino",
-      "date": "2026-08-20"
+      "artist": "BLOND:ISH",
+      "date": "2026-08-21T21:00:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Mula",
-      "date": "2026-08-20"
+      "artist": "Blood Orange",
+      "date": "2026-08-23T19:25:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Nona Van Braeckel",
-      "date": "2026-08-20"
+      "artist": "Bloody Bloody Kempen",
+      "date": "2026-08-20T22:20:00",
+      "stage": "Backyard"
     },
     {
-      "title": "ROW1",
-      "date": "2026-08-20"
+      "artist": "BLUAI",
+      "date": "2026-08-23T13:25:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Susobrino",
-      "date": "2026-08-20"
+      "artist": "BOY&GIRL",
+      "date": "2026-08-20T23:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Unregular",
-      "date": "2026-08-20"
+      "artist": "BRUX",
+      "date": "2026-08-20T19:00:00",
+      "stage": "Wave"
     },
     {
-      "title": "Waltur",
-      "date": "2026-08-20"
+      "artist": "Bullet Tooth",
+      "date": "2026-08-23T00:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "dEUS",
-      "date": "2026-08-20"
+      "artist": "Camille Yembe",
+      "date": "2026-08-21T13:55:00",
+      "stage": "Club"
     },
     {
-      "title": "Adriatique",
-      "date": "2026-08-21"
+      "artist": "Captain Comedy's All Stars",
+      "date": "2026-08-21T12:50:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Alessi Rose",
-      "date": "2026-08-21"
+      "artist": "Casper Cox",
+      "date": "2026-08-23T14:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Aroh DJ b2b Otis",
-      "date": "2026-08-21"
+      "artist": "Charlotte Adigéry & Bolis Pupul",
+      "date": "2026-08-21T18:35:00",
+      "stage": "Wave"
     },
     {
-      "title": "Audrey Hobert",
-      "date": "2026-08-21"
+      "artist": "CHAT PILE",
+      "date": "2026-08-23T21:40:00",
+      "stage": "Backyard"
     },
     {
-      "title": "BLOND:ISH",
-      "date": "2026-08-21"
+      "artist": "Chloe Qisha",
+      "date": "2026-08-21T18:40:00",
+      "stage": "Lift"
     },
     {
-      "title": "Basement",
-      "date": "2026-08-21"
+      "artist": "Chris Stussy Linger A/V show",
+      "date": "2026-08-23T19:20:00",
+      "stage": "Wave"
     },
     {
-      "title": "Becky Hill",
-      "date": "2026-08-21"
+      "artist": "CRACKUPS",
+      "date": "2026-08-20T20:40:00",
+      "stage": "Backyard"
     },
     {
-      "title": "Betical",
-      "date": "2026-08-21"
+      "artist": "Deafheaven",
+      "date": "2026-08-22T20:00:00",
+      "stage": "Backyard"
     },
     {
-      "title": "Camille Yembe",
-      "date": "2026-08-21"
+      "artist": "Dean Turnley",
+      "date": "2026-08-22T18:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Charlotte Adigéry & Bolis Pupul",
-      "date": "2026-08-21"
+      "artist": "Deftones",
+      "date": "2026-08-22T21:05:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "Chloe Qisha",
-      "date": "2026-08-21"
+      "artist": "Denzel Curry",
+      "date": "2026-08-23T17:15:00",
+      "stage": "Marquee"
     },
     {
-      "title": "DIKKE",
-      "date": "2026-08-21"
+      "artist": "dEUS",
+      "date": "2026-08-20T23:10:00",
+      "stage": "Marquee"
     },
     {
-      "title": "DJ St. Paul",
-      "date": "2026-08-21"
+      "artist": "Dijon",
+      "date": "2026-08-22T20:00:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Djo",
-      "date": "2026-08-21"
+      "artist": "DIKKE",
+      "date": "2026-08-21T13:50:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "Earl Sweatshirt & Mike",
-      "date": "2026-08-21"
+      "artist": "Dimension",
+      "date": "2026-08-23T21:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Feverchild",
-      "date": "2026-08-21"
+      "artist": "Discohans",
+      "date": "2026-08-20T18:00:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Fiddlehead",
-      "date": "2026-08-21"
+      "artist": "DIW-VOORMIDDAGSOIRÉE DEEL 2",
+      "date": "2026-08-23T11:45:00",
+      "stage": "Wave"
     },
     {
-      "title": "Geese",
-      "date": "2026-08-21"
+      "artist": "Djo",
+      "date": "2026-08-21T19:35:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "Hudson Freeman",
-      "date": "2026-08-21"
+      "artist": "DJ St. Paul",
+      "date": "2026-08-22T01:10:00",
+      "stage": "Club"
     },
     {
-      "title": "IJSLAND",
-      "date": "2026-08-21"
+      "artist": "Dom Dolla",
+      "date": "2026-08-23T00:45:00",
+      "stage": "Wave"
     },
     {
-      "title": "Jalen Ngonda",
-      "date": "2026-08-21"
+      "artist": "Dove Ellis",
+      "date": "2026-08-22T13:30:00",
+      "stage": "Club"
     },
     {
-      "title": "Jane Remover",
-      "date": "2026-08-21"
+      "artist": "Earl Sweatshirt & Mike",
+      "date": "2026-08-21T21:40:00",
+      "stage": "Club"
     },
     {
-      "title": "Jazzy",
-      "date": "2026-08-21"
+      "artist": "Eefje de Visser",
+      "date": "2026-08-23T15:15:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Jeroen Delodder",
-      "date": "2026-08-21"
+      "artist": "Elmer",
+      "date": "2026-08-22T18:55:00",
+      "stage": "Club"
     },
     {
-      "title": "John Summit",
-      "date": "2026-08-21"
+      "artist": "Eppo Janssen & Friends",
+      "date": "2026-08-23T00:45:00",
+      "stage": "Club"
     },
     {
-      "title": "Joy Orbison",
-      "date": "2026-08-21"
+      "artist": "FAISAL",
+      "date": "2026-08-24T00:00:00",
+      "stage": "Boiler"
     },
     {
-      "title": "KI/KI",
-      "date": "2026-08-21"
+      "artist": "Fenrick",
+      "date": "2026-08-24T00:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Kelis",
-      "date": "2026-08-21"
+      "artist": "Feverchild",
+      "date": "2026-08-21T13:05:00",
+      "stage": "Backyard"
     },
     {
-      "title": "Kevin Kofii",
-      "date": "2026-08-21"
+      "artist": "Fiddlehead",
+      "date": "2026-08-21T18:35:00",
+      "stage": "Backyard"
     },
     {
-      "title": "KŌMA b2b shoplifter",
-      "date": "2026-08-21"
+      "artist": "Flavour Drop",
+      "date": "2026-08-21T01:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Lambrini Girls",
-      "date": "2026-08-21"
+      "artist": "Florence + The Machine",
+      "date": "2026-08-22T23:15:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "Major Lazer",
-      "date": "2026-08-21"
+      "artist": "Flo Windey & Laurens Luyten",
+      "date": "2026-08-21T03:00:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Mala",
-      "date": "2026-08-21"
+      "artist": "Funk Tribu",
+      "date": "2026-08-22T23:00:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Maria Iskariot",
-      "date": "2026-08-21"
+      "artist": "Geese",
+      "date": "2026-08-21T20:35:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Maribou State",
-      "date": "2026-08-21"
+      "artist": "Getdown Services",
+      "date": "2026-08-23T21:35:00",
+      "stage": "Lift"
     },
     {
-      "title": "Merol",
-      "date": "2026-08-21"
+      "artist": "Greg Freeman",
+      "date": "2026-08-22T14:20:00",
+      "stage": "Lift"
     },
     {
-      "title": "Ninajirachi",
-      "date": "2026-08-21"
+      "artist": "Gull House",
+      "date": "2026-08-20T19:00:00",
+      "stage": "Backyard"
     },
     {
-      "title": "Nxdia",
-      "date": "2026-08-21"
+      "artist": "Gurriers",
+      "date": "2026-08-22T15:10:00",
+      "stage": "Club"
     },
     {
-      "title": "Osayuki",
-      "date": "2026-08-21"
+      "artist": "Hakimm",
+      "date": "2026-08-20T20:00:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Re-Type",
-      "date": "2026-08-21"
+      "artist": "Hindu Radio DJ's",
+      "date": "2026-08-21T01:35:00",
+      "stage": "Club"
     },
     {
-      "title": "Roxy Dekker",
-      "date": "2026-08-21"
+      "artist": "Hoge Druk",
+      "date": "2026-08-20T18:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Sef",
-      "date": "2026-08-21"
+      "artist": "Hudson Freeman",
+      "date": "2026-08-21T15:45:00",
+      "stage": "Club"
     },
     {
-      "title": "Soulwax",
-      "date": "2026-08-21"
+      "artist": "IJSLAND",
+      "date": "2026-08-21T19:30:00",
+      "stage": "Club"
     },
     {
-      "title": "Stick To Your Guns",
-      "date": "2026-08-21"
+      "artist": "ILA",
+      "date": "2026-08-23T12:35:00",
+      "stage": "Club"
     },
     {
-      "title": "Supermodel*",
-      "date": "2026-08-21"
+      "artist": "Isaac Roux",
+      "date": "2026-08-20T19:45:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Surusinghe",
-      "date": "2026-08-21"
+      "artist": "Iskander Moon",
+      "date": "2026-08-23T11:55:00",
+      "stage": "Marquee"
     },
     {
-      "title": "The Hives",
-      "date": "2026-08-21"
+      "artist": "Jalen Ngonda",
+      "date": "2026-08-21T14:50:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Turnstile",
-      "date": "2026-08-21"
+      "artist": "Jane Remover",
+      "date": "2026-08-21T22:45:00",
+      "stage": "Lift"
     },
     {
-      "title": "Uwase",
-      "date": "2026-08-21"
+      "artist": "Jarreau Vandal",
+      "date": "2026-08-23T17:45:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Wednesday",
-      "date": "2026-08-21"
+      "artist": "Jazzy",
+      "date": "2026-08-21T19:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Wild Classical Music Ensemble",
-      "date": "2026-08-21"
+      "artist": "JEKKAMAÏ",
+      "date": "2026-08-20T23:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "YUNGBLUD",
-      "date": "2026-08-21"
+      "artist": "Jeroen Delodder",
+      "date": "2026-08-22T02:00:00",
+      "stage": "Boiler"
     },
     {
-      "title": "juwlz",
-      "date": "2026-08-21"
+      "artist": "John Summit",
+      "date": "2026-08-21T22:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Aili & Orson",
-      "date": "2026-08-22"
+      "artist": "Josh Baker",
+      "date": "2026-08-22T22:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Amyl and The Sniffers",
-      "date": "2026-08-22"
+      "artist": "Joy Orbison",
+      "date": "2026-08-22T00:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Apparat",
-      "date": "2026-08-22"
+      "artist": "JPEGMAFIA",
+      "date": "2026-08-22T22:10:00",
+      "stage": "Backyard"
     },
     {
-      "title": "Bibi Seck",
-      "date": "2026-08-22"
+      "artist": "juwlz",
+      "date": "2026-08-21T14:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Bullet Tooth",
-      "date": "2026-08-22"
+      "artist": "KABOUTERTJE PUTLUCHT",
+      "date": "2026-08-21T00:20:00",
+      "stage": "Club"
     },
     {
-      "title": "Deafheaven",
-      "date": "2026-08-22"
+      "artist": "Kelis",
+      "date": "2026-08-21T18:35:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Dean Turnley",
-      "date": "2026-08-22"
+      "artist": "KELS",
+      "date": "2026-08-23T15:15:00",
+      "stage": "Lift"
     },
     {
-      "title": "Deftones",
-      "date": "2026-08-22"
+      "artist": "KETTAMA",
+      "date": "2026-08-22T20:00:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Dijon",
-      "date": "2026-08-22"
+      "artist": "Kevin Kofii",
+      "date": "2026-08-21T16:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Dom Dolla",
-      "date": "2026-08-22"
+      "artist": "KI/KI",
+      "date": "2026-08-22T01:00:00",
+      "stage": "Wave"
     },
     {
-      "title": "Dove Ellis",
-      "date": "2026-08-22"
+      "artist": "Kids With Buns",
+      "date": "2026-08-22T13:30:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "Elmer",
-      "date": "2026-08-22"
+      "artist": "Kurt Vile & The Violators",
+      "date": "2026-08-23T22:50:00",
+      "stage": "Club"
     },
     {
-      "title": "Eppo Janssen & Friends",
-      "date": "2026-08-22"
+      "artist": "Kölsch live",
+      "date": "2026-08-22T22:10:00",
+      "stage": "Wave"
     },
     {
-      "title": "Florence + The Machine",
-      "date": "2026-08-22"
+      "artist": "KŌMA b2b shoplifter",
+      "date": "2026-08-21T18:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Funk Tribu",
-      "date": "2026-08-22"
+      "artist": "Lambrini Girls",
+      "date": "2026-08-21T23:55:00",
+      "stage": "Club"
     },
     {
-      "title": "Greg Freeman",
-      "date": "2026-08-22"
+      "artist": "LAURAVIOLI",
+      "date": "2026-08-22T16:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Gurriers",
-      "date": "2026-08-22"
+      "artist": "Leisure",
+      "date": "2026-08-22T18:00:00",
+      "stage": "Lift"
     },
     {
-      "title": "JPEGMAFIA",
-      "date": "2026-08-22"
+      "artist": "Lenny Lenny",
+      "date": "2026-08-20T19:00:00",
+      "stage": "Club"
     },
     {
-      "title": "Josh Baker",
-      "date": "2026-08-22"
+      "artist": "LENS",
+      "date": "2026-08-23T19:00:00",
+      "stage": "Boiler"
     },
     {
-      "title": "KETTAMA",
-      "date": "2026-08-22"
+      "artist": "Lous and the Yakuza",
+      "date": "2026-08-22T18:00:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Kids With Buns",
-      "date": "2026-08-22"
+      "artist": "Love Spells",
+      "date": "2026-08-22T16:05:00",
+      "stage": "Lift"
     },
     {
-      "title": "Kölsch live",
-      "date": "2026-08-22"
+      "artist": "Maan",
+      "date": "2026-08-22T14:20:00",
+      "stage": "Wave"
     },
     {
-      "title": "LAURAVIOLI",
-      "date": "2026-08-22"
+      "artist": "Major Lazer",
+      "date": "2026-08-21T17:35:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "Leisure",
-      "date": "2026-08-22"
+      "artist": "Mala",
+      "date": "2026-08-21T20:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Lous and the Yakuza",
-      "date": "2026-08-22"
+      "artist": "Maraschino",
+      "date": "2026-08-20T21:30:00",
+      "stage": "Booth"
     },
     {
-      "title": "Love Spells",
-      "date": "2026-08-22"
+      "artist": "Maria Iskariot",
+      "date": "2026-08-21T14:50:00",
+      "stage": "Backyard"
     },
     {
-      "title": "Maan",
-      "date": "2026-08-22"
+      "artist": "Maribou State",
+      "date": "2026-08-21T22:45:00",
+      "stage": "Wave"
     },
     {
-      "title": "Maruja",
-      "date": "2026-08-22"
+      "artist": "Maruja",
+      "date": "2026-08-22T16:55:00",
+      "stage": "Club"
     },
     {
-      "title": "Mirage",
-      "date": "2026-08-22"
+      "artist": "MEAU",
+      "date": "2026-08-20T21:30:00",
+      "stage": "Marquee"
     },
     {
-      "title": "NU GENEA Live Band",
-      "date": "2026-08-22"
+      "artist": "Merol",
+      "date": "2026-08-21T20:35:00",
+      "stage": "Wave"
     },
     {
-      "title": "Natasha Bedingfield",
-      "date": "2026-08-22"
+      "artist": "Miamor",
+      "date": "2026-08-23T16:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Niels Orens",
-      "date": "2026-08-22"
+      "artist": "Milolaathetlukken",
+      "date": "2026-08-23T12:40:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "Notion",
-      "date": "2026-08-22"
+      "artist": "Mirage",
+      "date": "2026-08-22T14:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Novah",
-      "date": "2026-08-22"
+      "artist": "Mula",
+      "date": "2026-08-20T20:30:00",
+      "stage": "Wave"
     },
     {
-      "title": "Oliver Symons",
-      "date": "2026-08-22"
+      "artist": "Natasha Bedingfield",
+      "date": "2026-08-22T20:00:00",
+      "stage": "Wave"
     },
     {
-      "title": "PARTYOF2",
-      "date": "2026-08-22"
+      "artist": "NC",
+      "date": "2026-08-23T16:15:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Pegassi",
-      "date": "2026-08-22"
+      "artist": "new wave",
+      "date": "2026-08-22T18:55:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "Selah Sue & The Gallands",
-      "date": "2026-08-22"
+      "artist": "Niels Orens",
+      "date": "2026-08-23T00:50:00",
+      "stage": "Lift"
     },
     {
-      "title": "Show Me The Body",
-      "date": "2026-08-22"
+      "artist": "Ninajirachi",
+      "date": "2026-08-21T20:35:00",
+      "stage": "Lift"
     },
     {
-      "title": "Skye Newman",
-      "date": "2026-08-22"
+      "artist": "Nona Van Braeckel",
+      "date": "2026-08-21T00:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Teen Mortgage",
-      "date": "2026-08-22"
+      "artist": "Notion",
+      "date": "2026-08-22T18:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "The Atomic Orchestra",
-      "date": "2026-08-22"
+      "artist": "Novah",
+      "date": "2026-08-23T00:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "The Subs",
-      "date": "2026-08-22"
+      "artist": "NU GENEA Live Band",
+      "date": "2026-08-22T21:05:00",
+      "stage": "Club"
     },
     {
-      "title": "Tori Ann",
-      "date": "2026-08-22"
+      "artist": "Nxdia",
+      "date": "2026-08-21T16:40:00",
+      "stage": "Lift"
     },
     {
-      "title": "Underworld",
-      "date": "2026-08-22"
+      "artist": "Oliver Symons",
+      "date": "2026-08-22T11:40:00",
+      "stage": "Club"
     },
     {
-      "title": "WORKSTATION presented by Amber Broos",
-      "date": "2026-08-22"
+      "artist": "Oppidan",
+      "date": "2026-08-23T19:30:00",
+      "stage": "Booth"
     },
     {
-      "title": "Wet Leg",
-      "date": "2026-08-22"
+      "artist": "Osayuki",
+      "date": "2026-08-21T16:40:00",
+      "stage": "Backyard"
     },
     {
-      "title": "Witch Fever",
-      "date": "2026-08-22"
+      "artist": "Pale Jay",
+      "date": "2026-08-23T18:20:00",
+      "stage": "Club"
     },
     {
-      "title": "Wunderhorse",
-      "date": "2026-08-22"
+      "artist": "Parcels",
+      "date": "2026-08-23T21:30:00",
+      "stage": "Marquee"
     },
     {
-      "title": "new wave",
-      "date": "2026-08-22"
+      "artist": "PARTYOF2",
+      "date": "2026-08-22T22:10:00",
+      "stage": "Lift"
     },
     {
-      "title": "séa",
-      "date": "2026-08-22"
+      "artist": "Pegassi",
+      "date": "2026-08-22T21:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Adéla",
-      "date": "2026-08-23"
+      "artist": "Pendulum dj set",
+      "date": "2026-08-23T22:45:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Audrey Nuna",
-      "date": "2026-08-23"
+      "artist": "PLOEGENDIENST",
+      "date": "2026-08-23T15:15:00",
+      "stage": "Backyard"
     },
     {
-      "title": "BLUAI",
-      "date": "2026-08-23"
+      "artist": "Prinsezy",
+      "date": "2026-08-23T18:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Baxter Dury",
-      "date": "2026-08-23"
+      "artist": "Purple Disco Machine",
+      "date": "2026-08-23T21:30:00",
+      "stage": "Wave"
     },
     {
-      "title": "Bazart",
-      "date": "2026-08-23"
+      "artist": "Ravyn Lenae",
+      "date": "2026-08-23T15:20:00",
+      "stage": "Wave"
     },
     {
-      "title": "Bella Claxton",
-      "date": "2026-08-23"
+      "artist": "Re-Type",
+      "date": "2026-08-21T16:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Blood Orange",
-      "date": "2026-08-23"
+      "artist": "RONKER",
+      "date": "2026-08-23T13:25:00",
+      "stage": "Backyard"
     },
     {
-      "title": "CHAT PILE",
-      "date": "2026-08-23"
+      "artist": "Rose Gray",
+      "date": "2026-08-23T19:25:00",
+      "stage": "Lift"
     },
     {
-      "title": "Casper Cox",
-      "date": "2026-08-23"
+      "artist": "ROW1",
+      "date": "2026-08-20T22:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Chris Stussy Linger A/V show",
-      "date": "2026-08-23"
+      "artist": "Roxy Dekker",
+      "date": "2026-08-21T12:10:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "DIW-VOORMIDDAGSOIRÉE DEEL 2",
-      "date": "2026-08-23"
+      "artist": "S10",
+      "date": "2026-08-23T14:15:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "Denzel Curry",
-      "date": "2026-08-23"
+      "artist": "Sef",
+      "date": "2026-08-21T12:55:00",
+      "stage": "Wave"
     },
     {
-      "title": "Dimension",
-      "date": "2026-08-23"
+      "artist": "Selah Sue & The Gallands",
+      "date": "2026-08-22T14:20:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Eefje de Visser",
-      "date": "2026-08-23"
+      "artist": "Shaking Hand",
+      "date": "2026-08-23T13:25:00",
+      "stage": "Lift"
     },
     {
-      "title": "FAISAL",
-      "date": "2026-08-23"
+      "artist": "Show Me The Body",
+      "date": "2026-08-22T18:00:00",
+      "stage": "Backyard"
     },
     {
-      "title": "Fenrick",
-      "date": "2026-08-23"
+      "artist": "Skye Newman",
+      "date": "2026-08-22T16:00:00",
+      "stage": "Wave"
     },
     {
-      "title": "Getdown Services",
-      "date": "2026-08-23"
+      "artist": "SOMBR",
+      "date": "2026-08-23T20:30:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "ILA",
-      "date": "2026-08-23"
+      "artist": "Soulwax",
+      "date": "2026-08-22T01:00:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Iskander Moon",
-      "date": "2026-08-23"
+      "artist": "Speed",
+      "date": "2026-08-23T17:15:00",
+      "stage": "Backyard"
     },
     {
-      "title": "Kurt Vile & The Violators",
-      "date": "2026-08-23"
+      "artist": "SPRINTS",
+      "date": "2026-08-23T14:20:00",
+      "stage": "Club"
     },
     {
-      "title": "Miamor",
-      "date": "2026-08-23"
+      "artist": "Stick To Your Guns",
+      "date": "2026-08-21T22:45:00",
+      "stage": "Backyard"
     },
     {
-      "title": "Milolaathetlukken",
-      "date": "2026-08-23"
+      "artist": "Stijn Van De Voorde & Thibault Christiaensen",
+      "date": "2026-08-24T00:10:00",
+      "stage": "Club"
     },
     {
-      "title": "NC",
-      "date": "2026-08-23"
+      "artist": "supermodel*",
+      "date": "2026-08-21T14:50:00",
+      "stage": "Lift"
     },
     {
-      "title": "Oppidan",
-      "date": "2026-08-23"
+      "artist": "Surusinghe",
+      "date": "2026-08-21T22:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "PLOEGENDIENST",
-      "date": "2026-08-23"
+      "artist": "Susobrino",
+      "date": "2026-08-20T22:20:00",
+      "stage": "Club"
     },
     {
-      "title": "Pale Jay",
-      "date": "2026-08-23"
+      "artist": "séa",
+      "date": "2026-08-22T20:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Parcels",
-      "date": "2026-08-23"
+      "artist": "Teen Mortgage",
+      "date": "2026-08-22T16:05:00",
+      "stage": "Backyard"
     },
     {
-      "title": "Pendulum dj set",
-      "date": "2026-08-23"
+      "artist": "The Atomic Orchestra",
+      "date": "2026-08-22T12:25:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Prinsezy",
-      "date": "2026-08-23"
+      "artist": "The Hives",
+      "date": "2026-08-21T22:45:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Purple Disco Machine",
-      "date": "2026-08-23"
+      "artist": "The Subs",
+      "date": "2026-08-22T17:55:00",
+      "stage": "Wave"
     },
     {
-      "title": "RONKER",
-      "date": "2026-08-23"
+      "artist": "The Whatevers",
+      "date": "2026-08-24T01:35:00",
+      "stage": "Club"
     },
     {
-      "title": "Ravyn Lenae",
-      "date": "2026-08-23"
+      "artist": "TJE",
+      "date": "2026-08-23T11:55:00",
+      "stage": "Lift"
     },
     {
-      "title": "Rose Gray",
-      "date": "2026-08-23"
+      "artist": "Tori Ann",
+      "date": "2026-08-22T16:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "S10",
-      "date": "2026-08-23"
+      "artist": "TRASH TALK",
+      "date": "2026-08-23T19:25:00",
+      "stage": "Backyard"
     },
     {
-      "title": "SOMBR",
-      "date": "2026-08-23"
+      "artist": "Turnstile",
+      "date": "2026-08-21T21:35:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "SPRINTS",
-      "date": "2026-08-23"
+      "artist": "Tyler, The Creator",
+      "date": "2026-08-23T22:45:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "Shaking Hand",
-      "date": "2026-08-23"
+      "artist": "Tyler Ballgame",
+      "date": "2026-08-23T17:15:00",
+      "stage": "Lift"
     },
     {
-      "title": "Speed",
-      "date": "2026-08-23"
+      "artist": "Underworld",
+      "date": "2026-08-23T00:45:00",
+      "stage": "Marquee"
     },
     {
-      "title": "Stijn Van De Voorde & Thibault Christiaensen",
-      "date": "2026-08-23"
+      "artist": "Unregular",
+      "date": "2026-08-20T21:30:00",
+      "stage": "Boiler"
     },
     {
-      "title": "TJE",
-      "date": "2026-08-23"
+      "artist": "USED",
+      "date": "2026-08-22T15:10:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "TRASH TALK",
-      "date": "2026-08-23"
+      "artist": "Uwase",
+      "date": "2026-08-21T13:05:00",
+      "stage": "Lift"
     },
     {
-      "title": "The Whatevers",
-      "date": "2026-08-23"
+      "artist": "Violet Grohl",
+      "date": "2026-08-23T16:15:00",
+      "stage": "Club"
     },
     {
-      "title": "Tyler Ballgame",
-      "date": "2026-08-23"
+      "artist": "Waltur",
+      "date": "2026-08-21T01:00:00",
+      "stage": "Booth"
     },
     {
-      "title": "Tyler, The Creator",
-      "date": "2026-08-23"
+      "artist": "Wednesday",
+      "date": "2026-08-21T17:30:00",
+      "stage": "Club"
     },
     {
-      "title": "Violet Grohl",
-      "date": "2026-08-23"
+      "artist": "Wet Leg",
+      "date": "2026-08-22T16:55:00",
+      "stage": "Main Stage"
     },
     {
-      "title": "Wilkinson",
-      "date": "2026-08-23"
+      "artist": "Wild Classical Music Ensemble",
+      "date": "2026-08-21T12:10:00",
+      "stage": "Club"
     },
     {
-      "title": "X CLUB.",
-      "date": "2026-08-23"
+      "artist": "Wilkinson",
+      "date": "2026-08-23T20:15:00",
+      "stage": "Boiler"
     },
     {
-      "title": "Zara Larsson",
-      "date": "2026-08-23"
+      "artist": "Witch Fever",
+      "date": "2026-08-22T14:20:00",
+      "stage": "Backyard"
+    },
+    {
+      "artist": "WORKSTATION presented by Amber Broos",
+      "date": "2026-08-23T02:00:00",
+      "stage": "Boiler"
+    },
+    {
+      "artist": "Wunderhorse",
+      "date": "2026-08-22T16:00:00",
+      "stage": "Marquee"
+    },
+    {
+      "artist": "X CLUB.",
+      "date": "2026-08-23T22:30:00",
+      "stage": "Booth"
+    },
+    {
+      "artist": "YUNGBLUD",
+      "date": "2026-08-21T23:45:00",
+      "stage": "Main Stage"
+    },
+    {
+      "artist": "Zara Larsson",
+      "date": "2026-08-23T18:20:00",
+      "stage": "Main Stage"
     }
   ]
 }

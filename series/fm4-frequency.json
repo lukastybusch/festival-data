@@ -1,0 +1,14 @@
+{
+  "id": "fm4-frequency",
+  "name": "FM4 Frequency Festival",
+  "location": "St. Pölten, AT",
+  "genre": "Festival",
+  "website": "https://www.frequency.at",
+  "color": "#0B3B3C",
+  "accent": "#34D399",
+  "info": {
+    "faq": "https://www.frequency.at/allgemeines/",
+    "map": "https://www.frequency.at/venue/gelaendeplan/",
+    "instagram": "https://www.instagram.com/fm4frequency/"
+  }
+}

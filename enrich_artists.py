@@ -83,11 +83,11 @@ except Exception as e:
 
 test, err = search_artist("Coldplay", token)
 if err:
-    log(f"WARNUNG: Selbsttest fehlgeschlagen ({err}). Zugriff evtl. eingeschränkt.")
-elif test and test.get("images"):
-    log("Selbsttest OK - Spotify liefert Kuenstlerbilder.")
-else:
-    log("WARNUNG: Selbsttest lieferte kein Bild - Zugriff evtl. eingeschraenkt.")
+    sys.exit(f"ABBRUCH: Selbsttest fehlgeschlagen ({err}). Spotify drosselt/blockt "
+             f"gerade - in ein paar Stunden erneut versuchen.")
+if not (test and test.get("images")):
+    sys.exit("ABBRUCH: Selbsttest lieferte kein Bild - Zugriff eingeschraenkt.")
+log("Selbsttest OK - Spotify liefert Kuenstlerbilder.")
 
 # --- Anreichern -------------------------------------------------------------
 os.makedirs("artists", exist_ok=True)
@@ -109,7 +109,8 @@ for i, name in enumerate(names, 1):
 
     data = dict(existing)
     data.setdefault("name", name)
-    data["spotifyChecked"] = True
+    if err is None:                    # nur bei gueltiger Antwort als geprueft markieren
+        data["spotifyChecked"] = True  # (bei 429/Fehler NICHT -> naechster Lauf versucht erneut)
     if art:
         imgs = art.get("images", [])
         if imgs and not data.get("image"):

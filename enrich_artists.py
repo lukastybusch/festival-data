@@ -75,16 +75,21 @@ for name in sorted(names):
     path = f"artists/{slug(name)}.json"
     existing = json.load(open(path, encoding="utf-8")) if os.path.exists(path) else {}
 
-    # Schon vollständig (Bild + Spotify) → API-Call sparen
+    # Schon angereichert ODER schon erfolglos gesucht → API-Call sparen.
+    # Das macht Re-Runs schnell: nur der erste Lauf sucht wirklich alles.
     if existing.get("image") and existing.get("spotify"):
+        skipped += 1
+        continue
+    if existing.get("spotifyChecked") and not existing.get("image"):
         skipped += 1
         continue
 
     art = search_artist(name, token)
-    time.sleep(0.2)                            # sanft mit der Rate umgehen
+    time.sleep(0.25)                           # sanft mit der Rate umgehen
 
     data = dict(existing)
     data.setdefault("name", name)
+    data["spotifyChecked"] = True              # markieren → beim nächsten Lauf überspringen
     if art:
         imgs = art.get("images", [])
         if imgs and not data.get("image"):

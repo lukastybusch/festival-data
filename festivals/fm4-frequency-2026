@@ -1,340 +1,496 @@
 {
-  "id": "fm4-frequency-festival-2026",
-  "name": "FM4 Frequency Festival",
-  "location": "St. Pölten, AT",
-  "genre": "Rock / Pop",
-  "startDate": "2026-08-20",
+  "id": "fm4-frequency-2026",
+  "seriesId": "fm4-frequency",
+  "startDate": "2026-08-19",
   "endDate": "2026-08-22",
-  "color": "#0E1230",
-  "accent": "#22D3EE",
+  "ticket": {
+    "url": "https://www.frequency.at/tickets/"
+  },
   "schedule": [
     {
-      "title": "A Little Sound",
-      "date": "2026-08-20"
+      "artist": "Splinta b2b Aras",
+      "date": "2026-08-19T20:00:00",
+      "stage": "Silent Disco @ Green Stage"
     },
     {
-      "title": "Camo & Krooked",
-      "date": "2026-08-20"
+      "artist": "Skore b2b Sequent",
+      "date": "2026-08-19T22:00:00",
+      "stage": "Silent Disco @ Green Stage"
     },
     {
-      "title": "Cascada",
-      "date": "2026-08-20"
+      "artist": "Fourtex b2b Jalen Mess",
+      "date": "2026-08-19T23:15:00",
+      "stage": "Silent Disco @ Green Stage"
     },
     {
-      "title": "DJ Antoine",
-      "date": "2026-08-20"
+      "artist": "Replic",
+      "date": "2026-08-20T00:45:00",
+      "stage": "Silent Disco @ Green Stage"
     },
     {
-      "title": "Delta Heavy + Daxta MC",
-      "date": "2026-08-20"
+      "artist": "Mr. Highfi",
+      "date": "2026-08-20T01:45:00",
+      "stage": "Silent Disco @ Green Stage"
     },
     {
-      "title": "Disorder",
-      "date": "2026-08-20"
+      "artist": "Demased b2b Discontinued",
+      "date": "2026-08-20T02:45:00",
+      "stage": "Silent Disco @ Green Stage"
     },
     {
-      "title": "Drum Dad & Bass Boy",
-      "date": "2026-08-20"
+      "artist": "Kraftklub",
+      "date": "2026-08-20T23:45:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Evening Elephants",
-      "date": "2026-08-20"
+      "artist": "Lorde",
+      "date": "2026-08-20T21:45:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Fontaines D.C.",
-      "date": "2026-08-20"
+      "artist": "SDP",
+      "date": "2026-08-20T16:45:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Fox Stevenson DJ Set",
-      "date": "2026-08-20"
+      "artist": "Ravyn Lenae",
+      "date": "2026-08-20T15:40:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "HBz",
-      "date": "2026-08-20"
+      "artist": "lovehead",
+      "date": "2026-08-20T13:25:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Hedex b2b Bou",
-      "date": "2026-08-20"
+      "artist": "Fontaines D.C.",
+      "date": "2026-08-20T19:45:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "James Hype",
-      "date": "2026-08-20"
+      "artist": "Zara Larsson",
+      "date": "2026-08-20T18:15:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "James Marriott",
-      "date": "2026-08-20"
+      "artist": "DJ Antoine",
+      "date": "2026-08-20T14:15:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Koven",
-      "date": "2026-08-20"
+      "artist": "James Marriott",
+      "date": "2026-08-20T20:55:00",
+      "stage": "Infinity Live Stage"
     },
     {
-      "title": "Kraftklub",
-      "date": "2026-08-20"
+      "artist": "Og Lu",
+      "date": "2026-08-20T16:05:00",
+      "stage": "Infinity Live Stage"
     },
     {
-      "title": "Lorde",
-      "date": "2026-08-20"
+      "artist": "Symba",
+      "date": "2026-08-20T19:25:00",
+      "stage": "Infinity Live Stage"
     },
     {
-      "title": "Og Lu",
-      "date": "2026-08-20"
+      "artist": "Red Leather",
+      "date": "2026-08-20T17:10:00",
+      "stage": "Infinity Live Stage"
     },
     {
-      "title": "PA69",
-      "date": "2026-08-20"
+      "artist": "Evening Elephants",
+      "date": "2026-08-20T15:00:00",
+      "stage": "Infinity Live Stage"
     },
     {
-      "title": "Pola & Bryson",
-      "date": "2026-08-20"
+      "artist": "PA69",
+      "date": "2026-08-20T18:15:00",
+      "stage": "Infinity Live Stage"
     },
     {
-      "title": "Ravyn Lenae",
-      "date": "2026-08-20"
+      "artist": "James Hype",
+      "date": "2026-08-20T23:20:00",
+      "stage": "Electronic Green Stage"
     },
     {
-      "title": "Red Leather",
-      "date": "2026-08-20"
+      "artist": "Koven",
+      "date": "2026-08-20T18:15:00",
+      "stage": "Electronic Green Stage"
     },
     {
-      "title": "SDP",
-      "date": "2026-08-20"
+      "artist": "HBz",
+      "date": "2026-08-20T19:30:00",
+      "stage": "Electronic Green Stage"
     },
     {
-      "title": "Symba",
-      "date": "2026-08-20"
+      "artist": "Camo & Krooked",
+      "date": "2026-08-20T20:45:00",
+      "stage": "Electronic Green Stage"
     },
     {
-      "title": "Zara Larsson",
-      "date": "2026-08-20"
+      "artist": "Cascada",
+      "date": "2026-08-20T17:30:00",
+      "stage": "Electronic Green Stage"
     },
     {
-      "title": "lovehead",
-      "date": "2026-08-20"
+      "artist": "Hedex b2b Bou",
+      "date": "2026-08-20T22:00:00",
+      "stage": "Electronic Green Stage"
     },
     {
-      "title": "Abor & Tynna",
-      "date": "2026-08-21"
+      "artist": "A Little Sound",
+      "date": "2026-08-21T00:30:00",
+      "stage": "Infinity Nightstage"
     },
     {
-      "title": "Audrey Nuna",
-      "date": "2026-08-21"
+      "artist": "Delta Heavy + Daxta MC",
+      "date": "2026-08-21T02:30:00",
+      "stage": "Infinity Nightstage"
     },
     {
-      "title": "ClockClock",
-      "date": "2026-08-21"
+      "artist": "Disorder",
+      "date": "2026-08-20T23:30:00",
+      "stage": "Infinity Nightstage"
     },
     {
-      "title": "Cyber Gunz",
-      "date": "2026-08-21"
+      "artist": "Drum Dad & Bass Boy",
+      "date": "2026-08-21T04:30:00",
+      "stage": "Infinity Nightstage"
     },
     {
-      "title": "EsDeeKid",
-      "date": "2026-08-21"
+      "artist": "Fox Stevenson DJ Set",
+      "date": "2026-08-21T01:30:00",
+      "stage": "Infinity Nightstage"
     },
     {
-      "title": "Esther Graf",
-      "date": "2026-08-21"
+      "artist": "Pola & Bryson",
+      "date": "2026-08-21T03:30:00",
+      "stage": "Infinity Nightstage"
     },
     {
-      "title": "Filow",
-      "date": "2026-08-21"
+      "artist": "Youphoria",
+      "date": "2026-08-21T01:00:00",
+      "stage": "Silent Disco @ Green Stage"
     },
     {
-      "title": "GANS",
-      "date": "2026-08-21"
+      "artist": "KADE",
+      "date": "2026-08-21T02:00:00",
+      "stage": "Silent Disco @ Green Stage"
     },
     {
-      "title": "Glueboys",
-      "date": "2026-08-21"
+      "artist": "VERUM GAUDIUM",
+      "date": "2026-08-21T03:00:00",
+      "stage": "Silent Disco @ Green Stage"
     },
     {
-      "title": "JOKESONYOU",
-      "date": "2026-08-21"
+      "artist": "Natasha Bedingfield",
+      "date": "2026-08-21T17:15:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Jovynn",
-      "date": "2026-08-21"
+      "artist": "Sido",
+      "date": "2026-08-21T21:45:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "LEAP",
-      "date": "2026-08-21"
+      "artist": "Paul Kalkbrenner",
+      "date": "2026-08-21T23:30:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Makko",
-      "date": "2026-08-21"
+      "artist": "Tom Odell",
+      "date": "2026-08-21T20:10:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Miss Bashful",
-      "date": "2026-08-21"
+      "artist": "OG Keemo",
+      "date": "2026-08-21T16:00:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Missio",
-      "date": "2026-08-21"
+      "artist": "Audrey Nuna",
+      "date": "2026-08-21T18:40:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Natasha Bedingfield",
-      "date": "2026-08-21"
+      "artist": "Abor & Tynna",
+      "date": "2026-08-21T14:55:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Noga Erez",
-      "date": "2026-08-21"
+      "artist": "Radio Free Alice",
+      "date": "2026-08-21T14:00:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "OG Keemo",
-      "date": "2026-08-21"
+      "artist": "SSIO",
+      "date": "2026-08-21T22:05:00",
+      "stage": "Green Stage"
     },
     {
-      "title": "Overpass",
-      "date": "2026-08-21"
+      "artist": "Sub Focus",
+      "date": "2026-08-21T20:25:00",
+      "stage": "Green Stage"
     },
     {
-      "title": "Paul Kalkbrenner",
-      "date": "2026-08-21"
+      "artist": "Noga Erez",
+      "date": "2026-08-21T15:00:00",
+      "stage": "Green Stage"
     },
     {
-      "title": "Radio Free Alice",
-      "date": "2026-08-21"
+      "artist": "Glueboys",
+      "date": "2026-08-21T16:10:00",
+      "stage": "Green Stage"
     },
     {
-      "title": "Ronis Goliath",
-      "date": "2026-08-21"
+      "artist": "EsDeeKid",
+      "date": "2026-08-21T23:50:00",
+      "stage": "Green Stage"
     },
     {
-      "title": "SSIO",
-      "date": "2026-08-21"
+      "artist": "Makko",
+      "date": "2026-08-21T18:45:00",
+      "stage": "Green Stage"
     },
     {
-      "title": "Sido",
-      "date": "2026-08-21"
+      "artist": "Filow",
+      "date": "2026-08-21T17:25:00",
+      "stage": "Green Stage"
     },
     {
-      "title": "Sub Focus",
-      "date": "2026-08-21"
+      "artist": "Lina-Mariah",
+      "date": "2026-08-21T13:50:00",
+      "stage": "Green Stage"
     },
     {
-      "title": "The Saints",
-      "date": "2026-08-21"
+      "artist": "Esther Graf",
+      "date": "2026-08-21T19:25:00",
+      "stage": "Infinity Live Stage"
     },
     {
-      "title": "Tom Odell",
-      "date": "2026-08-21"
+      "artist": "LEAP",
+      "date": "2026-08-21T18:15:00",
+      "stage": "Infinity Live Stage"
     },
     {
-      "title": "sarah4k",
-      "date": "2026-08-21"
+      "artist": "Ronis Goliath",
+      "date": "2026-08-21T16:05:00",
+      "stage": "Infinity Live Stage"
     },
     {
-      "title": "Alt Blk Era",
-      "date": "2026-08-22"
+      "artist": "GANS",
+      "date": "2026-08-21T15:00:00",
+      "stage": "Infinity Live Stage"
     },
     {
-      "title": "Ashnikko",
-      "date": "2026-08-22"
+      "artist": "ClockClock",
+      "date": "2026-08-21T20:55:00",
+      "stage": "Infinity Live Stage"
     },
     {
-      "title": "BBNO$",
-      "date": "2026-08-22"
+      "artist": "Overpass",
+      "date": "2026-08-21T17:10:00",
+      "stage": "Infinity Live Stage"
     },
     {
-      "title": "Baran Kok",
-      "date": "2026-08-22"
+      "artist": "Cyber Gunz",
+      "date": "2026-08-22T04:30:00",
+      "stage": "Infinity Nightstage"
     },
     {
-      "title": "Culcha Candela",
-      "date": "2026-08-22"
+      "artist": "JOKESONYOU",
+      "date": "2026-08-21T23:30:00",
+      "stage": "Infinity Nightstage"
     },
     {
-      "title": "Delilah Bon",
-      "date": "2026-08-22"
+      "artist": "Jovynn",
+      "date": "2026-08-22T02:30:00",
+      "stage": "Infinity Nightstage"
     },
     {
-      "title": "Denzel Curry",
-      "date": "2026-08-22"
+      "artist": "Miss Bashful",
+      "date": "2026-08-22T01:30:00",
+      "stage": "Infinity Nightstage"
     },
     {
-      "title": "Don Diablo pres. Control Alt Delete",
-      "date": "2026-08-22"
+      "artist": "sarah4k",
+      "date": "2026-08-22T00:45:00",
+      "stage": "Infinity Nightstage"
     },
     {
-      "title": "Fourtex",
-      "date": "2026-08-22"
+      "artist": "The Saints",
+      "date": "2026-08-22T03:30:00",
+      "stage": "Infinity Nightstage"
     },
     {
-      "title": "Frytz",
-      "date": "2026-08-22"
+      "artist": "IVAN",
+      "date": "2026-08-22T01:00:00",
+      "stage": "Silent Disco @ Green Stage"
     },
     {
-      "title": "Ikkimel",
-      "date": "2026-08-22"
+      "artist": "AEND",
+      "date": "2026-08-22T02:00:00",
+      "stage": "Silent Disco @ Green Stage"
     },
     {
-      "title": "Issey Cross",
-      "date": "2026-08-22"
+      "artist": "YPSY",
+      "date": "2026-08-22T03:00:00",
+      "stage": "Silent Disco @ Green Stage"
     },
     {
-      "title": "Kanine",
-      "date": "2026-08-22"
+      "artist": "Twenty One Pilots",
+      "date": "2026-08-22T23:25:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Ken Carson",
-      "date": "2026-08-22"
+      "artist": "Ken Carson",
+      "date": "2026-08-22T21:35:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "KiLLOWEN",
-      "date": "2026-08-22"
+      "artist": "Ski Aggu",
+      "date": "2026-08-22T19:55:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Levex",
-      "date": "2026-08-22"
+      "artist": "Ikkimel",
+      "date": "2026-08-22T18:20:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Mandidextrous",
-      "date": "2026-08-22"
+      "artist": "Denzel Curry",
+      "date": "2026-08-22T17:00:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Mehnersmoos",
-      "date": "2026-08-22"
+      "artist": "YT",
+      "date": "2026-08-22T14:45:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "NESS",
-      "date": "2026-08-22"
+      "artist": "Two Feet",
+      "date": "2026-08-22T15:50:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Rich Amiri",
-      "date": "2026-08-22"
+      "artist": "NESS",
+      "date": "2026-08-22T13:50:00",
+      "stage": "Space Stage"
     },
     {
-      "title": "Ritter Lean",
-      "date": "2026-08-22"
+      "artist": "Ashnikko",
+      "date": "2026-08-22T23:20:00",
+      "stage": "Green Stage"
     },
     {
-      "title": "Ski Aggu",
-      "date": "2026-08-22"
+      "artist": "BBNO$",
+      "date": "2026-08-22T21:35:00",
+      "stage": "Green Stage"
     },
     {
-      "title": "Souly",
-      "date": "2026-08-22"
+      "artist": "Souly",
+      "date": "2026-08-22T20:05:00",
+      "stage": "Green Stage"
     },
     {
-      "title": "Summer Cem & KC Rebell",
-      "date": "2026-08-22"
+      "artist": "Mehnersmoos",
+      "date": "2026-08-22T18:35:00",
+      "stage": "Green Stage"
     },
     {
-      "title": "Tom Hengst",
-      "date": "2026-08-22"
+      "artist": "Summer Cem & KC Rebell",
+      "date": "2026-08-22T16:00:00",
+      "stage": "Green Stage"
     },
     {
-      "title": "Twenty One Pilots",
-      "date": "2026-08-22"
+      "artist": "Culcha Candela",
+      "date": "2026-08-22T17:15:00",
+      "stage": "Green Stage"
     },
     {
-      "title": "Two Feet",
-      "date": "2026-08-22"
+      "artist": "Baran Kok",
+      "date": "2026-08-22T14:00:00",
+      "stage": "Green Stage"
     },
     {
-      "title": "YT",
-      "date": "2026-08-22"
+      "artist": "Rich Amiri",
+      "date": "2026-08-22T14:55:00",
+      "stage": "Green Stage"
+    },
+    {
+      "artist": "Ritter Lean",
+      "date": "2026-08-22T20:55:00",
+      "stage": "Infinity Live Stage"
+    },
+    {
+      "artist": "Frytz",
+      "date": "2026-08-22T16:05:00",
+      "stage": "Infinity Live Stage"
+    },
+    {
+      "artist": "Tom Hengst",
+      "date": "2026-08-22T18:15:00",
+      "stage": "Infinity Live Stage"
+    },
+    {
+      "artist": "Alt Blk Era",
+      "date": "2026-08-22T17:10:00",
+      "stage": "Infinity Live Stage"
+    },
+    {
+      "artist": "KiLLOWEN",
+      "date": "2026-08-22T19:25:00",
+      "stage": "Infinity Live Stage"
+    },
+    {
+      "artist": "Delilah Bon",
+      "date": "2026-08-22T15:00:00",
+      "stage": "Infinity Live Stage"
+    },
+    {
+      "artist": "Don Diablo pres. Control Alt Delete",
+      "date": "2026-08-23T01:30:00",
+      "stage": "Infinity Nightstage"
+    },
+    {
+      "artist": "Fourtex",
+      "date": "2026-08-23T04:30:00",
+      "stage": "Infinity Nightstage"
+    },
+    {
+      "artist": "Issey Cross",
+      "date": "2026-08-23T00:45:00",
+      "stage": "Infinity Nightstage"
+    },
+    {
+      "artist": "Kanine",
+      "date": "2026-08-23T02:30:00",
+      "stage": "Infinity Nightstage"
+    },
+    {
+      "artist": "Levex",
+      "date": "2026-08-22T23:30:00",
+      "stage": "Infinity Nightstage"
+    },
+    {
+      "artist": "Mandidextrous",
+      "date": "2026-08-23T03:30:00",
+      "stage": "Infinity Nightstage"
+    },
+    {
+      "artist": "Cobra",
+      "date": "2026-08-23T01:00:00",
+      "stage": "Silent Disco @ Green Stage"
+    },
+    {
+      "artist": "CHERCHES",
+      "date": "2026-08-23T02:00:00",
+      "stage": "Silent Disco @ Green Stage"
+    },
+    {
+      "artist": "BoyOhBoy",
+      "date": "2026-08-23T03:00:00",
+      "stage": "Silent Disco @ Green Stage"
     }
   ]
 }

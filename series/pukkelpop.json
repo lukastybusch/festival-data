@@ -1,0 +1,13 @@
+{
+  "id": "pukkelpop",
+  "name": "Pukkelpop",
+  "location": "Kiewit (Hasselt), BE",
+  "genre": "Festival",
+  "website": "https://www.pukkelpop.be",
+  "color": "#1B1035",
+  "accent": "#E4572E",
+  "info": {
+    "faq": "https://www.pukkelpop.be/en/info/frequently-asked-questions",
+    "instagram": "https://www.instagram.com/pukkelpop/"
+  }
+}

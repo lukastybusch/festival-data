@@ -47,17 +47,19 @@ def search_artist(name, token, tries=3):
                 items = json.load(r).get("artists", {}).get("items", [])
                 return (items[0] if items else None), None
         except urllib.error.HTTPError as e:
-            if e.code == 429:                       # Rate-Limit → begrenzt warten
-                raw = e.headers.get("Retry-After", "?")   # echte Sperrdauer laut Spotify
-                wait = min(int(raw) if str(raw).isdigit() else 5, 30)
-                log(f"   429 Rate-Limit (Spotify will {raw}s), warte {wait}s "
-                    f"(Versuch {attempt+1}/{tries})")
+            if e.code == 429:                       # Rate-Limit
+                raw = e.headers.get("Retry-After", "")     # Sperrdauer laut Spotify
+                secs = int(raw) if str(raw).isdigit() else None
+                if secs is not None and secs > 120:  # LANGE Sperre -> nicht warten
+                    return None, f"RATELIMIT:{secs}" # oben sauber abbrechen & sichern
+                wait = min(secs or 5, 30)            # kurze Drosselung -> begrenzt warten
+                log(f"   429 Rate-Limit, warte {wait}s (Versuch {attempt+1}/{tries})")
                 time.sleep(wait + 1)
                 continue
             return None, f"HTTP {e.code}"           # 401/403/… → nicht crashen
         except Exception as e:
             return None, str(e)
-    return None, "429 (aufgegeben)"
+    return None, "RATELIMIT:0"                       # 3x kurz gedrosselt -> auch stoppen
 
 
 def slug(name):
@@ -139,6 +141,17 @@ for i, name in enumerate(names, 1):
         continue
 
     art, err = search_artist(name, token)
+
+    # Bei (langer) Rate-Limit-Sperre: NICHT weiterrennen, sondern sauber stoppen.
+    # So bleibt das Script im Zeitlimit, endet mit exit 0, und der Workflow committet
+    # den bisherigen Fortschritt. Der nächste Lauf macht genau hier weiter.
+    if err and err.startswith("RATELIMIT"):
+        secs = err.split(":")[1]
+        dauer = f"~{int(secs)//3600}h" if secs.isdigit() and int(secs) > 3600 else f"{secs}s"
+        log(f"\n== Spotify-Rate-Limit erreicht (Sperre {dauer}). Stoppe hier und "
+            f"sichere den Fortschritt. Naechster Lauf macht ab '{name}' weiter. ==")
+        break
+
     time.sleep(0.2)
 
     data = dict(existing)

@@ -48,8 +48,10 @@ def search_artist(name, token, tries=3):
                 return (items[0] if items else None), None
         except urllib.error.HTTPError as e:
             if e.code == 429:                       # Rate-Limit → begrenzt warten
-                wait = min(int(e.headers.get("Retry-After", "5")), 30)
-                log(f"   429 Rate-Limit, warte {wait}s (Versuch {attempt+1}/{tries})")
+                raw = e.headers.get("Retry-After", "?")   # echte Sperrdauer laut Spotify
+                wait = min(int(raw) if str(raw).isdigit() else 5, 30)
+                log(f"   429 Rate-Limit (Spotify will {raw}s), warte {wait}s "
+                    f"(Versuch {attempt+1}/{tries})")
                 time.sleep(wait + 1)
                 continue
             return None, f"HTTP {e.code}"           # 401/403/… → nicht crashen
@@ -64,15 +66,33 @@ def slug(name):
 
 
 # --- Namen sammeln ----------------------------------------------------------
+# Nur AKTUELLE/kommende Festivals anreichern. Vergangene blendet die App eh aus,
+# also sparen wir uns die Spotify-Anfragen dafür. Ein Festival gilt als vorbei,
+# wenn sein endDate mehr als 3 Tage zurückliegt (kleiner Puffer).
+from datetime import date, datetime, timedelta
+CUTOFF = date.today() - timedelta(days=3)
+
+def ended(fest):
+    end = fest.get("endDate") or fest.get("startDate")
+    try:
+        return datetime.strptime(end[:10], "%Y-%m-%d").date() < CUTOFF
+    except Exception:
+        return False   # kein/kaputtes Datum -> lieber anreichern
+
 names = set()
-for p in glob.glob("festivals/*.json"):
+skipped_fests = 0
+for p in sorted(glob.glob("festivals/*.json")):
     fest = json.load(open(p, encoding="utf-8"))
+    if ended(fest):
+        skipped_fests += 1
+        continue
     for it in fest.get("schedule", []):
         n = it.get("artist") or it.get("title")
         if n:
             names.add(n.strip())
 names = sorted(names)
-log(f"{len(names)} eindeutige Namen gefunden.")
+log(f"{len(names)} eindeutige Namen aus aktuellen Festivals "
+    f"({skipped_fests} vergangene Festivals übersprungen).")
 
 # --- Login + Selbsttest -----------------------------------------------------
 try:

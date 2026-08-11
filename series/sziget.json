@@ -1,1 +1,13 @@
-
+{
+  "id": "sziget",
+  "name": "Sziget Festival",
+  "location": "Budapest, HU",
+  "genre": "Festival",
+  "website": "https://szigetfestival.com",
+  "color": "#0B0A36",
+  "accent": "#FFF53C",
+  "info": {
+    "faq": "https://szigetfestival.com/en/festival-info",
+    "instagram": "https://instagram.com/szigetofficial/"
+  }
+}

@@ -1,1063 +1,467 @@
 {
-  "id": "rototom-sunsplash-2026",
-  "name": "Rototom Sunsplash",
-  "location": "Benicàssim, ES",
-  "genre": "Reggae",
+  "id": "rototom-2026",
+  "seriesId": "rototom",
   "startDate": "2026-08-16",
   "endDate": "2026-08-22",
-  "color": "#0B2E1A",
-  "accent": "#FDB813",
   "schedule": [
     {
-      "title": "Dj FAKE GUIDO",
+      "artist": "Iyaman Pablo & Irie Reggae Vibes",
       "date": "2026-08-16"
     },
     {
-      "title": "GOOD OVER EVIL",
+      "artist": "Mountain Tops",
       "date": "2026-08-16"
     },
     {
-      "title": "GREENLIGHT",
+      "artist": "Sotabosc",
       "date": "2026-08-16"
     },
     {
-      "title": "IYAMAN PABLO & Irie Reggae Vibes",
+      "artist": "Good Over Evil",
       "date": "2026-08-16"
     },
     {
-      "title": "LEON Selector",
+      "artist": "Dub Academy All Stars",
       "date": "2026-08-16"
     },
     {
-      "title": "MOUNTAIN TOPS",
+      "artist": "OTO",
       "date": "2026-08-16"
     },
     {
-      "title": "OTO old school jungle",
+      "artist": "Leon Selector",
       "date": "2026-08-16"
     },
     {
-      "title": "SOTABOSC",
+      "artist": "DJ Fake Guido",
       "date": "2026-08-16"
     },
     {
-      "title": "ALPHA BLONDY & The Solar System",
+      "artist": "Alpha Blondy & The Solar System",
       "date": "2026-08-17"
     },
     {
-      "title": "ALPHEUS",
+      "artist": "Luciano & Jah Messenjah",
       "date": "2026-08-17"
     },
     {
-      "title": "ATLAS Sound",
+      "artist": "Mr. Vegas",
       "date": "2026-08-17"
     },
     {
-      "title": "Abdul Basit",
+      "artist": "The Skatalites ft. Alpheus",
       "date": "2026-08-17"
     },
     {
-      "title": "BABABOOM Hi-Fi",
+      "artist": "Mo Ali & The Islamic Roots",
       "date": "2026-08-17"
     },
     {
-      "title": "Betty Roca Hubbauer",
+      "artist": "Hollie Cook",
       "date": "2026-08-17"
     },
     {
-      "title": "Circo Diverso",
+      "artist": "Las Ninyas del Corro",
       "date": "2026-08-17"
     },
     {
-      "title": "David Katz",
+      "artist": "King Earthquake",
       "date": "2026-08-17"
     },
     {
-      "title": "Del Camp a la Taula",
+      "artist": "Gold Up",
       "date": "2026-08-17"
     },
     {
-      "title": "Dj DOUDS",
+      "artist": "Bababoom Hi-Fi ft Jules I",
       "date": "2026-08-17"
     },
     {
-      "title": "Dj LILAS",
+      "artist": "P Montana",
       "date": "2026-08-17"
     },
     {
-      "title": "Doudou Nganga",
+      "artist": "DJ Lilas",
       "date": "2026-08-17"
     },
     {
-      "title": "Ellen Köhlings",
+      "artist": "DJ Douds",
       "date": "2026-08-17"
     },
     {
-      "title": "Espai de Circ",
+      "artist": "Youthical Vybz",
       "date": "2026-08-17"
     },
     {
-      "title": "Fundación Villarreal CF",
+      "artist": "Atlas Sound",
       "date": "2026-08-17"
     },
     {
-      "title": "GOLD UP",
+      "artist": "Raggamuri",
       "date": "2026-08-17"
     },
     {
-      "title": "HOLLIE COOK",
+      "artist": "Kart Selekto",
       "date": "2026-08-17"
     },
     {
-      "title": "JIMI LIONS",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "JULES I",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "KART SELEKTO",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "KING EARTHQUAKE",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "LA UNION",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "LAS NINYAS DEL CORRO",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "LUCIANO & Jah Messenjah Band",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "Laia Molina",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "MO ALI & The Islamic Roots",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "MR VEGAS",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "Mouv'Ment Dancer'Z",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "P. MONTANA",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "Pendrafoc",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "Pete Lilly",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "Pier Tosi",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "Pájaros al Viento",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "QUEEN OMEGA & The Royal Souls",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "R-Evolution School",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "RAGGAMURI",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "Ras Ibi",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "Ras Julio",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "Sergi Pitarch",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "THE SKATALITES",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "Witos Selekta (Urban Corner)",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "YOUTHICAL VYBZ",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "Zineb Rimi",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "Álvaro Pascual-Leone",
-      "date": "2026-08-17"
-    },
-    {
-      "title": "ALPHA BLONDY & The Solar System",
+      "artist": "Major Lazer Soundsystem",
       "date": "2026-08-18"
     },
     {
-      "title": "ALPHA STEPPA",
+      "artist": "Queen Omega & The Royal Souls",
       "date": "2026-08-18"
     },
     {
-      "title": "Abdul Basit",
+      "artist": "Biga*Ranx",
       "date": "2026-08-18"
     },
     {
-      "title": "BIGA*RANX",
+      "artist": "Charly Black",
       "date": "2026-08-18"
     },
     {
-      "title": "BLACK OMOLO",
+      "artist": "Alpha Steppa",
       "date": "2026-08-18"
     },
     {
-      "title": "BOQUERONIANS",
+      "artist": "THK",
       "date": "2026-08-18"
     },
     {
-      "title": "Baraka Circ",
+      "artist": "Twan Tee",
       "date": "2026-08-18"
     },
     {
-      "title": "CALABASH Crew",
+      "artist": "Lions Den ft Black Omolo",
       "date": "2026-08-18"
     },
     {
-      "title": "CHARLY BLACK",
+      "artist": "Greenlight Sound System",
       "date": "2026-08-18"
     },
     {
-      "title": "Circo Diverso",
+      "artist": "Dre Tala",
       "date": "2026-08-18"
     },
     {
-      "title": "DRE TALA",
+      "artist": "Calabash Crew",
       "date": "2026-08-18"
     },
     {
-      "title": "David Katz",
+      "artist": "Boqueronians",
       "date": "2026-08-18"
     },
     {
-      "title": "Dj DOUDS",
+      "artist": "Oyofe",
       "date": "2026-08-18"
     },
     {
-      "title": "Elga Molina",
+      "artist": "Yakkas",
       "date": "2026-08-18"
     },
     {
-      "title": "Ellen Köhlings",
+      "artist": "Jah Sound Intl",
       "date": "2026-08-18"
     },
     {
-      "title": "Em_Gyal",
+      "artist": "Serious Thing",
       "date": "2026-08-18"
     },
     {
-      "title": "Erol Urbà",
+      "artist": "Lydie the Djette",
       "date": "2026-08-18"
     },
     {
-      "title": "Espai de Circ",
+      "artist": "DJ Douds",
       "date": "2026-08-18"
     },
     {
-      "title": "Fundación Villarreal CF",
+      "artist": "Jaï - Mizik for Love",
       "date": "2026-08-18"
     },
     {
-      "title": "GREENLIGHT",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "Isabel Vergara",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "JAH SOUND International",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "JAÏ MIZIK FOR LOVE",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "JIMI LIONS",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "Josele Ska",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "LION'S DEN",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "LYDIE THE DJETTE",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "Let's Grow",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "Llavors d'Ací",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "MAJOR LAZER Soundsystem",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "María Prado",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "Moha Gerehou",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "OYOFE",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "Pete Lilly",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "Pier Tosi",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "QUEEN OMEGA & The Royal Souls",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "R-Evolution School",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "Ras Ibi",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "Ras Julio",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "SERIOUS THING",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "THE ITALS & The Roots Radics",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "THK",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "TWAN TEE",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "YAKKAS",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "Zineb Rimi",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "1988 RECORDS",
+      "artist": "Dub Inc",
       "date": "2026-08-19"
     },
     {
-      "title": "Ameba Teatre",
+      "artist": "The Itals & The Roots Radics",
       "date": "2026-08-19"
     },
     {
-      "title": "BAMBY",
+      "artist": "G-5 ft. El Canijo de Jerez, Kiko Veneno, Muchachito, Diego Ratón y Tomasito",
       "date": "2026-08-19"
     },
     {
-      "title": "BURNIN FYAH",
+      "artist": "Bamby",
       "date": "2026-08-19"
     },
     {
-      "title": "Carampa",
+      "artist": "Omar Perry & Easy Riddim Maker",
       "date": "2026-08-19"
     },
     {
-      "title": "Circo Diverso",
+      "artist": "1988 Takeover w/ Jael, Jcao ft Davojah",
       "date": "2026-08-19"
     },
     {
-      "title": "DAVOJAH",
+      "artist": "Eskorzo",
       "date": "2026-08-19"
     },
     {
-      "title": "DUB INC",
+      "artist": "DJ Mac",
       "date": "2026-08-19"
     },
     {
-      "title": "David Katz",
+      "artist": "Serena",
       "date": "2026-08-19"
     },
     {
-      "title": "Dj DOUDS",
+      "artist": "Kharloss Selektah",
       "date": "2026-08-19"
     },
     {
-      "title": "Dj LILAS",
+      "artist": "DJ Lilas",
       "date": "2026-08-19"
     },
     {
-      "title": "Dj MAC",
+      "artist": "Rising Fyah",
       "date": "2026-08-19"
     },
     {
-      "title": "ESKORZO",
+      "artist": "Burnin Fyah",
       "date": "2026-08-19"
     },
     {
-      "title": "Ellen Köhlings",
+      "artist": "High Legal Brothers",
       "date": "2026-08-19"
     },
     {
-      "title": "Erol Urbà",
+      "artist": "Skank45",
       "date": "2026-08-19"
     },
     {
-      "title": "Espai de Circ",
+      "artist": "DJ Douds",
       "date": "2026-08-19"
     },
     {
-      "title": "Francisco Vera",
+      "artist": "Ngomez Nokass",
       "date": "2026-08-19"
     },
     {
-      "title": "Fundación Villarreal CF",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "G-5 ft Kiko Veneno, Muchachito...",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "HIGH LEGAL BROTHERS",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "ISRAEL VIBRATION & The Roots Radics",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "JIMI LIONS",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "KHARLOSS Selektah",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "Let's Grow",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "Llavors d'Ací",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "Lyroï (Féwoss Squad)",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "María José Parejo",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "NGOMEZ NOKASS",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "OMAR PERRY",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "OUMAR NGOM",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "Pete Lilly",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "Pier Tosi",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "Pájaros al Viento",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "R-Evolution School",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "RISING FYAH",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "Ras Ibi",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "Ras Julio",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "SERENA",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "SKANK 45",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "THE ITALS & The Roots Radics",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "Vandana Shiva",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "Zineb Rimi",
-      "date": "2026-08-19"
-    },
-    {
-      "title": "ADRIANA ROGAN",
+      "artist": "Shenseea",
       "date": "2026-08-20"
     },
     {
-      "title": "AFROCALL",
+      "artist": "Israel Vibration & The Roots Radics",
       "date": "2026-08-20"
     },
     {
-      "title": "ANDRÉS COTTER",
+      "artist": "Pure Negga Cypher Experience",
       "date": "2026-08-20"
     },
     {
-      "title": "Afrodiccionario",
+      "artist": "Ilan Amores",
       "date": "2026-08-20"
     },
     {
-      "title": "BUSHMAN & The Grassroots Band",
+      "artist": "Omega Nebula",
       "date": "2026-08-20"
     },
     {
-      "title": "CHUSTERFIELD",
+      "artist": "Tony Matterhorn",
       "date": "2026-08-20"
     },
     {
-      "title": "COOKAH P",
+      "artist": "Andres Cotter & The Barcelona Ska Beat",
       "date": "2026-08-20"
     },
     {
-      "title": "COSTA RICA CREW",
+      "artist": "Greenlight ft Lasai & Secret Guest",
       "date": "2026-08-20"
     },
     {
-      "title": "Circo Diverso",
+      "artist": "Dre Tala",
       "date": "2026-08-20"
     },
     {
-      "title": "Colectivo Soré",
+      "artist": "Afrocall",
       "date": "2026-08-20"
     },
     {
-      "title": "DON MIMI",
+      "artist": "Dub Dawa",
       "date": "2026-08-20"
     },
     {
-      "title": "DRE TALA",
+      "artist": "Kharloss Selektah",
       "date": "2026-08-20"
     },
     {
-      "title": "DUB DAWA",
+      "artist": "Ngomez Nokass",
       "date": "2026-08-20"
     },
     {
-      "title": "DUBCHAINED",
+      "artist": "Wakanda Queen",
       "date": "2026-08-20"
     },
     {
-      "title": "David Katz",
+      "artist": "Dubchained ft Judy",
       "date": "2026-08-20"
     },
     {
-      "title": "Dj DOUDS",
+      "artist": "Don Mimí & Yoghi Bamba",
       "date": "2026-08-20"
     },
     {
-      "title": "Doudou Nganga",
+      "artist": "DJ Douds",
       "date": "2026-08-20"
     },
     {
-      "title": "Ellen Köhlings",
+      "artist": "Costa Rica Crew",
       "date": "2026-08-20"
     },
     {
-      "title": "Espai de Circ",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "Fundación Villarreal CF",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "GREENLIGHT",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "ILAN AMORES",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "ISRAEL VIBRATION & The Roots Radics",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "JIMI LIONS",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "JUDY",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "Juan Bordera",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "KANO SUNSAY",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "KHARLOSS Selektah",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "KING MAGNETO",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "KING REYES",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "LASAI",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "LEGENDARIO",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "MISTAH GODEH",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "MORODO",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "Makuriya",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "Miss Rose",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "NGOMEZ NOKASS",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "OMEGA NEBULA",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "PEPE BAO",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "PURE NEGGA",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "Pete Lilly",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "Pier Tosi",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "RICKROCKET",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "Ras Ibi",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "Ras Julio",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "Rokhaya Diallo",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "SHENSEEA",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "TIANO BLESS",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "TONY MATTERHORN",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "TWINKLE BROTHERS",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "WAKANDA QUEEN",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "YANISS ODUA",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "YOGHI BAMBA",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "Zineb Rimi",
-      "date": "2026-08-20"
-    },
-    {
-      "title": "BENJI ROOTS",
+      "artist": "Protoje & The Indiggnation",
       "date": "2026-08-21"
     },
     {
-      "title": "BLEU SOLEIL",
+      "artist": "Twinkle Brothers",
       "date": "2026-08-21"
     },
     {
-      "title": "BUSHMAN & The Grassroots Band",
+      "artist": "Bushman & The Grassroots",
       "date": "2026-08-21"
     },
     {
-      "title": "Batalla de Promesas",
+      "artist": "Natalia Doco",
       "date": "2026-08-21"
     },
     {
-      "title": "Brotsanbert",
+      "artist": "Macka B & The Roots Ragga Band",
       "date": "2026-08-21"
     },
     {
-      "title": "Circo Diverso",
+      "artist": "Bleu Soleil",
       "date": "2026-08-21"
     },
     {
-      "title": "DRUM.D",
+      "artist": "Lady Leshurr",
       "date": "2026-08-21"
     },
     {
-      "title": "David Katz",
+      "artist": "King Addies",
       "date": "2026-08-21"
     },
     {
-      "title": "Dj DOUDS",
+      "artist": "Ital Power",
       "date": "2026-08-21"
     },
     {
-      "title": "Ellen Köhlings",
+      "artist": "Javs",
       "date": "2026-08-21"
     },
     {
-      "title": "Em_Gyal",
+      "artist": "Royal Vibes",
       "date": "2026-08-21"
     },
     {
-      "title": "Espai de Circ",
+      "artist": "Drum.D",
       "date": "2026-08-21"
     },
     {
-      "title": "Fatu Africangyal",
+      "artist": "Makuriya",
       "date": "2026-08-21"
     },
     {
-      "title": "Fundación Villarreal CF",
+      "artist": "Higher Meditation",
       "date": "2026-08-21"
     },
     {
-      "title": "HIGHER MEDITATION",
+      "artist": "Redland ft Hugo Otto & Jaime Budokai",
       "date": "2026-08-21"
     },
     {
-      "title": "ITAL POWER",
+      "artist": "Mountain High",
       "date": "2026-08-21"
     },
     {
-      "title": "JAVS",
+      "artist": "DJ Douds",
       "date": "2026-08-21"
     },
     {
-      "title": "JIMI LIONS",
+      "artist": "Suzete",
       "date": "2026-08-21"
     },
     {
-      "title": "KING ADDIES",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "LADY LESHURR",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "MACKA B",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "MASIA ONE",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "MOUNTAIN HIGH",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Makuriya",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Miss Rose",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "NATALIA DOCO",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "PROTOJE & The Indiggnation",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Pete Lilly",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Pier Tosi",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Pájaros al Viento",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "R-Evolution School",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "RED LAND ft Hugo Otto & Jaime Budokai",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "ROYAL VIBES",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Ras Ibi",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Ras Julio",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "SUZETE",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "TWINKLE BROTHERS",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "Zineb Rimi",
-      "date": "2026-08-21"
-    },
-    {
-      "title": "BLACKBOARD JUNGLE",
+      "artist": "Kybba",
       "date": "2026-08-22"
     },
     {
-      "title": "Batalla de Promesas",
+      "artist": "Lia Kali",
       "date": "2026-08-22"
     },
     {
-      "title": "Biodanza Valencia",
+      "artist": "Greentea Peng",
       "date": "2026-08-22"
     },
     {
-      "title": "Circo Diverso",
+      "artist": "Blackboard Jungle ft Marky Lyrikal",
       "date": "2026-08-22"
     },
     {
-      "title": "DIRTY RAW",
+      "artist": "Ras Digby",
       "date": "2026-08-22"
     },
     {
-      "title": "DJ BLUE Teamblue",
+      "artist": "A Tango-Reggae Soundclash w/ LGDG ft. Rey & Quena",
       "date": "2026-08-22"
     },
     {
-      "title": "DREYA",
+      "artist": "Tarraco Reggae",
       "date": "2026-08-22"
     },
     {
-      "title": "Dj DOUDS",
+      "artist": "Rowsi",
       "date": "2026-08-22"
     },
     {
-      "title": "Dj WILL",
+      "artist": "Jea",
       "date": "2026-08-22"
     },
     {
-      "title": "Doudou Nganga",
+      "artist": "Yella Sky Sound meets Masia One",
       "date": "2026-08-22"
     },
     {
-      "title": "Espai de Circ",
+      "artist": "Javs",
       "date": "2026-08-22"
     },
     {
-      "title": "Fatu Africangyal",
+      "artist": "Dreya",
       "date": "2026-08-22"
     },
     {
-      "title": "Fundación Villarreal CF",
+      "artist": "DJ Will",
       "date": "2026-08-22"
     },
     {
-      "title": "GREENTEA PENG",
+      "artist": "DJ Blue-Teamblue",
       "date": "2026-08-22"
     },
     {
-      "title": "JAVS",
+      "artist": "Reggae Time Sound",
       "date": "2026-08-22"
     },
     {
-      "title": "JEA",
+      "artist": "DJ Douds",
       "date": "2026-08-22"
     },
     {
-      "title": "JIMI LIONS",
+      "artist": "Dirty Raw ft Angel, DJ Will & Coco",
       "date": "2026-08-22"
     },
     {
-      "title": "Javi Javichy",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "KYBBA",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "LIA KALI",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "LOS GUARDIANES DE GREGORY ft Rey & Quena",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "MARKY LYRICAL",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "MASIA ONE",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "Mouv'Ment Dancer'Z",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "R-Evolution School",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "RAS DIGBY",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "REGGAE TIME Sound",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "ROWSI & The Cozys",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "TARRACO REGGAE",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "Víctor Barreda",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "YELLA SKY",
-      "date": "2026-08-22"
-    },
-    {
-      "title": "Zineb Rimi",
+      "artist": "Doudou Nganga",
       "date": "2026-08-22"
     }
   ]

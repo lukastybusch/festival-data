@@ -113,9 +113,23 @@ log("Selbsttest OK - Spotify liefert Kuenstlerbilder.")
 os.makedirs("artists", exist_ok=True)
 created = updated = skipped = with_image = 0
 
+def load_existing(path):
+    """Liest artists/<slug>.json. Leere oder kaputte Dateien (z.B. Platzhalter
+    zum Ordner-Anlegen) werden als 'noch nicht angereichert' behandelt, nicht
+    als Absturz."""
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, encoding="utf-8") as f:
+            txt = f.read().strip()
+        return json.loads(txt) if txt else {}
+    except (json.JSONDecodeError, ValueError):
+        log(f"   (leere/kaputte Datei ignoriert: {path})")
+        return {}
+
 for i, name in enumerate(names, 1):
     path = f"artists/{slug(name)}.json"
-    existing = json.load(open(path, encoding="utf-8")) if os.path.exists(path) else {}
+    existing = load_existing(path)
 
     if existing.get("image") and existing.get("spotify"):
         skipped += 1

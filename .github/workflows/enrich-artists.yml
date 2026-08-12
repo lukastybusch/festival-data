@@ -37,13 +37,25 @@ jobs:
           PYTHONUNBUFFERED: "1"          # Fortschritt live im Log statt gepuffert
         run: python3 -u enrich_artists.py
 
-      - name: festivals.json bauen (Join)
-        run: python3 build_festivals.py
-
-      - name: Änderungen committen (nur bei Änderung)
+      # WICHTIG: erst die (teuer erkaufte) Spotify-Anreicherung sichern, BEVOR
+      # gebaut wird. Läuft auch, wenn die Anreicherung mit Fehler endete
+      # (if: always()), damit die bereits geholten Bilder nie verloren gehen.
+      - name: Artists sofort sichern
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add artists festivals.json
-          git diff --staged --quiet || git commit -m "Auto: Spotify-Anreicherung + Build"
+          git add artists
+          git diff --staged --quiet || git commit -m "Auto: Spotify-Anreicherung (Artists)"
+          git push
+
+      - name: festivals.json bauen (Join)
+        run: python3 build_festivals.py
+
+      - name: festivals.json committen (nur bei Änderung)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add festivals.json
+          git diff --staged --quiet || git commit -m "Auto: Build festivals.json"
           git push

@@ -18,8 +18,16 @@ import json, glob, os
 
 
 def load(path):
-    with open(path, encoding="utf-8") as f:
-        return json.load(f)
+    """Liest JSON. Leere oder kaputte Dateien (z.B. Platzhalter) geben None
+    zurück, statt den ganzen Build abzubrechen – so gehen bei einem Fehler nie
+    schon angereicherte Daten verloren."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            txt = f.read().strip()
+        return json.loads(txt) if txt else None
+    except (json.JSONDecodeError, ValueError, OSError):
+        print(f"  (übersprungen, leer/kaputt: {path})")
+        return None
 
 
 def norm(name: str) -> str:
@@ -31,21 +39,26 @@ def norm(name: str) -> str:
 series = {}
 for p in glob.glob("series/*.json"):
     s = load(p)
-    series[s["id"]] = s
+    if isinstance(s, dict) and s.get("id"):
+        series[s["id"]] = s
 
 artists = {}
 for p in glob.glob("artists/*.json"):
     a = load(p)
-    artists[norm(a["name"])] = a
+    if isinstance(a, dict) and a.get("name"):
+        artists[norm(a["name"])] = a
 
 providers = {}
-if os.path.exists("affiliate/providers.json"):
-    providers = load("affiliate/providers.json").get("providers", {})
+prov = load("affiliate/providers.json") if os.path.exists("affiliate/providers.json") else None
+if isinstance(prov, dict):
+    providers = prov.get("providers", {})
 
 genres = {}
-if os.path.exists("genres.json"):
-    for g in load("genres.json").get("genres", []):
-        genres[norm(g["name"])] = g
+gen = load("genres.json") if os.path.exists("genres.json") else None
+if isinstance(gen, dict):
+    for g in gen.get("genres", []):
+        if g.get("name"):
+            genres[norm(g["name"])] = g
 
 
 # --- Helfer ------------------------------------------------------------------
@@ -72,6 +85,9 @@ def ticket_url(edition):
 out = []
 for p in sorted(glob.glob("festivals/*.json")):
     fest = load(p)
+    if not (isinstance(fest, dict) and fest.get("id") and fest.get("startDate")):
+        print(f"  (übersprungen, unvollständig: {p})")
+        continue
     ser = series.get(fest.get("seriesId"), {})
 
     merged = {

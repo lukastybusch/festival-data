@@ -11,7 +11,7 @@ Env-Variablen setzen (nicht im Code speichern):
     python3 -u enrich_artists.py
 """
 
-import os, re, glob, json, time, base64, sys
+import os, re, glob, json, time, base64, sys, unicodedata
 import urllib.parse, urllib.request, urllib.error
 
 CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
@@ -35,9 +35,24 @@ def get_token():
         return json.load(r)["access_token"]
 
 
+def norm_name(s):
+    """Vergleichbare Form eines Künstlernamens: klein, ohne Akzente, ohne Zusätze
+    wie „(DJ Set)"/„(party set)", nur Buchstaben/Ziffern. Damit prüfen wir, ob ein
+    Spotify-Treffer WIRKLICH derselbe Act ist – „Marsh" != „Marshmello"."""
+    s = (s or "").lower().strip()
+    s = re.sub(r"\s*\([^)]*\)\s*$", "", s)          # abschließende Klammer weg
+    s = "".join(c for c in unicodedata.normalize("NFKD", s)
+                if not unicodedata.combining(c))     # Akzente weg
+    s = re.sub(r"[^a-z0-9]+", " ", s).strip()        # Rest normalisieren
+    return s
+
+
 def search_artist(name, token, tries=3):
-    """Gibt (artist_dict_or_None, fehler_or_None) zurück – hängt NIE endlos."""
-    q = urllib.parse.urlencode({"q": name, "type": "artist", "limit": 1})
+    """Gibt (artist_dict_or_None, fehler_or_None) zurück – hängt NIE endlos.
+    Holt mehrere Kandidaten und akzeptiert NUR einen, dessen Name exakt passt
+    (normalisiert). Kein exakter Treffer -> (None, None): lieber Platzhalter als
+    falsches Bild."""
+    q = urllib.parse.urlencode({"q": name, "type": "artist", "limit": 8})
     req = urllib.request.Request(
         f"https://api.spotify.com/v1/search?{q}",
         headers={"Authorization": f"Bearer {token}"})
@@ -45,7 +60,14 @@ def search_artist(name, token, tries=3):
         try:
             with urllib.request.urlopen(req, timeout=30) as r:
                 items = json.load(r).get("artists", {}).get("items", [])
-                return (items[0] if items else None), None
+                target = norm_name(name)
+                # exakter Namens-Treffer; bei mehreren der mit den meisten Followern
+                exact = [a for a in items if norm_name(a.get("name", "")) == target]
+                if exact:
+                    exact.sort(key=lambda a: a.get("followers", {}).get("total", 0),
+                               reverse=True)
+                    return exact[0], None
+                return None, None                    # kein sicherer Treffer
         except urllib.error.HTTPError as e:
             if e.code == 429:                       # Rate-Limit
                 raw = e.headers.get("Retry-After", "")     # Sperrdauer laut Spotify
@@ -133,10 +155,14 @@ for i, name in enumerate(names, 1):
     path = f"artists/{slug(name)}.json"
     existing = load_existing(path)
 
-    if existing.get("image") and existing.get("spotify"):
+    # Manuell gepflegte Einträge nie anfassen.
+    if existing.get("manual"):
         skipped += 1
         continue
-    if existing.get("spotifyChecked") and not existing.get("image"):
+    # Schon mit der EXAKTEN Prüfung verifiziert -> überspringen (schnelle Re-Runs).
+    # Alte Einträge ohne "verified" werden erneut geprüft, damit falsche Treffer
+    # (z.B. Marsh -> Marshmello) einmalig korrigiert werden.
+    if existing.get("verified"):
         skipped += 1
         continue
 
@@ -156,24 +182,39 @@ for i, name in enumerate(names, 1):
 
     data = dict(existing)
     data.setdefault("name", name)
-    if err is None:                    # nur bei gueltiger Antwort als geprueft markieren
-        data["spotifyChecked"] = True  # (bei 429/Fehler NICHT -> naechster Lauf versucht erneut)
-    if art:
-        imgs = art.get("images", [])
-        if imgs and not data.get("image"):
-            data["image"] = imgs[0]["url"]
-            with_image += 1
-        sp = art.get("external_urls", {}).get("spotify")
-        if sp and not data.get("spotify"):
-            data["spotify"] = sp
-        genres = art.get("genres", [])
-        if genres:
-            data.setdefault("spotifyGenres", genres)
-            if not data.get("genre"):
-                data["genre"] = genres[0].title()
+
+    if err is None:
+        # Gültige Antwort ausgewertet -> als exakt geprüft markieren.
+        data["spotifyChecked"] = True
+        data["verified"] = True
+        if art:
+            # Exakter Treffer: Bild/Spotify/Genre setzen (überschreibt evtl. alte
+            # FALSCHE Werte, denn diese Prüfung ist zuverlässiger als die erste).
+            imgs = art.get("images", [])
+            if imgs:
+                data["image"] = imgs[0]["url"]
+                with_image += 1
+            elif not existing.get("manual"):
+                data.pop("image", None)
+            sp = art.get("external_urls", {}).get("spotify")
+            if sp:
+                data["spotify"] = sp
+            genres = art.get("genres", [])
+            if genres:
+                data["spotifyGenres"] = genres
+                data.setdefault("genre", genres[0].title())
+            data.pop("spotifyMatch", None)
+        else:
+            # Kein sicherer Namens-Treffer: evtl. früher gesetztes FALSCHES Bild
+            # entfernen (außer manuell) und als "kein Treffer" markieren.
+            if not existing.get("manual"):
+                data.pop("image", None)
+                data.pop("spotify", None)
+            data["spotifyMatch"] = "none"
+    # bei 429/Netzfehler: nichts markieren -> nächster Lauf versucht erneut
 
     json.dump(data, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
-    mark = "img" if data.get("image") else " - "
+    mark = "img" if data.get("image") else ("—" if data.get("spotifyMatch") == "none" else " ? ")
     log(f"[{i}/{len(names)}] {mark}  {name}")
     if existing:
         updated += 1

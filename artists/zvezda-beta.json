@@ -1,6 +1,6 @@
 {
   "name": "Zvezda Beta",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab67616d0000b273165c21e5cb4c4084776e281b",
-  "spotify": "https://open.spotify.com/artist/3uisZHO0NA0H5vYXqmjoMP"
+  "verified": true,
+  "spotifyMatch": "none"
 }

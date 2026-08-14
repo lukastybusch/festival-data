@@ -1,6 +1,6 @@
 {
   "name": "Adis Is OK",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5eb3c617d3d6a35c7678ad4e6a0",
-  "spotify": "https://open.spotify.com/artist/5HA5GEF7EaBidFBGnZtrAw"
+  "verified": true,
+  "spotifyMatch": "none"
 }

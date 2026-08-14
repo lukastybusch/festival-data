@@ -1,6 +1,6 @@
 {
   "name": "Earl Sweatshirt & Mike",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5ebe387d22e49d2324c7c69ea86",
-  "spotify": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+  "verified": true,
+  "spotifyMatch": "none"
 }

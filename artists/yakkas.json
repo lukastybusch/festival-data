@@ -1,6 +1,6 @@
 {
   "name": "Yakkas",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5eb53bff73ee3b951ba65f3365d",
-  "spotify": "https://open.spotify.com/artist/5dpxMhY3sbmbJmFsLKCTND"
+  "verified": true,
+  "spotifyMatch": "none"
 }

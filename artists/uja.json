@@ -1,5 +1,6 @@
 {
   "name": "UJAÏ",
   "spotifyChecked": true,
-  "spotify": "https://open.spotify.com/artist/4pFd8L1frm0fWVBoDCu7NJ"
+  "verified": true,
+  "spotifyMatch": "none"
 }

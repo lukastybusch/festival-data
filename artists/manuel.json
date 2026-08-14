@@ -1,6 +1,6 @@
 {
   "name": "Manuel",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5ebe73d5aeb311cd8d53bb6f3b4",
-  "spotify": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+  "verified": true,
+  "spotifyMatch": "none"
 }

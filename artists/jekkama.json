@@ -1,6 +1,6 @@
 {
   "name": "JEKKAMAÏ",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab67616d0000b273c5413f4b280828276ea6482b",
-  "spotify": "https://open.spotify.com/artist/7JkE8hWZvLqcOqTW4vaGgD"
+  "verified": true,
+  "spotifyMatch": "none"
 }

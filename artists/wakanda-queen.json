@@ -1,6 +1,6 @@
 {
   "name": "Wakanda Queen",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5eb904699e55304d113f61d0b02",
-  "spotify": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+  "verified": true,
+  "spotifyMatch": "none"
 }

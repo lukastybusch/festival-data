@@ -1,6 +1,6 @@
 {
   "name": "Kölsch live",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5eba50059967122d0f2609b2e82",
-  "spotify": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+  "verified": true,
+  "spotifyMatch": "none"
 }

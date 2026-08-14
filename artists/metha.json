@@ -1,6 +1,6 @@
 {
   "name": "Metha",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/307bb49a1d2599611ccda963602c8222b31996c8",
-  "spotify": "https://open.spotify.com/artist/2vbIY8Y2HJpomBP4a06AEB"
+  "verified": true,
+  "spotifyMatch": "none"
 }

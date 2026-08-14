@@ -1,6 +1,6 @@
 {
   "name": "TJE",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab67616d0000b27359fc3d775898c52034fac2d1",
-  "spotify": "https://open.spotify.com/artist/2X9EtaP6u8KfGVtLb7Rz35"
+  "verified": true,
+  "spotifyMatch": "none"
 }

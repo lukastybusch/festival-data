@@ -1,6 +1,6 @@
 {
   "name": "Raasa",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/b007fa39384707bbac3b72ec405d716f2866a6a7",
-  "spotify": "https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV"
+  "verified": true,
+  "spotifyMatch": "none"
 }

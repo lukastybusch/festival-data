@@ -1,6 +1,6 @@
 {
   "name": "Elmer",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab67616d0000b273ac2dd9b3b604a304ffa1f36e",
-  "spotify": "https://open.spotify.com/artist/5NxQeIebpgWlmphZHXtsHs"
+  "verified": true,
+  "spotifyMatch": "none"
 }

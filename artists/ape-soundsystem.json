@@ -1,6 +1,6 @@
 {
   "name": "APE Soundsystem",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5eb95b76cbe3df3db76d6d5e2d5",
-  "spotify": "https://open.spotify.com/artist/4HemfSCDgnPiHQh8Z6iyd6"
+  "verified": true,
+  "spotifyMatch": "none"
 }

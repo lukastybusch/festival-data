@@ -1,6 +1,6 @@
 {
   "name": "Don't Stop The Queen",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5eb73e4d22612ac8d944b5789b4",
-  "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+  "verified": true,
+  "spotifyMatch": "none"
 }

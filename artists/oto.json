@@ -1,6 +1,6 @@
 {
   "name": "OTO",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5eb75d7f8eb00811dcd67ae6e02",
-  "spotify": "https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx"
+  "verified": true,
+  "spotifyMatch": "none"
 }

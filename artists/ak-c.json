@@ -1,6 +1,6 @@
 {
   "name": "Akác",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5ebaf900426e6ed5767b4280947",
-  "spotify": "https://open.spotify.com/artist/0qm8T0Qee8ZITAOwUTfXgJ"
+  "verified": true,
+  "spotifyMatch": "none"
 }

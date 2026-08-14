@@ -1,6 +1,6 @@
 {
   "name": "Ential b2b Sephx",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5ebcf35d71eed5dc49c1d305734",
-  "spotify": "https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq"
+  "verified": true,
+  "spotifyMatch": "none"
 }

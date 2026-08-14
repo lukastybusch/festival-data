@@ -1,6 +1,6 @@
 {
   "name": "Oyofe",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab67616d0000b273ca0cef6cf52a9fc45254991a",
-  "spotify": "https://open.spotify.com/artist/4JCnBMO2ijI5IMXZ1mmO1T"
+  "verified": true,
+  "spotifyMatch": "none"
 }

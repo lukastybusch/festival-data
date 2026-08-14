@@ -1,6 +1,6 @@
 {
   "name": "Afrocall",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5eb0434f9e288ebd2a312252175",
-  "spotify": "https://open.spotify.com/artist/09vJsJxTLHPwhzLyLAIKQ3"
+  "verified": true,
+  "spotifyMatch": "none"
 }

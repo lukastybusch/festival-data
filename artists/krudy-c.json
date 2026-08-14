@@ -1,5 +1,6 @@
 {
   "name": "Krudy C",
   "spotifyChecked": true,
-  "spotify": "https://open.spotify.com/artist/3977gpXu62nG4qhV3YtoMh"
+  "verified": true,
+  "spotifyMatch": "none"
 }

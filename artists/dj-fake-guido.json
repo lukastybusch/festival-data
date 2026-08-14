@@ -1,6 +1,6 @@
 {
   "name": "DJ Fake Guido",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5eb4fda8a7f379016c59beb6e06",
-  "spotify": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
+  "verified": true,
+  "spotifyMatch": "none"
 }

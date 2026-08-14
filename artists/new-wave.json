@@ -1,6 +1,6 @@
 {
   "name": "new wave",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5eba080a8e96758f416301578f9",
-  "spotify": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+  "verified": true,
+  "spotifyMatch": "none"
 }

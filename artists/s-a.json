@@ -1,6 +1,6 @@
 {
   "name": "séa",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22",
-  "spotify": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+  "verified": true,
+  "spotifyMatch": "none"
 }

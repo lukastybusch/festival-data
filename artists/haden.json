@@ -1,6 +1,6 @@
 {
   "name": "Haden",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5ebc3ad4e241a585572b0eae77e",
-  "spotify": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+  "verified": true,
+  "spotifyMatch": "none"
 }

@@ -1,6 +1,6 @@
 {
   "name": "Isu",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5eb517611aeb0c03ac44eb92dfe",
-  "spotify": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+  "verified": true,
+  "spotifyMatch": "none"
 }

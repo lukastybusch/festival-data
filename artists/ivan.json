@@ -1,6 +1,6 @@
 {
   "name": "IVAN",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5eb0a052faab8058ca12cd9ff9b",
-  "spotify": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+  "verified": true,
+  "spotifyMatch": "none"
 }

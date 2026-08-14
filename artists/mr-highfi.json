@@ -1,6 +1,6 @@
 {
   "name": "Mr. Highfi",
   "spotifyChecked": true,
-  "image": "https://i.scdn.co/image/ab6761610000e5eb7f22eb2ba0fa23de46dd2769",
-  "spotify": "https://open.spotify.com/artist/02gALFQT60nmpu9sRLA9Vq"
+  "verified": true,
+  "spotifyMatch": "none"
 }

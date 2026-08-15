@@ -14,7 +14,7 @@ Ergebnis: festivals.json (self-contained), die die App wie bisher lädt.
 Aufruf (im Repo-Wurzelverzeichnis):  python3 build_festivals.py
 """
 
-import json, glob, os
+import json, glob, os, urllib.parse
 
 
 def load(path):
@@ -69,14 +69,24 @@ def pick(edition, ser, key, default=None):
 
 
 def ticket_url(edition):
+    """Baut den Ticket-Link. Drei Wege, in dieser Reihenfolge:
+      1) Affiliate-„wrap": Anbieter mit Feld "wrap" (Tracking-URL mit {url}-
+         Platzhalter, z.B. Awin/Ticketmaster) verpackt die Ziel-URL ticket.url.
+      2) Anbieter mit "base"(+"suffix") und ticket.eventId -> base+eventId+suffix.
+      3) Nur ticket.url -> direkter Link (kein Affiliate, aber Button geht).
+    So reicht später EIN Eintrag in providers.json, egal welches Netzwerk."""
     t = edition.get("ticket")
     if not t:
         return None
-    if t.get("url"):                      # direkte URL überschreibt alles
-        return t["url"]
+    dest = t.get("url")
     prov = providers.get(t.get("provider", ""))
-    if prov and t.get("eventId") is not None:
-        return f'{prov["base"]}{t["eventId"]}{prov.get("suffix", "")}'
+    if prov:
+        if prov.get("wrap") and dest:
+            return prov["wrap"].replace("{url}", urllib.parse.quote(dest, safe=""))
+        if prov.get("base") and t.get("eventId") is not None:
+            return f'{prov["base"]}{t["eventId"]}{prov.get("suffix", "")}'
+    if dest:                              # kein Anbieter/kein Match -> Direktlink
+        return dest
     return None
 
 

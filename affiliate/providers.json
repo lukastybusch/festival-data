@@ -1,3 +1,12 @@
 {
+  "_readme": "Affiliate-Ticketanbieter. Feld 'wrap' = Tracking-URL deines Netzwerks mit {url} als Platzhalter fuer die Ziel-URL (Awin, Ticketmaster/Impact, Sovrn ... funktionieren alle so). Trage deine echte Kennung ein und verschiebe den passenden Eintrag aus '_example' nach 'providers'. In der jeweiligen festivals/<edition>.json dann: \"ticket\": { \"provider\": \"eventim-awin\", \"url\": \"<offizielle Ticket-URL des Festivals>\" }.",
+  "_example": {
+    "eventim-awin": {
+      "wrap": "https://www.awin1.com/cread.php?awinmid=11388&awinaffid=DEINE_AWINAFFID&ued={url}"
+    },
+    "ticketmaster": {
+      "wrap": "https://<dein-ticketmaster-tracking-link>&u={url}"
+    }
+  },
   "providers": {}
 }

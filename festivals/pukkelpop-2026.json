@@ -3,9 +3,7 @@
   "seriesId": "pukkelpop",
   "startDate": "2026-08-20",
   "endDate": "2026-08-23",
-  "ticket": {
-    "url": "https://tickets.pukkelpop.be/en/"
-  },
+  "ticket": { "url": "https://www.pukkelpop.be/en/info/tickets" },
   "schedule": [
     {
       "artist": "Adriatique",

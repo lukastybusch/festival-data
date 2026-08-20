@@ -3,9 +3,7 @@
   "seriesId": "fm4-frequency",
   "startDate": "2026-08-19",
   "endDate": "2026-08-22",
-  "ticket": {
-    "url": "https://www.frequency.at/tickets/"
-  },
+  "ticket": { "url": "https://www.frequency.at/en/tickets/" },
   "schedule": [
     {
       "artist": "Splinta b2b Aras",

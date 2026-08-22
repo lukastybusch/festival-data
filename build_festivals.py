@@ -127,11 +127,12 @@ for p in sorted(glob.glob("festivals/*.json")):
         if item.get("stage"):
             entry["stage"] = item["stage"]
 
+        # Keine Spotify-Bilder/-Links mehr in die Daten schreiben (Terms/Urheberrecht).
+        # Genre bleibt (nur ein Wort, färbt die Platzhalter-Kachel); der Spotify-Link
+        # baut die App zur Laufzeit selbst aus dem Namen.
         a = artists.get(norm(name)) if name else None
-        if a:
-            if a.get("genre"):   entry["genre"] = a["genre"]
-            if a.get("image"):   entry["image"] = a["image"]
-            if a.get("spotify"): entry["spotify"] = a["spotify"]
+        if a and a.get("genre"):
+            entry["genre"] = a["genre"]
 
         g = genres.get(norm(entry.get("genre", "")))
         if g and g.get("color"):

@@ -1,4 +1,5 @@
 {
   "name": "Makuriya",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

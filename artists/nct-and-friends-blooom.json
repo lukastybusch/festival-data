@@ -1,4 +1,5 @@
 {
   "name": "NCT and Friends: Blooom",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

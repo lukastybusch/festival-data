@@ -1,4 +1,5 @@
 {
   "name": "Reggae Time Sound",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

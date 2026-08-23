@@ -1,4 +1,5 @@
 {
   "name": "NCT and Friends: NCT",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

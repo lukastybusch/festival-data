@@ -1,4 +1,5 @@
 {
   "name": "Serious Thing",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

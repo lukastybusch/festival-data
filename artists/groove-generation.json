@@ -1,4 +1,5 @@
 {
   "name": "Groove Generation",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

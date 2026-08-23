@@ -1,4 +1,5 @@
 {
   "name": "KIRAS",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

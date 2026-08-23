@@ -1,4 +1,5 @@
 {
   "name": "Slym & Szoliver",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

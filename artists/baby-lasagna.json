@@ -1,3 +1,5 @@
 {
-  "name": "Baby Lasagna"
+  "name": "Baby Lasagna",
+  "genreChecked": true,
+  "genre": "Rock Music"
 }

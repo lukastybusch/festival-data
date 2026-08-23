@@ -1,4 +1,5 @@
 {
   "name": "Los Santos 00's",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

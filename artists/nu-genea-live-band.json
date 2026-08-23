@@ -1,4 +1,5 @@
 {
   "name": "NU GENEA Live Band",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

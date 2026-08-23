@@ -1,3 +1,5 @@
 {
-  "name": "Wednesday"
+  "name": "Wednesday",
+  "genreChecked": true,
+  "genre": "Indie Rock"
 }

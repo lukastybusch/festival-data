@@ -1,4 +1,5 @@
 {
   "name": "Don Diablo pres. Control Alt Delete",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

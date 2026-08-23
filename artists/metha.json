@@ -1,4 +1,5 @@
 {
   "name": "Metha",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

@@ -1,4 +1,5 @@
 {
   "name": "Dub Personal b2b Pein",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

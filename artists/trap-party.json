@@ -1,4 +1,5 @@
 {
   "name": "Trap Party",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

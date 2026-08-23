@@ -1,4 +1,5 @@
 {
   "name": "Discohans",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

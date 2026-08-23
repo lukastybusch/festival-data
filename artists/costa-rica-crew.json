@@ -1,4 +1,5 @@
 {
   "name": "Costa Rica Crew",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

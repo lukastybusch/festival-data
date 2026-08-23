@@ -1,3 +1,5 @@
 {
-  "name": "Chet Faker"
+  "name": "Chet Faker",
+  "genreChecked": true,
+  "genre": "Soul"
 }

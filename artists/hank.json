@@ -1,4 +1,6 @@
 {
   "name": "HANK",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true,
+  "genre": "Country Music"
 }

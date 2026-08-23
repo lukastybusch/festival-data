@@ -1,4 +1,5 @@
 {
   "name": "Ital Power",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

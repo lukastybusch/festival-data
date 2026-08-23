@@ -1,4 +1,5 @@
 {
   "name": "séa",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

@@ -1,4 +1,5 @@
 {
   "name": "Ential b2b Sephx",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

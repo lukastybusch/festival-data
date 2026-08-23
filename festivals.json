@@ -51,12 +51,14 @@
         {
           "title": "Kraftklub",
           "date": "2026-08-20T23:45:00",
-          "stage": "Space Stage"
+          "stage": "Space Stage",
+          "genre": "Indie Rock"
         },
         {
           "title": "Lorde",
           "date": "2026-08-20T21:45:00",
-          "stage": "Space Stage"
+          "stage": "Space Stage",
+          "genre": "Art Pop"
         },
         {
           "title": "SDP",
@@ -66,7 +68,8 @@
         {
           "title": "Ravyn Lenae",
           "date": "2026-08-20T15:40:00",
-          "stage": "Space Stage"
+          "stage": "Space Stage",
+          "genre": "Contemporary R&B"
         },
         {
           "title": "lovehead",
@@ -76,17 +79,20 @@
         {
           "title": "Fontaines D.C.",
           "date": "2026-08-20T19:45:00",
-          "stage": "Space Stage"
+          "stage": "Space Stage",
+          "genre": "Post-Punk"
         },
         {
           "title": "Zara Larsson",
           "date": "2026-08-20T18:15:00",
-          "stage": "Space Stage"
+          "stage": "Space Stage",
+          "genre": "Dance-Pop"
         },
         {
           "title": "DJ Antoine",
           "date": "2026-08-20T14:15:00",
-          "stage": "Space Stage"
+          "stage": "Space Stage",
+          "genre": "Electro House"
         },
         {
           "title": "James Marriott",
@@ -116,17 +122,20 @@
         {
           "title": "PA69",
           "date": "2026-08-20T18:15:00",
-          "stage": "Infinity Live Stage"
+          "stage": "Infinity Live Stage",
+          "genre": "Hip-Hop"
         },
         {
           "title": "James Hype",
           "date": "2026-08-20T23:20:00",
-          "stage": "Electronic Green Stage"
+          "stage": "Electronic Green Stage",
+          "genre": "House Music"
         },
         {
           "title": "Koven",
           "date": "2026-08-20T18:15:00",
-          "stage": "Electronic Green Stage"
+          "stage": "Electronic Green Stage",
+          "genre": "Electronic Dance Music"
         },
         {
           "title": "HBz",
@@ -136,12 +145,14 @@
         {
           "title": "Camo & Krooked",
           "date": "2026-08-20T20:45:00",
-          "stage": "Electronic Green Stage"
+          "stage": "Electronic Green Stage",
+          "genre": "Drum And Bass"
         },
         {
           "title": "Cascada",
           "date": "2026-08-20T17:30:00",
-          "stage": "Electronic Green Stage"
+          "stage": "Electronic Green Stage",
+          "genre": "Eurotrance"
         },
         {
           "title": "Hedex b2b Bou",
@@ -161,7 +172,8 @@
         {
           "title": "Disorder",
           "date": "2026-08-20T23:30:00",
-          "stage": "Infinity Nightstage"
+          "stage": "Infinity Nightstage",
+          "genre": "Hardcore Punk"
         },
         {
           "title": "Drum Dad & Bass Boy",
@@ -196,7 +208,8 @@
         {
           "title": "Natasha Bedingfield",
           "date": "2026-08-21T17:15:00",
-          "stage": "Space Stage"
+          "stage": "Space Stage",
+          "genre": "Pop Music"
         },
         {
           "title": "Sido",
@@ -206,12 +219,14 @@
         {
           "title": "Paul Kalkbrenner",
           "date": "2026-08-21T23:30:00",
-          "stage": "Space Stage"
+          "stage": "Space Stage",
+          "genre": "Techno"
         },
         {
           "title": "Tom Odell",
           "date": "2026-08-21T20:10:00",
-          "stage": "Space Stage"
+          "stage": "Space Stage",
+          "genre": "Indie Pop"
         },
         {
           "title": "OG Keemo",
@@ -221,7 +236,8 @@
         {
           "title": "Audrey Nuna",
           "date": "2026-08-21T18:40:00",
-          "stage": "Space Stage"
+          "stage": "Space Stage",
+          "genre": "K-Pop"
         },
         {
           "title": "Abor & Tynna",
@@ -241,12 +257,14 @@
         {
           "title": "Sub Focus",
           "date": "2026-08-21T20:25:00",
-          "stage": "Green Stage"
+          "stage": "Green Stage",
+          "genre": "Drum And Bass"
         },
         {
           "title": "Noga Erez",
           "date": "2026-08-21T15:00:00",
-          "stage": "Green Stage"
+          "stage": "Green Stage",
+          "genre": "Hip-Hop"
         },
         {
           "title": "Glueboys",
@@ -276,7 +294,8 @@
         {
           "title": "Esther Graf",
           "date": "2026-08-21T19:25:00",
-          "stage": "Infinity Live Stage"
+          "stage": "Infinity Live Stage",
+          "genre": "Pop Music"
         },
         {
           "title": "LEAP",
@@ -296,7 +315,8 @@
         {
           "title": "ClockClock",
           "date": "2026-08-21T20:55:00",
-          "stage": "Infinity Live Stage"
+          "stage": "Infinity Live Stage",
+          "genre": "Electronic Pop"
         },
         {
           "title": "Overpass",
@@ -351,12 +371,14 @@
         {
           "title": "Twenty One Pilots",
           "date": "2026-08-22T23:25:00",
-          "stage": "Space Stage"
+          "stage": "Space Stage",
+          "genre": "Reggae"
         },
         {
           "title": "Ken Carson",
           "date": "2026-08-22T21:35:00",
-          "stage": "Space Stage"
+          "stage": "Space Stage",
+          "genre": "Southern Hip-Hop"
         },
         {
           "title": "Ski Aggu",
@@ -371,12 +393,14 @@
         {
           "title": "Denzel Curry",
           "date": "2026-08-22T17:00:00",
-          "stage": "Space Stage"
+          "stage": "Space Stage",
+          "genre": "Hip-Hop"
         },
         {
           "title": "YT",
           "date": "2026-08-22T14:45:00",
-          "stage": "Space Stage"
+          "stage": "Space Stage",
+          "genre": "Electronic Dance Music"
         },
         {
           "title": "Two Feet",
@@ -386,17 +410,20 @@
         {
           "title": "NESS",
           "date": "2026-08-22T13:50:00",
-          "stage": "Space Stage"
+          "stage": "Space Stage",
+          "genre": "Hip-Hop"
         },
         {
           "title": "Ashnikko",
           "date": "2026-08-22T23:20:00",
-          "stage": "Green Stage"
+          "stage": "Green Stage",
+          "genre": "Hip-Hop"
         },
         {
           "title": "BBNO$",
           "date": "2026-08-22T21:35:00",
-          "stage": "Green Stage"
+          "stage": "Green Stage",
+          "genre": "Hip-Hop"
         },
         {
           "title": "Souly",
@@ -416,7 +443,8 @@
         {
           "title": "Culcha Candela",
           "date": "2026-08-22T17:15:00",
-          "stage": "Green Stage"
+          "stage": "Green Stage",
+          "genre": "Dancehall"
         },
         {
           "title": "Baran Kok",
@@ -426,7 +454,8 @@
         {
           "title": "Rich Amiri",
           "date": "2026-08-22T14:55:00",
-          "stage": "Green Stage"
+          "stage": "Green Stage",
+          "genre": "Hip-Hop"
         },
         {
           "title": "Ritter Lean",
@@ -471,7 +500,8 @@
         {
           "title": "Issey Cross",
           "date": "2026-08-23T00:45:00",
-          "stage": "Infinity Nightstage"
+          "stage": "Infinity Nightstage",
+          "genre": "Pop Music"
         },
         {
           "title": "Kanine",
@@ -549,7 +579,8 @@
         {
           "title": "Amyl and The Sniffers",
           "date": "2026-08-22T22:10:00",
-          "stage": "Marquee"
+          "stage": "Marquee",
+          "genre": "Punk Rock"
         },
         {
           "title": "Andromedik pres. Ascension",
@@ -564,7 +595,8 @@
         {
           "title": "Apparat",
           "date": "2026-08-22T23:15:00",
-          "stage": "Club"
+          "stage": "Club",
+          "genre": "Glitch"
         },
         {
           "title": "Aroh DJ b2b Otis",
@@ -584,27 +616,32 @@
         {
           "title": "Audrey Nuna",
           "date": "2026-08-23T17:15:00",
-          "stage": "Wave"
+          "stage": "Wave",
+          "genre": "K-Pop"
         },
         {
           "title": "Basement",
           "date": "2026-08-21T20:35:00",
-          "stage": "Backyard"
+          "stage": "Backyard",
+          "genre": "Alternative Rock"
         },
         {
           "title": "Baxter Dury",
           "date": "2026-08-23T20:30:00",
-          "stage": "Club"
+          "stage": "Club",
+          "genre": "Rock Music"
         },
         {
           "title": "Bazart",
           "date": "2026-08-23T16:10:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Synth-Pop"
         },
         {
           "title": "Becky Hill",
           "date": "2026-08-21T15:40:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Club/Dance Music"
         },
         {
           "title": "Bella Claxton",
@@ -624,12 +661,14 @@
         {
           "title": "BLOND:ISH",
           "date": "2026-08-21T21:00:00",
-          "stage": "Boiler"
+          "stage": "Boiler",
+          "genre": "House Music"
         },
         {
           "title": "Blood Orange",
           "date": "2026-08-23T19:25:00",
-          "stage": "Marquee"
+          "stage": "Marquee",
+          "genre": "Indie Pop"
         },
         {
           "title": "Bloody Bloody Kempen",
@@ -639,7 +678,8 @@
         {
           "title": "BLUAI",
           "date": "2026-08-23T13:25:00",
-          "stage": "Marquee"
+          "stage": "Marquee",
+          "genre": "Indie Folk"
         },
         {
           "title": "BOY&GIRL",
@@ -659,7 +699,8 @@
         {
           "title": "Camille Yembe",
           "date": "2026-08-21T13:55:00",
-          "stage": "Club"
+          "stage": "Club",
+          "genre": "Pop Music"
         },
         {
           "title": "Captain Comedy's All Stars",
@@ -679,7 +720,8 @@
         {
           "title": "CHAT PILE",
           "date": "2026-08-23T21:40:00",
-          "stage": "Backyard"
+          "stage": "Backyard",
+          "genre": "Noise Rock"
         },
         {
           "title": "Chloe Qisha",
@@ -699,7 +741,8 @@
         {
           "title": "Deafheaven",
           "date": "2026-08-22T20:00:00",
-          "stage": "Backyard"
+          "stage": "Backyard",
+          "genre": "Blackgaze"
         },
         {
           "title": "Dean Turnley",
@@ -709,17 +752,20 @@
         {
           "title": "Deftones",
           "date": "2026-08-22T21:05:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Alternative Metal"
         },
         {
           "title": "Denzel Curry",
           "date": "2026-08-23T17:15:00",
-          "stage": "Marquee"
+          "stage": "Marquee",
+          "genre": "Hip-Hop"
         },
         {
           "title": "dEUS",
           "date": "2026-08-20T23:10:00",
-          "stage": "Marquee"
+          "stage": "Marquee",
+          "genre": "Alternative Rock"
         },
         {
           "title": "Dijon",
@@ -749,7 +795,8 @@
         {
           "title": "Djo",
           "date": "2026-08-21T19:35:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Synth-Pop"
         },
         {
           "title": "DJ St. Paul",
@@ -814,7 +861,8 @@
         {
           "title": "Florence + The Machine",
           "date": "2026-08-22T23:15:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Art Rock"
         },
         {
           "title": "Flo Windey & Laurens Luyten",
@@ -829,7 +877,8 @@
         {
           "title": "Geese",
           "date": "2026-08-21T20:35:00",
-          "stage": "Marquee"
+          "stage": "Marquee",
+          "genre": "Indie Rock"
         },
         {
           "title": "Getdown Services",
@@ -874,7 +923,8 @@
         {
           "title": "IJSLAND",
           "date": "2026-08-21T19:30:00",
-          "stage": "Club"
+          "stage": "Club",
+          "genre": "Experimental Music"
         },
         {
           "title": "ILA",
@@ -894,12 +944,14 @@
         {
           "title": "Jalen Ngonda",
           "date": "2026-08-21T14:50:00",
-          "stage": "Marquee"
+          "stage": "Marquee",
+          "genre": "Soul"
         },
         {
           "title": "Jane Remover",
           "date": "2026-08-21T22:45:00",
-          "stage": "Lift"
+          "stage": "Lift",
+          "genre": "Digicore"
         },
         {
           "title": "Jarreau Vandal",
@@ -909,7 +961,8 @@
         {
           "title": "Jazzy",
           "date": "2026-08-21T19:30:00",
-          "stage": "Boiler"
+          "stage": "Boiler",
+          "genre": "Pop Music"
         },
         {
           "title": "JEKKAMAÏ",
@@ -924,7 +977,8 @@
         {
           "title": "John Summit",
           "date": "2026-08-21T22:30:00",
-          "stage": "Boiler"
+          "stage": "Boiler",
+          "genre": "Trance"
         },
         {
           "title": "Josh Baker",
@@ -934,12 +988,14 @@
         {
           "title": "Joy Orbison",
           "date": "2026-08-22T00:00:00",
-          "stage": "Booth"
+          "stage": "Booth",
+          "genre": "Dubstep"
         },
         {
           "title": "JPEGMAFIA",
           "date": "2026-08-22T22:10:00",
-          "stage": "Backyard"
+          "stage": "Backyard",
+          "genre": "Experimental Hip-Hop"
         },
         {
           "title": "juwlz",
@@ -949,12 +1005,14 @@
         {
           "title": "KABOUTERTJE PUTLUCHT",
           "date": "2026-08-21T00:20:00",
-          "stage": "Club"
+          "stage": "Club",
+          "genre": "Punk Rock"
         },
         {
           "title": "Kelis",
           "date": "2026-08-21T18:35:00",
-          "stage": "Marquee"
+          "stage": "Marquee",
+          "genre": "Neo Soul"
         },
         {
           "title": "KELS",
@@ -974,7 +1032,8 @@
         {
           "title": "KI/KI",
           "date": "2026-08-22T01:00:00",
-          "stage": "Wave"
+          "stage": "Wave",
+          "genre": "Electro"
         },
         {
           "title": "Kids With Buns",
@@ -999,7 +1058,8 @@
         {
           "title": "Lambrini Girls",
           "date": "2026-08-21T23:55:00",
-          "stage": "Club"
+          "stage": "Club",
+          "genre": "Punk Rock"
         },
         {
           "title": "LAURAVIOLI",
@@ -1024,7 +1084,8 @@
         {
           "title": "Lous and the Yakuza",
           "date": "2026-08-22T18:00:00",
-          "stage": "Marquee"
+          "stage": "Marquee",
+          "genre": "Trap Music"
         },
         {
           "title": "Love Spells",
@@ -1034,12 +1095,14 @@
         {
           "title": "Maan",
           "date": "2026-08-22T14:20:00",
-          "stage": "Wave"
+          "stage": "Wave",
+          "genre": "Rock Music"
         },
         {
           "title": "Major Lazer",
           "date": "2026-08-21T17:35:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Dancehall"
         },
         {
           "title": "Mala",
@@ -1054,17 +1117,20 @@
         {
           "title": "Maria Iskariot",
           "date": "2026-08-21T14:50:00",
-          "stage": "Backyard"
+          "stage": "Backyard",
+          "genre": "Punk Rock"
         },
         {
           "title": "Maribou State",
           "date": "2026-08-21T22:45:00",
-          "stage": "Wave"
+          "stage": "Wave",
+          "genre": "Electronic Music"
         },
         {
           "title": "Maruja",
           "date": "2026-08-22T16:55:00",
-          "stage": "Club"
+          "stage": "Club",
+          "genre": "Post-Rock"
         },
         {
           "title": "MEAU",
@@ -1099,7 +1165,8 @@
         {
           "title": "Natasha Bedingfield",
           "date": "2026-08-22T20:00:00",
-          "stage": "Wave"
+          "stage": "Wave",
+          "genre": "Pop Music"
         },
         {
           "title": "NC",
@@ -1119,7 +1186,8 @@
         {
           "title": "Ninajirachi",
           "date": "2026-08-21T20:35:00",
-          "stage": "Lift"
+          "stage": "Lift",
+          "genre": "Electronic Dance Music"
         },
         {
           "title": "Nona Van Braeckel",
@@ -1129,7 +1197,8 @@
         {
           "title": "Notion",
           "date": "2026-08-22T18:30:00",
-          "stage": "Boiler"
+          "stage": "Boiler",
+          "genre": "Alternative Rock"
         },
         {
           "title": "Novah",
@@ -1169,7 +1238,8 @@
         {
           "title": "Parcels",
           "date": "2026-08-23T21:30:00",
-          "stage": "Marquee"
+          "stage": "Marquee",
+          "genre": "Synth-Pop"
         },
         {
           "title": "PARTYOF2",
@@ -1189,7 +1259,8 @@
         {
           "title": "PLOEGENDIENST",
           "date": "2026-08-23T15:15:00",
-          "stage": "Backyard"
+          "stage": "Backyard",
+          "genre": "Thrash Metal"
         },
         {
           "title": "Prinsezy",
@@ -1204,7 +1275,8 @@
         {
           "title": "Ravyn Lenae",
           "date": "2026-08-23T15:20:00",
-          "stage": "Wave"
+          "stage": "Wave",
+          "genre": "Contemporary R&B"
         },
         {
           "title": "Re-Type",
@@ -1219,7 +1291,8 @@
         {
           "title": "Rose Gray",
           "date": "2026-08-23T19:25:00",
-          "stage": "Lift"
+          "stage": "Lift",
+          "genre": "Pop Music"
         },
         {
           "title": "ROW1",
@@ -1229,12 +1302,14 @@
         {
           "title": "Roxy Dekker",
           "date": "2026-08-21T12:10:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Nederpop"
         },
         {
           "title": "S10",
           "date": "2026-08-23T14:15:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Dutch Hip Hop"
         },
         {
           "title": "Sef",
@@ -1254,7 +1329,8 @@
         {
           "title": "Show Me The Body",
           "date": "2026-08-22T18:00:00",
-          "stage": "Backyard"
+          "stage": "Backyard",
+          "genre": "Hardcore Punk"
         },
         {
           "title": "Skye Newman",
@@ -1264,27 +1340,32 @@
         {
           "title": "SOMBR",
           "date": "2026-08-23T20:30:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Alternative Pop"
         },
         {
           "title": "Soulwax",
           "date": "2026-08-22T01:00:00",
-          "stage": "Marquee"
+          "stage": "Marquee",
+          "genre": "Indie Rock"
         },
         {
           "title": "Speed",
           "date": "2026-08-23T17:15:00",
-          "stage": "Backyard"
+          "stage": "Backyard",
+          "genre": "J-Pop"
         },
         {
           "title": "SPRINTS",
           "date": "2026-08-23T14:20:00",
-          "stage": "Club"
+          "stage": "Club",
+          "genre": "Post-Punk"
         },
         {
           "title": "Stick To Your Guns",
           "date": "2026-08-21T22:45:00",
-          "stage": "Backyard"
+          "stage": "Backyard",
+          "genre": "Hardcore Punk"
         },
         {
           "title": "Stijn Van De Voorde & Thibault Christiaensen",
@@ -1324,12 +1405,14 @@
         {
           "title": "The Hives",
           "date": "2026-08-21T22:45:00",
-          "stage": "Marquee"
+          "stage": "Marquee",
+          "genre": "Garage Rock"
         },
         {
           "title": "The Subs",
           "date": "2026-08-22T17:55:00",
-          "stage": "Wave"
+          "stage": "Wave",
+          "genre": "Electro"
         },
         {
           "title": "The Whatevers",
@@ -1349,17 +1432,20 @@
         {
           "title": "TRASH TALK",
           "date": "2026-08-23T19:25:00",
-          "stage": "Backyard"
+          "stage": "Backyard",
+          "genre": "Hardcore Punk"
         },
         {
           "title": "Turnstile",
           "date": "2026-08-21T21:35:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Hardcore Punk"
         },
         {
           "title": "Tyler, The Creator",
           "date": "2026-08-23T22:45:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Alternative Hip-Hop"
         },
         {
           "title": "Tyler Ballgame",
@@ -1369,7 +1455,8 @@
         {
           "title": "Underworld",
           "date": "2026-08-23T00:45:00",
-          "stage": "Marquee"
+          "stage": "Marquee",
+          "genre": "Synth-Pop"
         },
         {
           "title": "Unregular",
@@ -1399,12 +1486,14 @@
         {
           "title": "Wednesday",
           "date": "2026-08-21T17:30:00",
-          "stage": "Club"
+          "stage": "Club",
+          "genre": "Indie Rock"
         },
         {
           "title": "Wet Leg",
           "date": "2026-08-22T16:55:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Alternative Rock"
         },
         {
           "title": "Wild Classical Music Ensemble",
@@ -1414,12 +1503,14 @@
         {
           "title": "Wilkinson",
           "date": "2026-08-23T20:15:00",
-          "stage": "Boiler"
+          "stage": "Boiler",
+          "genre": "Drum And Bass"
         },
         {
           "title": "Witch Fever",
           "date": "2026-08-22T14:20:00",
-          "stage": "Backyard"
+          "stage": "Backyard",
+          "genre": "Punk Rock"
         },
         {
           "title": "WORKSTATION presented by Amber Broos",
@@ -1439,12 +1530,14 @@
         {
           "title": "YUNGBLUD",
           "date": "2026-08-21T23:45:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Alternative Rock"
         },
         {
           "title": "Zara Larsson",
           "date": "2026-08-23T18:20:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Dance-Pop"
         }
       ]
     },
@@ -1494,7 +1587,8 @@
         },
         {
           "title": "Alpha Blondy & The Solar System",
-          "date": "2026-08-17"
+          "date": "2026-08-17",
+          "genre": "Reggae"
         },
         {
           "title": "Luciano & Jah Messenjah",
@@ -1502,7 +1596,8 @@
         },
         {
           "title": "Mr. Vegas",
-          "date": "2026-08-17"
+          "date": "2026-08-17",
+          "genre": "Dancehall"
         },
         {
           "title": "The Skatalites ft. Alpheus",
@@ -1514,7 +1609,8 @@
         },
         {
           "title": "Hollie Cook",
-          "date": "2026-08-17"
+          "date": "2026-08-17",
+          "genre": "Reggae"
         },
         {
           "title": "Las Ninyas del Corro",
@@ -1550,7 +1646,8 @@
         },
         {
           "title": "Atlas Sound",
-          "date": "2026-08-17"
+          "date": "2026-08-17",
+          "genre": "Alternative Rock"
         },
         {
           "title": "Raggamuri",
@@ -1570,11 +1667,13 @@
         },
         {
           "title": "Biga*Ranx",
-          "date": "2026-08-18"
+          "date": "2026-08-18",
+          "genre": "Dub Music"
         },
         {
           "title": "Charly Black",
-          "date": "2026-08-18"
+          "date": "2026-08-18",
+          "genre": "Dancehall"
         },
         {
           "title": "Alpha Steppa",
@@ -1638,7 +1737,8 @@
         },
         {
           "title": "Dub Inc",
-          "date": "2026-08-19"
+          "date": "2026-08-19",
+          "genre": "Reggae"
         },
         {
           "title": "The Itals & The Roots Radics",
@@ -1650,7 +1750,8 @@
         },
         {
           "title": "Bamby",
-          "date": "2026-08-19"
+          "date": "2026-08-19",
+          "genre": "Dancehall"
         },
         {
           "title": "Omar Perry & Easy Riddim Maker",
@@ -1666,7 +1767,8 @@
         },
         {
           "title": "DJ Mac",
-          "date": "2026-08-19"
+          "date": "2026-08-19",
+          "genre": "Electronic Dance Music"
         },
         {
           "title": "Serena",
@@ -1706,7 +1808,8 @@
         },
         {
           "title": "Shenseea",
-          "date": "2026-08-20"
+          "date": "2026-08-20",
+          "genre": "Reggae"
         },
         {
           "title": "Israel Vibration & The Roots Radics",
@@ -1722,7 +1825,8 @@
         },
         {
           "title": "Omega Nebula",
-          "date": "2026-08-20"
+          "date": "2026-08-20",
+          "genre": "Dub Music"
         },
         {
           "title": "Tony Matterhorn",
@@ -1782,7 +1886,8 @@
         },
         {
           "title": "Twinkle Brothers",
-          "date": "2026-08-21"
+          "date": "2026-08-21",
+          "genre": "Reggae"
         },
         {
           "title": "Bushman & The Grassroots",
@@ -1790,7 +1895,8 @@
         },
         {
           "title": "Natalia Doco",
-          "date": "2026-08-21"
+          "date": "2026-08-21",
+          "genre": "Music Of Latin America"
         },
         {
           "title": "Macka B & The Roots Ragga Band",
@@ -1798,11 +1904,13 @@
         },
         {
           "title": "Bleu Soleil",
-          "date": "2026-08-21"
+          "date": "2026-08-21",
+          "genre": "Electropop"
         },
         {
           "title": "Lady Leshurr",
-          "date": "2026-08-21"
+          "date": "2026-08-21",
+          "genre": "Grime"
         },
         {
           "title": "King Addies",
@@ -1846,7 +1954,8 @@
         },
         {
           "title": "Suzete",
-          "date": "2026-08-21"
+          "date": "2026-08-21",
+          "genre": "Pop Music"
         },
         {
           "title": "Kybba",
@@ -1946,32 +2055,38 @@
         {
           "title": "Morcheeba",
           "date": "2026-08-10T19:45:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Trip Hop"
         },
         {
           "title": "Faithless",
           "date": "2026-08-10T21:30:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "House Music"
         },
         {
           "title": "Bad Nerves",
           "date": "2026-08-11T16:00:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Garage Punk"
         },
         {
           "title": "Wolf Alice",
           "date": "2026-08-11T17:30:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Alternative Rock"
         },
         {
           "title": "Zara Larsson",
           "date": "2026-08-11T19:15:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Dance-Pop"
         },
         {
           "title": "SOMBR",
           "date": "2026-08-11T21:30:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Alternative Pop"
         },
         {
           "title": "Giant Rooks",
@@ -1981,17 +2096,20 @@
         {
           "title": "Carson Coma",
           "date": "2026-08-12T17:30:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Rock Music"
         },
         {
           "title": "Biffy Clyro",
           "date": "2026-08-12T19:15:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Indie Rock"
         },
         {
           "title": "Twenty One Pilots",
           "date": "2026-08-12T21:15:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Reggae"
         },
         {
           "title": "Paris Paloma",
@@ -2001,37 +2119,44 @@
         {
           "title": "Loyle Carner",
           "date": "2026-08-13T17:30:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Hip-Hop"
         },
         {
           "title": "Lewis Capaldi",
           "date": "2026-08-13T19:15:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Blue-Eyed Soul"
         },
         {
           "title": "Florence + the Machine",
           "date": "2026-08-13T21:15:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Art Rock"
         },
         {
           "title": "Karen Dió",
           "date": "2026-08-14T16:00:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Dance Music"
         },
         {
           "title": "Sigrid",
           "date": "2026-08-14T17:30:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Pop Music"
         },
         {
           "title": "Skepta",
           "date": "2026-08-14T19:15:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Uk Rap"
         },
         {
           "title": "Bring Me The Horizon",
           "date": "2026-08-14T21:30:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Techno"
         },
         {
           "title": "Sisi",
@@ -2041,7 +2166,8 @@
         {
           "title": "bbno$",
           "date": "2026-08-15T17:30:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Hip-Hop"
         },
         {
           "title": "Jorja Smith (party set)",
@@ -2051,7 +2177,8 @@
         {
           "title": "Skrillex",
           "date": "2026-08-15T21:15:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Electronic Dance Music"
         },
         {
           "title": "After: Korda György és Balázs Klári",
@@ -2066,17 +2193,20 @@
         {
           "title": "Ana Frango Elétrico",
           "date": "2026-08-11T18:00:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Indie Pop"
         },
         {
           "title": "Lambrini Girls",
           "date": "2026-08-11T19:45:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Punk Rock"
         },
         {
           "title": "Kim Dracula",
           "date": "2026-08-11T21:45:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Trap Metal"
         },
         {
           "title": "Dijon",
@@ -2086,7 +2216,8 @@
         {
           "title": "Underworld",
           "date": "2026-08-12T01:30:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Synth-Pop"
         },
         {
           "title": "ALT BLK ERA",
@@ -2101,27 +2232,32 @@
         {
           "title": "Natasha Bedingfield",
           "date": "2026-08-12T19:45:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Pop Music"
         },
         {
           "title": "Chet Faker",
           "date": "2026-08-12T21:45:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Soul"
         },
         {
           "title": "Ashnikko",
           "date": "2026-08-12T23:45:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Hip-Hop"
         },
         {
           "title": "TOMORA",
           "date": "2026-08-13T01:30:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Electronic Music"
         },
         {
           "title": "Black Country, New Road",
           "date": "2026-08-13T16:30:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Indie Rock"
         },
         {
           "title": "makrohang",
@@ -2141,7 +2277,8 @@
         {
           "title": "Parcels",
           "date": "2026-08-13T23:45:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Synth-Pop"
         },
         {
           "title": "Antony Szmierek",
@@ -2151,17 +2288,20 @@
         {
           "title": "Nation of Language",
           "date": "2026-08-14T16:30:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Indie Pop"
         },
         {
           "title": "Rose Gray",
           "date": "2026-08-14T18:00:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Pop Music"
         },
         {
           "title": "Naïka",
           "date": "2026-08-14T19:45:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Pop Music"
         },
         {
           "title": "Ski Aggu",
@@ -2176,7 +2316,8 @@
         {
           "title": "BUNT.",
           "date": "2026-08-15T01:30:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Folk Music"
         },
         {
           "title": "Cassia",
@@ -2191,7 +2332,8 @@
         {
           "title": "Charlotte Cardin",
           "date": "2026-08-15T19:45:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Pop Music"
         },
         {
           "title": "Elefánt",
@@ -2201,7 +2343,8 @@
         {
           "title": "Soulwax",
           "date": "2026-08-16T00:00:00",
-          "stage": "Revolut Stage"
+          "stage": "Revolut Stage",
+          "genre": "Indie Rock"
         },
         {
           "title": "2manydjs (DJ Set)",
@@ -2226,7 +2369,8 @@
         {
           "title": "Sara Landry",
           "date": "2026-08-12T02:00:00",
-          "stage": "Bolt Night Stage"
+          "stage": "Bolt Night Stage",
+          "genre": "Industrial Techno"
         },
         {
           "title": "Trym",
@@ -2281,7 +2425,8 @@
         {
           "title": "Boys Noize",
           "date": "2026-08-14T04:00:00",
-          "stage": "Bolt Night Stage"
+          "stage": "Bolt Night Stage",
+          "genre": "Electro House"
         },
         {
           "title": "MPH",
@@ -2326,7 +2471,8 @@
         {
           "title": "Sub Focus",
           "date": "2026-08-16T00:30:00",
-          "stage": "Bolt Night Stage"
+          "stage": "Bolt Night Stage",
+          "genre": "Drum And Bass"
         },
         {
           "title": "Dimension",
@@ -2336,7 +2482,8 @@
         {
           "title": "Zomboy",
           "date": "2026-08-16T03:00:00",
-          "stage": "Bolt Night Stage"
+          "stage": "Bolt Night Stage",
+          "genre": "Dubstep"
         },
         {
           "title": "Flux Pavilion b2b Jessica Audiffred",
@@ -2371,12 +2518,14 @@
         {
           "title": "SYREETA",
           "date": "2026-08-11T21:30:00",
-          "stage": "Yettel Colosseum"
+          "stage": "Yettel Colosseum",
+          "genre": "Soul"
         },
         {
           "title": "Jazzy",
           "date": "2026-08-11T23:00:00",
-          "stage": "Yettel Colosseum"
+          "stage": "Yettel Colosseum",
+          "genre": "Pop Music"
         },
         {
           "title": "Coco & Breezy",
@@ -2386,7 +2535,8 @@
         {
           "title": "Mëstiza",
           "date": "2026-08-12T02:00:00",
-          "stage": "Yettel Colosseum"
+          "stage": "Yettel Colosseum",
+          "genre": "Afro House"
         },
         {
           "title": "Antdot",
@@ -2401,7 +2551,8 @@
         {
           "title": "HANK",
           "date": "2026-08-12T17:00:00",
-          "stage": "Yettel Colosseum"
+          "stage": "Yettel Colosseum",
+          "genre": "Country Music"
         },
         {
           "title": "Tolo & Falcao (LavaLava)",
@@ -2426,12 +2577,14 @@
         {
           "title": "Tiga",
           "date": "2026-08-13T00:00:00",
-          "stage": "Yettel Colosseum"
+          "stage": "Yettel Colosseum",
+          "genre": "Electro"
         },
         {
           "title": "¥ØU$UK€ ¥UK1MAT$U",
           "date": "2026-08-13T01:30:00",
-          "stage": "Yettel Colosseum"
+          "stage": "Yettel Colosseum",
+          "genre": "Trance"
         },
         {
           "title": "Haai",
@@ -2456,7 +2609,8 @@
         {
           "title": "Olympe",
           "date": "2026-08-13T19:30:00",
-          "stage": "Yettel Colosseum"
+          "stage": "Yettel Colosseum",
+          "genre": "Pop Music"
         },
         {
           "title": "ANNA",
@@ -2471,17 +2625,20 @@
         {
           "title": "Joris Voorn",
           "date": "2026-08-14T00:30:00",
-          "stage": "Yettel Colosseum"
+          "stage": "Yettel Colosseum",
+          "genre": "Techno"
         },
         {
           "title": "Richie Hawtin",
           "date": "2026-08-14T02:00:00",
-          "stage": "Yettel Colosseum"
+          "stage": "Yettel Colosseum",
+          "genre": "Minimal Techno"
         },
         {
           "title": "Pan-Pot",
           "date": "2026-08-14T03:30:00",
-          "stage": "Yettel Colosseum"
+          "stage": "Yettel Colosseum",
+          "genre": "Electronic Music"
         },
         {
           "title": "sim0ne",
@@ -2591,7 +2748,8 @@
         {
           "title": "KiNK",
           "date": "2026-08-12T00:00:00",
-          "stage": "Arzenál x Turbina"
+          "stage": "Arzenál x Turbina",
+          "genre": "J-Pop"
         },
         {
           "title": "CVRDWELL Live",
@@ -2661,7 +2819,8 @@
         {
           "title": "Koven",
           "date": "2026-08-13T23:30:00",
-          "stage": "Arzenál x Turbina"
+          "stage": "Arzenál x Turbina",
+          "genre": "Electronic Dance Music"
         },
         {
           "title": "Bug",
@@ -2756,7 +2915,8 @@
         {
           "title": "Perturbator",
           "date": "2026-08-11T23:10:00",
-          "stage": "The Buzz by DHL"
+          "stage": "The Buzz by DHL",
+          "genre": "Synthwave"
         },
         {
           "title": "Soft Loft",
@@ -2811,7 +2971,8 @@
         {
           "title": "John Coffey",
           "date": "2026-08-13T21:30:00",
-          "stage": "The Buzz by DHL"
+          "stage": "The Buzz by DHL",
+          "genre": "Punk Rock"
         },
         {
           "title": "Sylvie Kreusch",
@@ -2836,17 +2997,20 @@
         {
           "title": "Baby Lasagna",
           "date": "2026-08-14T20:00:00",
-          "stage": "The Buzz by DHL"
+          "stage": "The Buzz by DHL",
+          "genre": "Rock Music"
         },
         {
           "title": "Altin Gün",
           "date": "2026-08-14T21:30:00",
-          "stage": "The Buzz by DHL"
+          "stage": "The Buzz by DHL",
+          "genre": "Psychedelic Folk"
         },
         {
           "title": "Annisokay",
           "date": "2026-08-14T23:10:00",
-          "stage": "The Buzz by DHL"
+          "stage": "The Buzz by DHL",
+          "genre": "Post-Hardcore"
         },
         {
           "title": "Bratri",
@@ -2861,7 +3025,8 @@
         {
           "title": "Dressed Like Boys",
           "date": "2026-08-15T18:30:00",
-          "stage": "The Buzz by DHL"
+          "stage": "The Buzz by DHL",
+          "genre": "Indie Pop"
         },
         {
           "title": "Evening Elephants",
@@ -2891,7 +3056,8 @@
         {
           "title": "WAVY",
           "date": "2026-08-11T23:00:00",
-          "stage": "Visa Live x Dropyard"
+          "stage": "Visa Live x Dropyard",
+          "genre": "Hip-Hop"
         },
         {
           "title": "Lil Frakk",
@@ -2921,7 +3087,8 @@
         {
           "title": "YT",
           "date": "2026-08-12T23:00:00",
-          "stage": "Visa Live x Dropyard"
+          "stage": "Visa Live x Dropyard",
+          "genre": "Electronic Dance Music"
         },
         {
           "title": "DJ SHOCCA & GUESTS | 60 HZ II Summer Tour with Ensi, Johnny Marsiglia, Madbuddy",
@@ -2956,7 +3123,8 @@
         {
           "title": "6363",
           "date": "2026-08-14T00:10:00",
-          "stage": "Visa Live x Dropyard"
+          "stage": "Visa Live x Dropyard",
+          "genre": "Trap Music"
         },
         {
           "title": "NCT and Friends: Elipsa",
@@ -3016,7 +3184,8 @@
         {
           "title": "Irie Maffia",
           "date": "2026-08-11T18:20:00",
-          "stage": "Budapest Park Stage"
+          "stage": "Budapest Park Stage",
+          "genre": "Reggae"
         },
         {
           "title": "Mehringer",
@@ -3051,7 +3220,8 @@
         {
           "title": "Ivan & The Parazol",
           "date": "2026-08-12T18:20:00",
-          "stage": "Budapest Park Stage"
+          "stage": "Budapest Park Stage",
+          "genre": "Alternative Rock"
         },
         {
           "title": "Bohemian Betyars X Parno Graszt",
@@ -3066,7 +3236,8 @@
         {
           "title": "Kispál és a Borz",
           "date": "2026-08-12T23:00:00",
-          "stage": "Budapest Park Stage"
+          "stage": "Budapest Park Stage",
+          "genre": "Alternative Rock"
         },
         {
           "title": "Tesco Disco",
@@ -3081,7 +3252,8 @@
         {
           "title": "Kolibri",
           "date": "2026-08-13T18:20:00",
-          "stage": "Budapest Park Stage"
+          "stage": "Budapest Park Stage",
+          "genre": "Experimental Rock"
         },
         {
           "title": "Co Lee",
@@ -3121,7 +3293,8 @@
         {
           "title": "Pogány Induló",
           "date": "2026-08-14T21:20:00",
-          "stage": "Budapest Park Stage"
+          "stage": "Budapest Park Stage",
+          "genre": "Hip-Hop"
         },
         {
           "title": "Beton.Hofi",
@@ -3141,22 +3314,26 @@
         {
           "title": "Pál Utcai Fiúk",
           "date": "2026-08-15T18:20:00",
-          "stage": "Budapest Park Stage"
+          "stage": "Budapest Park Stage",
+          "genre": "Rock Music"
         },
         {
           "title": "Blahalouisiana",
           "date": "2026-08-15T19:50:00",
-          "stage": "Budapest Park Stage"
+          "stage": "Budapest Park Stage",
+          "genre": "Soul"
         },
         {
           "title": "Quimby",
           "date": "2026-08-15T21:20:00",
-          "stage": "Budapest Park Stage"
+          "stage": "Budapest Park Stage",
+          "genre": "Alternative Rock"
         },
         {
           "title": "Analog Balaton",
           "date": "2026-08-15T23:00:00",
-          "stage": "Budapest Park Stage"
+          "stage": "Budapest Park Stage",
+          "genre": "Electronic Music"
         },
         {
           "title": "Sziget Záróbuli! A Sziget alapító zenekara: SZIÁMI és a Vendégek & Ági és a fiúk",
@@ -3396,7 +3573,8 @@
         {
           "title": "Belano",
           "date": "2026-08-12T23:00:00",
-          "stage": "Bacardí Stage"
+          "stage": "Bacardí Stage",
+          "genre": "Synth-Pop"
         },
         {
           "title": "KKevin",
@@ -3421,12 +3599,14 @@
         {
           "title": "Fiúk",
           "date": "2026-08-13T20:00:00",
-          "stage": "Bacardí Stage"
+          "stage": "Bacardí Stage",
+          "genre": "Teen Pop"
         },
         {
           "title": "VINI",
           "date": "2026-08-13T23:00:00",
-          "stage": "Bacardí Stage"
+          "stage": "Bacardí Stage",
+          "genre": "Bossa Nova"
         },
         {
           "title": "Bruno X Spacc",
@@ -3486,7 +3666,8 @@
         {
           "title": "Stephanie",
           "date": "2026-08-10T22:45:00",
-          "stage": "Coca-Cola Stage"
+          "stage": "Coca-Cola Stage",
+          "genre": "K-Pop"
         },
         {
           "title": "KRISTOF KOSZEGI",
@@ -3546,7 +3727,8 @@
         {
           "title": "Antique",
           "date": "2026-08-14T03:00:00",
-          "stage": "Coca-Cola Stage"
+          "stage": "Coca-Cola Stage",
+          "genre": "Laïko"
         },
         {
           "title": "KRISTOF KOSZEGI",

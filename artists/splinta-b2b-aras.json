@@ -1,4 +1,5 @@
 {
   "name": "Splinta b2b Aras",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

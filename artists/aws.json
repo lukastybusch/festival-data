@@ -1,4 +1,5 @@
 {
   "name": "AWS",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

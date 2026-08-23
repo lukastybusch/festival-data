@@ -1,4 +1,5 @@
 {
   "name": "APE Soundsystem",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

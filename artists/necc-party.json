@@ -1,4 +1,5 @@
 {
   "name": "NECC PARTY",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

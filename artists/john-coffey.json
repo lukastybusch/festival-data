@@ -1,3 +1,5 @@
 {
-  "name": "John Coffey"
+  "name": "John Coffey",
+  "genreChecked": true,
+  "genre": "Punk Rock"
 }

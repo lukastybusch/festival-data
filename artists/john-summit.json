@@ -1,3 +1,5 @@
 {
-  "name": "John Summit"
+  "name": "John Summit",
+  "genreChecked": true,
+  "genre": "Trance"
 }

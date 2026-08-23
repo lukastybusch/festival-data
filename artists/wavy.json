@@ -1,4 +1,6 @@
 {
   "name": "WAVY",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true,
+  "genre": "Hip-Hop"
 }

@@ -1,4 +1,5 @@
 {
   "name": "K-OSZ DISCO",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

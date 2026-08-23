@@ -1,4 +1,5 @@
 {
   "name": "Arter",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

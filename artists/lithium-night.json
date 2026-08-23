@@ -1,4 +1,5 @@
 {
   "name": "Lithium Night",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

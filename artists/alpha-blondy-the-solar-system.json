@@ -1,4 +1,6 @@
 {
   "name": "Alpha Blondy & The Solar System",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true,
+  "genre": "Reggae"
 }

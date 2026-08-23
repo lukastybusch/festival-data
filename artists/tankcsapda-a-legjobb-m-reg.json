@@ -1,4 +1,5 @@
 {
   "name": "Tankcsapda - A legjobb méreg",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

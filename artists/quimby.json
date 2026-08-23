@@ -1,3 +1,5 @@
 {
-  "name": "Quimby"
+  "name": "Quimby",
+  "genreChecked": true,
+  "genre": "Alternative Rock"
 }

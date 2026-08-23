@@ -1,4 +1,5 @@
 {
   "name": "Skore b2b Sequent",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

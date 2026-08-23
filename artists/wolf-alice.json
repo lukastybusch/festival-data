@@ -1,3 +1,5 @@
 {
-  "name": "Wolf Alice"
+  "name": "Wolf Alice",
+  "genreChecked": true,
+  "genre": "Alternative Rock"
 }

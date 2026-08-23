@@ -1,4 +1,5 @@
 {
   "name": "Bernathy Live",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

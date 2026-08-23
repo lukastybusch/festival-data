@@ -1,4 +1,6 @@
 {
   "name": "Stephanie",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true,
+  "genre": "K-Pop"
 }

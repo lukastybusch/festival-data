@@ -1,4 +1,5 @@
 {
   "name": "Mr. Highfi",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

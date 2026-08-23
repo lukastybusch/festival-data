@@ -1,4 +1,5 @@
 {
   "name": "Captain Comedy's All Stars",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

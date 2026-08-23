@@ -1,4 +1,5 @@
 {
   "name": "Pendulum dj set",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

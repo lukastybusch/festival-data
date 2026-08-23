@@ -1,4 +1,5 @@
 {
   "name": "Dub Academy All Stars",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

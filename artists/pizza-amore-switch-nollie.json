@@ -1,4 +1,5 @@
 {
   "name": "Pizza Amore & Switch Nollie",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

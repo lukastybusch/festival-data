@@ -1,4 +1,5 @@
 {
   "name": "Kölsch live",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

@@ -1,4 +1,5 @@
 {
   "name": "CHROMA SOUND SYSTEM",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

@@ -1,4 +1,5 @@
 {
   "name": "Bug",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

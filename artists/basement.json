@@ -1,3 +1,5 @@
 {
-  "name": "Basement"
+  "name": "Basement",
+  "genreChecked": true,
+  "genre": "Alternative Rock"
 }

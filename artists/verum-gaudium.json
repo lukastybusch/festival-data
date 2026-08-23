@@ -1,4 +1,5 @@
 {
   "name": "VERUM GAUDIUM",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

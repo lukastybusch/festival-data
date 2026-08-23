@@ -1,4 +1,5 @@
 {
   "name": "Raggamuri",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

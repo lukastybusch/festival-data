@@ -1,4 +1,5 @@
 {
   "name": "Afrocall",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

@@ -1,4 +1,5 @@
 {
   "name": "OTO",
-  "spotifyMatch": "none"
+  "spotifyMatch": "none",
+  "genreChecked": true
 }

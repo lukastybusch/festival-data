@@ -3839,82 +3839,98 @@
         {
           "title": "Soundcheck Sam",
           "date": "2026-08-23T18:00:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Indie"
         },
         {
           "title": "Bass Test Bertha",
           "date": "2026-08-23T20:00:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Techno"
         },
         {
           "title": "Headliner Zero",
           "date": "2026-08-23T22:00:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Pop"
         },
         {
           "title": "Afternoon Alex",
           "date": "2026-08-24T14:00:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Reggae"
         },
         {
           "title": "Evening Emma",
           "date": "2026-08-24T18:00:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Rock"
         },
         {
           "title": "Prime Time Pete",
           "date": "2026-08-24T20:00:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Pop"
         },
         {
           "title": "Nightfall Nina",
           "date": "2026-08-24T22:00:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "House"
         },
         {
           "title": "Late Lars",
           "date": "2026-08-24T23:00:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Techno"
         },
         {
           "title": "After Hours Ada",
           "date": "2026-08-25T01:00:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Drum and Bass"
         },
         {
           "title": "Warmup Wanda",
           "date": "2026-08-24T19:00:00",
-          "stage": "Second Stage"
+          "stage": "Second Stage",
+          "genre": "Indie"
         },
         {
           "title": "Clash Clara",
           "date": "2026-08-24T23:00:00",
-          "stage": "Second Stage"
+          "stage": "Second Stage",
+          "genre": "Alternative"
         },
         {
           "title": "Sunrise Sven",
           "date": "2026-08-25T03:00:00",
-          "stage": "Second Stage"
+          "stage": "Second Stage",
+          "genre": "Ambient"
         },
         {
           "title": "DJ Debug",
           "date": "2026-08-25T00:00:00",
-          "stage": "Club"
+          "stage": "Club",
+          "genre": "Electronic"
         },
         {
           "title": "Closing Chris",
           "date": "2026-08-25T20:00:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Pop"
         },
         {
           "title": "Final Fiona",
           "date": "2026-08-25T22:00:00",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Rock"
         },
         {
           "title": "TBA Terry",
           "date": "2026-08-26",
-          "stage": "Main Stage"
+          "stage": "Main Stage",
+          "genre": "Pop"
         }
       ]
     }

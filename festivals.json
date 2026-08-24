@@ -3837,100 +3837,100 @@
       "ticketURL": "https://example.com/tickets",
       "schedule": [
         {
-          "title": "Soundcheck Sam",
+          "title": "Wolf Alice",
           "date": "2026-08-23T18:00:00",
           "stage": "Main Stage",
-          "genre": "Indie"
+          "genre": "Indie Rock"
         },
         {
-          "title": "Bass Test Bertha",
+          "title": "Bonobo",
           "date": "2026-08-23T20:00:00",
           "stage": "Main Stage",
-          "genre": "Techno"
+          "genre": "Electronic"
         },
         {
-          "title": "Headliner Zero",
+          "title": "Twenty One Pilots",
           "date": "2026-08-23T22:00:00",
+          "stage": "Main Stage",
+          "genre": "Alternative"
+        },
+        {
+          "title": "Zara Larsson",
+          "date": "2026-08-24T14:00:00",
           "stage": "Main Stage",
           "genre": "Pop"
         },
         {
-          "title": "Afternoon Alex",
-          "date": "2026-08-24T14:00:00",
-          "stage": "Main Stage",
-          "genre": "Reggae"
-        },
-        {
-          "title": "Evening Emma",
+          "title": "Royal Blood",
           "date": "2026-08-24T18:00:00",
           "stage": "Main Stage",
           "genre": "Rock"
         },
         {
-          "title": "Prime Time Pete",
+          "title": "Glass Animals",
           "date": "2026-08-24T20:00:00",
           "stage": "Main Stage",
-          "genre": "Pop"
+          "genre": "Indie"
         },
         {
-          "title": "Nightfall Nina",
+          "title": "Peggy Gou",
           "date": "2026-08-24T22:00:00",
           "stage": "Main Stage",
           "genre": "House"
         },
         {
-          "title": "Late Lars",
+          "title": "Skrillex",
           "date": "2026-08-24T23:00:00",
           "stage": "Main Stage",
-          "genre": "Techno"
+          "genre": "Dubstep"
         },
         {
-          "title": "After Hours Ada",
+          "title": "Fred again..",
           "date": "2026-08-25T01:00:00",
           "stage": "Main Stage",
-          "genre": "Drum and Bass"
+          "genre": "Electronic"
         },
         {
-          "title": "Warmup Wanda",
+          "title": "Jungle",
           "date": "2026-08-24T19:00:00",
           "stage": "Second Stage",
-          "genre": "Indie"
+          "genre": "Funk"
         },
         {
-          "title": "Clash Clara",
+          "title": "Fontaines D.C.",
           "date": "2026-08-24T23:00:00",
           "stage": "Second Stage",
-          "genre": "Alternative"
+          "genre": "Post-Punk"
         },
         {
-          "title": "Sunrise Sven",
+          "title": "Ben Böhmer",
           "date": "2026-08-25T03:00:00",
           "stage": "Second Stage",
-          "genre": "Ambient"
+          "genre": "Melodic House"
         },
         {
-          "title": "DJ Debug",
+          "title": "Four Tet",
           "date": "2026-08-25T00:00:00",
           "stage": "Club",
           "genre": "Electronic"
         },
         {
-          "title": "Closing Chris",
+          "title": "Florence + the Machine",
           "date": "2026-08-25T20:00:00",
           "stage": "Main Stage",
-          "genre": "Pop"
+          "genre": "Art Pop"
         },
         {
-          "title": "Final Fiona",
+          "title": "Arctic Monkeys",
           "date": "2026-08-25T22:00:00",
           "stage": "Main Stage",
-          "genre": "Rock"
+          "genre": "Indie Rock"
         },
         {
-          "title": "TBA Terry",
+          "title": "Tame Impala",
           "date": "2026-08-26",
           "stage": "Main Stage",
-          "genre": "Pop"
+          "genre": "Psychedelic Rock"
         }
       ]
     }

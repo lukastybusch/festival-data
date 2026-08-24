@@ -1,5 +1,5 @@
 {
-  "_comment": "DEBUG-Test-Festival. Erscheint dank id-Präfix 'test-' nur in Debug-Builds, nie in der veröffentlichten App. Termine bewusst rund um den 24.08.2026 gelegt, damit 'Jetzt live', Running Order & Tag-Gruppierung sofort testbar sind. Wenn die Daten veraltet sind: Datum bumpen oder neu generieren lassen.",
+  "_comment": "DEBUG-Test-Festival. Erscheint dank id-Präfix 'test-' nur in Debug-Builds, nie in der veröffentlichten App. Echte Künstler, damit Spotify-Suche & Wikidata-Genre real testbar sind. Termine rund um den 24.08.2026, damit 'Jetzt live', Running Order & Tag-Gruppierung sofort greifen. Wenn veraltet: Datum bumpen lassen.",
   "id": "test-festival",
   "name": "Test-Festival (Debug)",
   "location": "Teststadt, XX",
@@ -18,26 +18,26 @@
     "instagram": "https://instagram.com"
   },
   "schedule": [
-    { "artist": "Soundcheck Sam",    "date": "2026-08-23T18:00:00", "stage": "Main Stage",   "genre": "Indie" },
-    { "artist": "Bass Test Bertha",  "date": "2026-08-23T20:00:00", "stage": "Main Stage",   "genre": "Techno" },
-    { "artist": "Headliner Zero",    "date": "2026-08-23T22:00:00", "stage": "Main Stage",   "genre": "Pop" },
+    { "artist": "Wolf Alice",             "date": "2026-08-23T18:00:00", "stage": "Main Stage",   "genre": "Indie Rock" },
+    { "artist": "Bonobo",                 "date": "2026-08-23T20:00:00", "stage": "Main Stage",   "genre": "Electronic" },
+    { "artist": "Twenty One Pilots",      "date": "2026-08-23T22:00:00", "stage": "Main Stage",   "genre": "Alternative" },
 
-    { "artist": "Afternoon Alex",    "date": "2026-08-24T14:00:00", "stage": "Main Stage",   "genre": "Reggae" },
-    { "artist": "Evening Emma",      "date": "2026-08-24T18:00:00", "stage": "Main Stage",   "genre": "Rock" },
-    { "artist": "Prime Time Pete",   "date": "2026-08-24T20:00:00", "stage": "Main Stage",   "genre": "Pop" },
-    { "artist": "Nightfall Nina",    "date": "2026-08-24T22:00:00", "stage": "Main Stage",   "genre": "House" },
-    { "artist": "Late Lars",         "date": "2026-08-24T23:00:00", "stage": "Main Stage",   "genre": "Techno" },
-    { "artist": "After Hours Ada",   "date": "2026-08-25T01:00:00", "stage": "Main Stage",   "genre": "Drum and Bass" },
+    { "artist": "Zara Larsson",           "date": "2026-08-24T14:00:00", "stage": "Main Stage",   "genre": "Pop" },
+    { "artist": "Royal Blood",            "date": "2026-08-24T18:00:00", "stage": "Main Stage",   "genre": "Rock" },
+    { "artist": "Glass Animals",          "date": "2026-08-24T20:00:00", "stage": "Main Stage",   "genre": "Indie" },
+    { "artist": "Peggy Gou",              "date": "2026-08-24T22:00:00", "stage": "Main Stage",   "genre": "House" },
+    { "artist": "Skrillex",               "date": "2026-08-24T23:00:00", "stage": "Main Stage",   "genre": "Dubstep" },
+    { "artist": "Fred again..",           "date": "2026-08-25T01:00:00", "stage": "Main Stage",   "genre": "Electronic" },
 
-    { "artist": "Warmup Wanda",      "date": "2026-08-24T19:00:00", "stage": "Second Stage", "genre": "Indie" },
-    { "artist": "Clash Clara",       "date": "2026-08-24T23:00:00", "stage": "Second Stage", "genre": "Alternative" },
-    { "artist": "Sunrise Sven",      "date": "2026-08-25T03:00:00", "stage": "Second Stage", "genre": "Ambient" },
+    { "artist": "Jungle",                 "date": "2026-08-24T19:00:00", "stage": "Second Stage", "genre": "Funk" },
+    { "artist": "Fontaines D.C.",         "date": "2026-08-24T23:00:00", "stage": "Second Stage", "genre": "Post-Punk" },
+    { "artist": "Ben Böhmer",             "date": "2026-08-25T03:00:00", "stage": "Second Stage", "genre": "Melodic House" },
 
-    { "artist": "DJ Debug",          "date": "2026-08-25T00:00:00", "stage": "Club",         "genre": "Electronic" },
+    { "artist": "Four Tet",               "date": "2026-08-25T00:00:00", "stage": "Club",         "genre": "Electronic" },
 
-    { "artist": "Closing Chris",     "date": "2026-08-25T20:00:00", "stage": "Main Stage",   "genre": "Pop" },
-    { "artist": "Final Fiona",       "date": "2026-08-25T22:00:00", "stage": "Main Stage",   "genre": "Rock" },
+    { "artist": "Florence + the Machine", "date": "2026-08-25T20:00:00", "stage": "Main Stage",   "genre": "Art Pop" },
+    { "artist": "Arctic Monkeys",         "date": "2026-08-25T22:00:00", "stage": "Main Stage",   "genre": "Indie Rock" },
 
-    { "artist": "TBA Terry",         "date": "2026-08-26",          "stage": "Main Stage",   "genre": "Pop" }
+    { "artist": "Tame Impala",            "date": "2026-08-26",          "stage": "Main Stage",   "genre": "Psychedelic Rock" }
   ]
 }

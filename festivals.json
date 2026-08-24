@@ -3816,6 +3816,107 @@
           "stage": "Piros Pezsgő"
         }
       ]
+    },
+    {
+      "id": "test-festival",
+      "name": "Test-Festival (Debug)",
+      "location": "Teststadt, XX",
+      "genre": "Test / Mixed",
+      "startDate": "2026-08-23",
+      "endDate": "2026-08-27",
+      "color": "#1E293B",
+      "accent": "#F43F5E",
+      "website": "https://example.com",
+      "info": {
+        "openingHours": "Sa–Do, 12:00–06:00",
+        "emergency": "+49 000 0000000",
+        "faq": "https://example.com/faq",
+        "map": "https://example.com/map",
+        "instagram": "https://instagram.com"
+      },
+      "ticketURL": "https://example.com/tickets",
+      "schedule": [
+        {
+          "title": "Soundcheck Sam",
+          "date": "2026-08-23T18:00:00",
+          "stage": "Main Stage"
+        },
+        {
+          "title": "Bass Test Bertha",
+          "date": "2026-08-23T20:00:00",
+          "stage": "Main Stage"
+        },
+        {
+          "title": "Headliner Zero",
+          "date": "2026-08-23T22:00:00",
+          "stage": "Main Stage"
+        },
+        {
+          "title": "Afternoon Alex",
+          "date": "2026-08-24T14:00:00",
+          "stage": "Main Stage"
+        },
+        {
+          "title": "Evening Emma",
+          "date": "2026-08-24T18:00:00",
+          "stage": "Main Stage"
+        },
+        {
+          "title": "Prime Time Pete",
+          "date": "2026-08-24T20:00:00",
+          "stage": "Main Stage"
+        },
+        {
+          "title": "Nightfall Nina",
+          "date": "2026-08-24T22:00:00",
+          "stage": "Main Stage"
+        },
+        {
+          "title": "Late Lars",
+          "date": "2026-08-24T23:00:00",
+          "stage": "Main Stage"
+        },
+        {
+          "title": "After Hours Ada",
+          "date": "2026-08-25T01:00:00",
+          "stage": "Main Stage"
+        },
+        {
+          "title": "Warmup Wanda",
+          "date": "2026-08-24T19:00:00",
+          "stage": "Second Stage"
+        },
+        {
+          "title": "Clash Clara",
+          "date": "2026-08-24T23:00:00",
+          "stage": "Second Stage"
+        },
+        {
+          "title": "Sunrise Sven",
+          "date": "2026-08-25T03:00:00",
+          "stage": "Second Stage"
+        },
+        {
+          "title": "DJ Debug",
+          "date": "2026-08-25T00:00:00",
+          "stage": "Club"
+        },
+        {
+          "title": "Closing Chris",
+          "date": "2026-08-25T20:00:00",
+          "stage": "Main Stage"
+        },
+        {
+          "title": "Final Fiona",
+          "date": "2026-08-25T22:00:00",
+          "stage": "Main Stage"
+        },
+        {
+          "title": "TBA Terry",
+          "date": "2026-08-26",
+          "stage": "Main Stage"
+        }
+      ]
     }
   ]
 }

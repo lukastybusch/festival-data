@@ -1,0 +1,43 @@
+{
+  "_comment": "DEBUG-Test-Festival. Erscheint dank id-Präfix 'test-' nur in Debug-Builds, nie in der veröffentlichten App. Termine bewusst rund um den 24.08.2026 gelegt, damit 'Jetzt live', Running Order & Tag-Gruppierung sofort testbar sind. Wenn die Daten veraltet sind: Datum bumpen oder neu generieren lassen.",
+  "id": "test-festival",
+  "name": "Test-Festival (Debug)",
+  "location": "Teststadt, XX",
+  "genre": "Test / Mixed",
+  "startDate": "2026-08-23",
+  "endDate": "2026-08-27",
+  "color": "#1E293B",
+  "accent": "#F43F5E",
+  "website": "https://example.com",
+  "ticket": { "url": "https://example.com/tickets" },
+  "info": {
+    "openingHours": "Sa–Do, 12:00–06:00",
+    "emergency": "+49 000 0000000",
+    "faq": "https://example.com/faq",
+    "map": "https://example.com/map",
+    "instagram": "https://instagram.com"
+  },
+  "schedule": [
+    { "artist": "Soundcheck Sam",    "date": "2026-08-23T18:00:00", "stage": "Main Stage",   "genre": "Indie" },
+    { "artist": "Bass Test Bertha",  "date": "2026-08-23T20:00:00", "stage": "Main Stage",   "genre": "Techno" },
+    { "artist": "Headliner Zero",    "date": "2026-08-23T22:00:00", "stage": "Main Stage",   "genre": "Pop" },
+
+    { "artist": "Afternoon Alex",    "date": "2026-08-24T14:00:00", "stage": "Main Stage",   "genre": "Reggae" },
+    { "artist": "Evening Emma",      "date": "2026-08-24T18:00:00", "stage": "Main Stage",   "genre": "Rock" },
+    { "artist": "Prime Time Pete",   "date": "2026-08-24T20:00:00", "stage": "Main Stage",   "genre": "Pop" },
+    { "artist": "Nightfall Nina",    "date": "2026-08-24T22:00:00", "stage": "Main Stage",   "genre": "House" },
+    { "artist": "Late Lars",         "date": "2026-08-24T23:00:00", "stage": "Main Stage",   "genre": "Techno" },
+    { "artist": "After Hours Ada",   "date": "2026-08-25T01:00:00", "stage": "Main Stage",   "genre": "Drum and Bass" },
+
+    { "artist": "Warmup Wanda",      "date": "2026-08-24T19:00:00", "stage": "Second Stage", "genre": "Indie" },
+    { "artist": "Clash Clara",       "date": "2026-08-24T23:00:00", "stage": "Second Stage", "genre": "Alternative" },
+    { "artist": "Sunrise Sven",      "date": "2026-08-25T03:00:00", "stage": "Second Stage", "genre": "Ambient" },
+
+    { "artist": "DJ Debug",          "date": "2026-08-25T00:00:00", "stage": "Club",         "genre": "Electronic" },
+
+    { "artist": "Closing Chris",     "date": "2026-08-25T20:00:00", "stage": "Main Stage",   "genre": "Pop" },
+    { "artist": "Final Fiona",       "date": "2026-08-25T22:00:00", "stage": "Main Stage",   "genre": "Rock" },
+
+    { "artist": "TBA Terry",         "date": "2026-08-26",          "stage": "Main Stage",   "genre": "Pop" }
+  ]
+}

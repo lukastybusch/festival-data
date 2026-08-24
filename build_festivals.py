@@ -130,8 +130,10 @@ for p in sorted(glob.glob("festivals/*.json")):
         # Keine Spotify-Bilder/-Links mehr in die Daten schreiben (Terms/Urheberrecht).
         # Genre bleibt (nur ein Wort, färbt die Platzhalter-Kachel); der Spotify-Link
         # baut die App zur Laufzeit selbst aus dem Namen.
+        if item.get("genre"):                 # manueller Genre-Override am Act
+            entry["genre"] = item["genre"]
         a = artists.get(norm(name)) if name else None
-        if a and a.get("genre"):
+        if a and a.get("genre") and not entry.get("genre"):
             entry["genre"] = a["genre"]
 
         g = genres.get(norm(entry.get("genre", "")))

@@ -1,0 +1,41 @@
+      "id": "sziget-2027",
+      "name": "Sziget Festival",
+      "edition_year": 2027,
+      "status": "confirmed",
+      "start_date": "2027-08-10",
+      "end_date": "2027-08-14",
+      "duration_days": 5,
+      "location": {
+        "venue": "Obudai-sziget",
+        "city": "Budapest",
+        "country_code": "HU",
+        "country": "Ungarn",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "genres": [
+        "pop",
+        "rock",
+        "electronic",
+        "hip-hop",
+        "world"
+      ],
+      "capacity": null,
+      "attendance_last_edition": 360000,
+      "camping": true,
+      "min_age": null,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": 299,
+        "price_note": "5-Tages-Pass Super Early Bird, 318 EUR inkl. Gebuehr, U21 239 EUR",
+        "url": "https://szigetfestival.com/en/tickets"
+      },
+      "website": "https://szigetfestival.com",
+      "travel": {
+        "nearest_airport": "BUD",
+        "airport_name": "Budapest Ferenc Liszt"
+      },
+      "notes": "Rueckkehr in ungarischen Besitz, neues Konzept ab 2027. Pre-Registrierung fuer guenstigste Tickets."
+    

@@ -1,0 +1,87 @@
+    {
+      "id": "tomorrowland-belgium-2027",
+      "name": "Tomorrowland Belgium",
+      "edition_year": 2027,
+      "status": "expected",
+      "start_date": "2027-07-17",
+      "end_date": "2027-07-19",
+      "duration_days": 3,
+      "second_weekend": {
+        "start_date": "2027-07-24",
+        "end_date": "2027-07-26"
+      },
+      "location": {
+        "venue": "De Schorre",
+        "city": "Boom",
+        "country_code": "BE",
+        "country": "Belgien",
+        "coordinates": {
+          "lat": 51.09222,
+          "lng": 4.38556
+        }
+      },
+      "genres": [
+        "edm",
+        "house",
+        "techno",
+        "trance"
+      ],
+      "capacity": 200000,
+      "attendance_last_edition": 400000,
+      "camping": true,
+      "min_age": 18,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": 100,
+        "price_note": "Richtwert Day Pass 100-120, Full Madness 300-380, Global Journey ab 450. Pflicht-Vorregistrierung.",
+        "url": "https://www.tomorrowland.com"
+      },
+      "website": "https://www.tomorrowland.com",
+      "travel": {
+        "nearest_airport": "BRU",
+        "airport_name": "Bruessel Zaventem"
+      },
+      "notes": "Zwei Wochenenden. Termine kursieren als bestaetigt, offizielle Veroeffentlichung pruefen. Camping-Areal Dreamville separat."
+    },
+    {
+      "id": "primavera-sound-2027",
+      "name": "Primavera Sound Barcelona",
+      "edition_year": 2027,
+      "status": "confirmed",
+      "start_date": "2027-06-03",
+      "end_date": "2027-06-05",
+      "duration_days": 3,
+      "location": {
+        "venue": "Parc del Forum",
+        "city": "Barcelona",
+        "country_code": "ES",
+        "country": "Spanien",
+        "coordinates": {
+          "lat": 41.410667,
+          "lng": 2.226333
+        }
+      },
+      "genres": [
+        "indie",
+        "rock",
+        "pop",
+        "electronic",
+        "hip-hop"
+      ],
+      "capacity": 75000,
+      "attendance_last_edition": 293000,
+      "camping": false,
+      "min_age": null,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": null,
+        "price_note": "Early-Bird-Verkauf laeuft bereits, Lineup folgt spaeter",
+        "url": "https://www.primaverasound.com"
+      },
+      "website": "https://www.primaverasound.com",
+      "travel": {
+        "nearest_airport": "BCN",
+        "airport_name": "Barcelona El Prat"
+      },
+      "notes": "25. Jubilaeumsausgabe. Zusaetzlich 'Primavera a la Ciutat' mit Konzerten in der ganzen Stadt."
+    }

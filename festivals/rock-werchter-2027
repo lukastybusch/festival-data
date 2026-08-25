@@ -1,0 +1,41 @@
+    {
+      "id": "rock-werchter-2027",
+      "name": "Rock Werchter",
+      "edition_year": 2027,
+      "status": "confirmed",
+      "start_date": "2027-07-01",
+      "end_date": "2027-07-04",
+      "duration_days": 4,
+      "location": {
+        "venue": "Festivalpark Werchter",
+        "city": "Werchter",
+        "country_code": "BE",
+        "country": "Belgien",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "genres": [
+        "rock",
+        "pop",
+        "indie",
+        "electronic"
+      ],
+      "capacity": 85000,
+      "attendance_last_edition": null,
+      "camping": true,
+      "min_age": null,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": null,
+        "price_note": "Infos zum Ticketverkauf ab Herbst 2026, Presale-Registrierung moeglich",
+        "url": "https://www.rockwerchter.be/en"
+      },
+      "website": "https://www.rockwerchter.be/en",
+      "travel": {
+        "nearest_airport": "BRU",
+        "airport_name": "Bruessel Zaventem"
+      },
+      "notes": "52. Ausgabe. Tame Impala bereits als Headliner bestaetigt. Wohnmobile erlaubt."
+    }

@@ -1,0 +1,43 @@
+    {
+      "id": "roskilde-2027",
+      "name": "Roskilde Festival",
+      "edition_year": 2027,
+      "status": "confirmed",
+      "start_date": "2027-06-26",
+      "end_date": "2027-07-03",
+      "duration_days": 8,
+      "location": {
+        "venue": "Dyrskuepladsen",
+        "city": "Roskilde",
+        "country_code": "DK",
+        "country": "Daenemark",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "genres": [
+        "rock",
+        "pop",
+        "hip-hop",
+        "electronic",
+        "experimental",
+        "metal"
+      ],
+      "capacity": 130000,
+      "attendance_last_edition": null,
+      "camping": true,
+      "min_age": null,
+      "tickets": {
+        "currency": "DKK",
+        "price_from": 2720,
+        "price_note": "Smart Ticket in 8 Raten zahlbar, regulaerer VVK ab Herbst 2026",
+        "url": "https://www.roskilde-festival.dk/en/tickets"
+      },
+      "website": "https://www.roskilde-festival.dk/en",
+      "travel": {
+        "nearest_airport": "CPH",
+        "airport_name": "Kopenhagen Kastrup"
+      },
+      "notes": "Non-Profit, Gewinne gehen an gemeinnuetzige Zwecke. Ca. 27.000 Freiwillige. Vier 'First Days' plus vier 'Final Days'."
+    }

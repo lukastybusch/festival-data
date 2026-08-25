@@ -1,0 +1,42 @@
+    {
+      "id": "pangea-2027",
+      "name": "ABOUT YOU Pangea Festival",
+      "edition_year": 2027,
+      "status": "confirmed",
+      "start_date": "2027-08-05",
+      "end_date": "2027-08-08",
+      "duration_days": 4,
+      "location": {
+        "venue": "Flugplatz Puetnitz",
+        "address": "Flugplatzallee 5, 18311 Ribnitz-Damgarten",
+        "city": "Puetnitz an der See",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "genres": [
+        "indie",
+        "indie-pop",
+        "hip-hop",
+        "electronic"
+      ],
+      "capacity": 20000,
+      "attendance_last_edition": null,
+      "camping": true,
+      "min_age": null,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": 57.35,
+        "price_note": "Richtwert guenstigste Kategorie, Preisphasen beachten",
+        "url": "https://www.aboutyoupangea-festival.de/"
+      },
+      "website": "https://www.aboutyoupangea-festival.de/",
+      "travel": {
+        "nearest_airport": "RLG",
+        "airport_name": "Rostock-Laage"
+      },
+      "notes": "Vier Saeulen: Music, Sport, Culture, Play. Ueber 13.000 Workshop-Plaetze, direkter Boddenzugang fuer Wassersport, ehemaliger Militaerflugplatz mit Bunkern und Hangars. AnnenMayKantereit als Top-Act bestaetigt, dazu u.a. Buntspecht, Dani Lia, Yola."
+    }

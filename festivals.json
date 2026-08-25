@@ -4067,6 +4067,18 @@
       ]
     },
     {
+      "id": "tomorrowland-belgium-2027",
+      "name": "Tomorrowland Belgium",
+      "location": "Boom, BE",
+      "genre": "Edm",
+      "startDate": "2027-07-17",
+      "endDate": "2027-07-19",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://www.tomorrowland.com",
+      "ticketURL": "https://www.tomorrowland.com"
+    },
+    {
       "id": "ultra-europe-2027",
       "name": "Ultra Europe",
       "location": "Split, HR",

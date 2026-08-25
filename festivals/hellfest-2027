@@ -1,0 +1,41 @@
+    {
+      "id": "hellfest-2027",
+      "name": "Hellfest Open Air",
+      "edition_year": 2027,
+      "status": "confirmed",
+      "start_date": "2027-06-17",
+      "end_date": "2027-06-20",
+      "duration_days": 4,
+      "location": {
+        "venue": "Hellfest Grounds",
+        "city": "Clisson",
+        "country_code": "FR",
+        "country": "Frankreich",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "genres": [
+        "metal",
+        "hard-rock",
+        "punk",
+        "hardcore"
+      ],
+      "capacity": 60000,
+      "attendance_last_edition": null,
+      "camping": true,
+      "min_age": 6,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": null,
+        "price_note": "4-Tages-Paesse fuer 2027 bereits ausverkauft, offizieller Resale ueber Kundenbereich",
+        "url": "https://tickets.hellfest.fr/en/index.html"
+      },
+      "website": "https://hellfest.fr/en",
+      "travel": {
+        "nearest_airport": "NTE",
+        "airport_name": "Nantes Atlantique"
+      },
+      "notes": "20. Jubilaeumsausgabe, ueber 300 Bands auf 10 Buehnen statt sonst 6. Tickets nur ueber offizielle Kanaele."
+    }

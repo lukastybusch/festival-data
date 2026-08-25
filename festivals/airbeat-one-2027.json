@@ -1,0 +1,43 @@
+    {
+      "id": "airbeat-one-2027",
+      "name": "AIRBEAT ONE Festival",
+      "edition_year": 2027,
+      "status": "confirmed",
+      "start_date": "2027-07-07",
+      "end_date": "2027-07-11",
+      "duration_days": 5,
+      "location": {
+        "venue": "Flugplatz Neustadt-Glewe",
+        "address": "Flugplatz, 19306 Neustadt-Glewe",
+        "city": "Neustadt-Glewe",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "genres": [
+        "edm",
+        "harder-styles",
+        "techno",
+        "house",
+        "psytrance"
+      ],
+      "capacity": 60000,
+      "attendance_last_edition": 210000,
+      "camping": true,
+      "min_age": null,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": 108.9,
+        "price_note": "Preisphasen mit begrenztem Kontingent, Wechsel automatisch bei Ausschoepfung. VVK-Start war 13.07.2026.",
+        "url": "https://airbeat-one.de/"
+      },
+      "website": "https://airbeat-one.de/",
+      "travel": {
+        "nearest_airport": "HAM",
+        "airport_name": "Hamburg, alternativ SXF/BER Berlin. Direkt an der A24 Hamburg-Berlin, ca. 20 Min von Schwerin."
+      },
+      "notes": "25-jaehriges Jubilaeum, Motto 'Australia'. Erstmals vierter offizieller Festivaltag: Eroeffnungsprogramm bereits am Mittwoch. Rekord 2026 mit 210.000 Gaesten ueber vier Naechte. David Guetta bestaetigt, dazu Finch."
+    }

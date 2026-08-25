@@ -1,0 +1,41 @@
+    {
+      "id": "wacken-open-air-2027",
+      "name": "Wacken Open Air",
+      "edition_year": 2027,
+      "status": "confirmed",
+      "start_date": "2027-07-28",
+      "end_date": "2027-07-31",
+      "duration_days": 4,
+      "location": {
+        "venue": "Festivalgelaende Wacken",
+        "city": "Wacken",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "genres": [
+        "metal",
+        "hard-rock",
+        "power-metal",
+        "death-metal"
+      ],
+      "capacity": null,
+      "attendance_last_edition": null,
+      "camping": true,
+      "min_age": 16,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": null,
+        "price_note": "Vorverkauf seit August 2026 ueber offizielle Seite und Metaltix",
+        "url": "https://www.wacken.com"
+      },
+      "website": "https://www.wacken.com",
+      "travel": {
+        "nearest_airport": "HAM",
+        "airport_name": "Hamburg"
+      },
+      "notes": "Erste Bandwelle bestaetigt: Electric Callboy, Five Finger Death Punch, Helloween, Knocked Loose, Heaven Shall Burn, Dragonforce u.a. Wohnmobile erlaubt."
+    }

@@ -1,0 +1,42 @@
+    {
+      "id": "glastonbury-2027",
+      "name": "Glastonbury Festival",
+      "edition_year": 2027,
+      "status": "confirmed",
+      "start_date": "2027-06-23",
+      "end_date": "2027-06-27",
+      "duration_days": 5,
+      "location": {
+        "venue": "Worthy Farm, Pilton",
+        "city": "Glastonbury",
+        "country_code": "GB",
+        "country": "Grossbritannien",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "genres": [
+        "rock",
+        "pop",
+        "electronic",
+        "hip-hop",
+        "performing-arts"
+      ],
+      "capacity": null,
+      "attendance_last_edition": 210000,
+      "camping": true,
+      "min_age": null,
+      "tickets": {
+        "currency": "GBP",
+        "price_from": null,
+        "price_note": "Registrierungspflicht vor dem Verkauf, Tickets waren zuletzt in unter einer Stunde weg",
+        "url": "https://www.glastonburyfestivals.co.uk"
+      },
+      "website": "https://www.glastonburyfestivals.co.uk",
+      "travel": {
+        "nearest_airport": "BRS",
+        "airport_name": "Bristol"
+      },
+      "notes": "Rueckkehr nach dem Brachjahr 2026. Registrierung laeuft weit vor Verkaufsstart, unbedingt frueh eintragen."
+    }

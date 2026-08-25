@@ -1,0 +1,41 @@
+    {
+      "id": "rock-am-ring-2027",
+      "name": "Rock am Ring",
+      "edition_year": 2027,
+      "status": "expected",
+      "start_date": "2027-06-04",
+      "end_date": "2027-06-06",
+      "duration_days": 3,
+      "location": {
+        "venue": "Nuerburgring",
+        "city": "Nuerburg",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "genres": [
+        "rock",
+        "metal",
+        "punk",
+        "alternative"
+      ],
+      "capacity": null,
+      "attendance_last_edition": null,
+      "camping": true,
+      "min_age": null,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": null,
+        "price_note": null,
+        "url": "https://www.rock-am-ring.com"
+      },
+      "website": "https://www.rock-am-ring.com",
+      "travel": {
+        "nearest_airport": "CGN",
+        "airport_name": "Koeln/Bonn"
+      },
+      "notes": "Schwesterfestival Rock im Park in Nuernberg am selben Wochenende, gleiches Lineup."
+    }

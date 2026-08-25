@@ -1,0 +1,42 @@
+    {
+      "id": "lowlands-2027",
+      "name": "Lowlands Festival",
+      "edition_year": 2027,
+      "status": "expected",
+      "start_date": "2027-08-20",
+      "end_date": "2027-08-22",
+      "duration_days": 3,
+      "location": {
+        "venue": "Walibi Holland / Lowlands Paradise",
+        "city": "Biddinghuizen",
+        "country_code": "NL",
+        "country": "Niederlande",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "genres": [
+        "alternative",
+        "indie",
+        "hip-hop",
+        "electronic",
+        "arts"
+      ],
+      "capacity": null,
+      "attendance_last_edition": null,
+      "camping": true,
+      "min_age": null,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": null,
+        "price_note": null,
+        "url": "https://lowlands.nl"
+      },
+      "website": "https://lowlands.nl",
+      "travel": {
+        "nearest_airport": "AMS",
+        "airport_name": "Amsterdam Schiphol"
+      },
+      "notes": "Termin bislang nur prognostiziert, vor Verkaufsstart pruefen. Ticket schliesst Camping ein."
+    }

@@ -1,0 +1,41 @@
+    {
+      "id": "ultra-europe-2027",
+      "name": "Ultra Europe",
+      "edition_year": 2027,
+      "status": "expected",
+      "start_date": "2027-07-09",
+      "end_date": "2027-07-11",
+      "duration_days": 3,
+      "location": {
+        "venue": "Park Mladezi / Poljud",
+        "city": "Split",
+        "country_code": "HR",
+        "country": "Kroatien",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "genres": [
+        "edm",
+        "house",
+        "techno",
+        "trance"
+      ],
+      "capacity": null,
+      "attendance_last_edition": null,
+      "camping": false,
+      "min_age": 18,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": null,
+        "price_note": null,
+        "url": "https://ultraeurope.com"
+      },
+      "website": "https://ultraeurope.com",
+      "travel": {
+        "nearest_airport": "SPU",
+        "airport_name": "Split"
+      },
+      "notes": "Anschliessende Destination Ultra Wochen auf Hvar und Brac. Fuer Kroatien-Reisen direkt relevant."
+    }

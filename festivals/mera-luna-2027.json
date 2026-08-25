@@ -1,0 +1,41 @@
+    {
+      "id": "mera-luna-2027",
+      "name": "M'era Luna Festival",
+      "edition_year": 2027,
+      "status": "confirmed",
+      "start_date": "2027-08-07",
+      "end_date": "2027-08-08",
+      "duration_days": 2,
+      "location": {
+        "venue": "Flugplatz Hildesheim-Drispenstedt",
+        "city": "Hildesheim",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "genres": [
+        "gothic",
+        "industrial",
+        "ebm",
+        "dark-wave"
+      ],
+      "capacity": null,
+      "attendance_last_edition": null,
+      "camping": true,
+      "min_age": null,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": 169,
+        "price_note": "Richtwert Vorverkauf, laeuft bereits",
+        "url": "https://www.meraluna.de"
+      },
+      "website": "https://www.meraluna.de",
+      "travel": {
+        "nearest_airport": "HAJ",
+        "airport_name": "Hannover"
+      },
+      "notes": "Erste zehn Bands bestaetigt, u.a. VNV Nation, The Sisters Of Mercy, Feuerschwanz, Schandmaul, Diary Of Dreams."
+    }

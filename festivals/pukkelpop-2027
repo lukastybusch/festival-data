@@ -1,0 +1,43 @@
+    {
+      "id": "pukkelpop-2027",
+      "name": "Pukkelpop",
+      "edition_year": 2027,
+      "status": "confirmed",
+      "start_date": "2027-08-19",
+      "end_date": "2027-08-22",
+      "duration_days": 4,
+      "location": {
+        "venue": "Kiewit",
+        "city": "Hasselt",
+        "country_code": "BE",
+        "country": "Belgien",
+        "coordinates": {
+          "lat": 50.96059,
+          "lng": 5.3558
+        }
+      },
+      "genres": [
+        "alternative",
+        "rock",
+        "electronic",
+        "hip-hop",
+        "punk",
+        "metal"
+      ],
+      "capacity": 66000,
+      "attendance_last_edition": 299000,
+      "camping": true,
+      "min_age": null,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": null,
+        "price_note": "VVK-Start wird auf der offiziellen Seite angekuendigt",
+        "url": "https://www.pukkelpop.be/en"
+      },
+      "website": "https://www.pukkelpop.be/en",
+      "travel": {
+        "nearest_airport": "BRU",
+        "airport_name": "Bruessel Zaventem"
+      },
+      "notes": "Termin direkt vom Veranstalter als PKP27 angekuendigt."
+    }

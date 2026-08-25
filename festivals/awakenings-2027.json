@@ -1,0 +1,38 @@
+    {
+      "id": "awakenings-2027",
+      "name": "Awakenings Festival",
+      "edition_year": 2027,
+      "status": "expected",
+      "start_date": "2027-07-09",
+      "end_date": "2027-07-11",
+      "duration_days": 3,
+      "location": {
+        "venue": "Spaarnwoude",
+        "city": "Amsterdam / Velsen",
+        "country_code": "NL",
+        "country": "Niederlande",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "genres": [
+        "techno"
+      ],
+      "capacity": null,
+      "attendance_last_edition": null,
+      "camping": true,
+      "min_age": 18,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": null,
+        "price_note": null,
+        "url": "https://www.awakenings.com"
+      },
+      "website": "https://www.awakenings.com",
+      "travel": {
+        "nearest_airport": "AMS",
+        "airport_name": "Amsterdam Schiphol"
+      },
+      "notes": "Termin bislang nur aus Branchenkalender, offizielle Bestaetigung abwarten."
+    }

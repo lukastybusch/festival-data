@@ -1,4 +1,5 @@
-      "id": "sziget-2027",
+{
+"id": "sziget-2027",
       "name": "Sziget Festival",
       "edition_year": 2027,
       "status": "confirmed",
@@ -38,4 +39,4 @@
         "airport_name": "Budapest Ferenc Liszt"
       },
       "notes": "Rueckkehr in ungarischen Besitz, neues Konzept ab 2027. Pre-Registrierung fuer guenstigste Tickets."
-    
+}

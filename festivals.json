@@ -2,6 +2,18 @@
   "version": 1,
   "festivals": [
     {
+      "id": "awakenings-2027",
+      "name": "Awakenings Festival",
+      "location": "Amsterdam / Velsen, NL",
+      "genre": "Techno",
+      "startDate": "2027-07-09",
+      "endDate": "2027-07-11",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://www.awakenings.com",
+      "ticketURL": "https://www.awakenings.com"
+    },
+    {
       "id": "fm4-frequency-2026",
       "name": "FM4 Frequency Festival",
       "location": "St. Pölten, AT",
@@ -534,6 +546,66 @@
           "stage": "Silent Disco @ Green Stage"
         }
       ]
+    },
+    {
+      "id": "glastonbury-2027",
+      "name": "Glastonbury Festival",
+      "location": "Glastonbury, GB",
+      "genre": "Rock",
+      "startDate": "2027-06-23",
+      "endDate": "2027-06-27",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://www.glastonburyfestivals.co.uk",
+      "ticketURL": "https://www.glastonburyfestivals.co.uk"
+    },
+    {
+      "id": "hellfest-2027",
+      "name": "Hellfest Open Air",
+      "location": "Clisson, FR",
+      "genre": "Metal",
+      "startDate": "2027-06-17",
+      "endDate": "2027-06-20",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://hellfest.fr/en",
+      "ticketURL": "https://tickets.hellfest.fr/en/index.html"
+    },
+    {
+      "id": "lowlands-2027",
+      "name": "Lowlands Festival",
+      "location": "Biddinghuizen, NL",
+      "genre": "Alternative",
+      "startDate": "2027-08-20",
+      "endDate": "2027-08-22",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://lowlands.nl",
+      "ticketURL": "https://lowlands.nl"
+    },
+    {
+      "id": "mera-luna-2027",
+      "name": "M'era Luna Festival",
+      "location": "Hildesheim, DE",
+      "genre": "Gothic",
+      "startDate": "2027-08-07",
+      "endDate": "2027-08-08",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://www.meraluna.de",
+      "ticketURL": "https://www.meraluna.de"
+    },
+    {
+      "id": "nos-alive-2027",
+      "name": "NOS Alive",
+      "location": "Lissabon, PT",
+      "genre": "Rock",
+      "startDate": "2027-07-08",
+      "endDate": "2027-07-10",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://nosalive.com",
+      "ticketURL": "https://nosalive.com"
     },
     {
       "id": "pukkelpop-2026",
@@ -1540,6 +1612,54 @@
           "genre": "Dance-Pop"
         }
       ]
+    },
+    {
+      "id": "pukkelpop-2027",
+      "name": "Pukkelpop",
+      "location": "Hasselt, BE",
+      "genre": "Alternative",
+      "startDate": "2027-08-19",
+      "endDate": "2027-08-22",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://www.pukkelpop.be/en",
+      "ticketURL": "https://www.pukkelpop.be/en"
+    },
+    {
+      "id": "rock-am-ring-2027",
+      "name": "Rock am Ring",
+      "location": "Nuerburg, DE",
+      "genre": "Rock",
+      "startDate": "2027-06-04",
+      "endDate": "2027-06-06",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://www.rock-am-ring.com",
+      "ticketURL": "https://www.rock-am-ring.com"
+    },
+    {
+      "id": "rock-werchter-2027",
+      "name": "Rock Werchter",
+      "location": "Werchter, BE",
+      "genre": "Rock",
+      "startDate": "2027-07-01",
+      "endDate": "2027-07-04",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://www.rockwerchter.be/en",
+      "ticketURL": "https://www.rockwerchter.be/en"
+    },
+    {
+      "id": "roskilde-2027",
+      "name": "Roskilde Festival",
+      "location": "Roskilde, DK",
+      "genre": "Rock",
+      "startDate": "2027-06-26",
+      "endDate": "2027-07-03",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://www.roskilde-festival.dk/en",
+      "ticketURL": "https://www.roskilde-festival.dk/en/tickets"
     },
     {
       "id": "rototom-2026",
@@ -3818,6 +3938,18 @@
       ]
     },
     {
+      "id": "sziget-2027",
+      "name": "Sziget Festival",
+      "location": "Budapest, HU",
+      "genre": "Pop",
+      "startDate": "2027-08-10",
+      "endDate": "2027-08-14",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://szigetfestival.com",
+      "ticketURL": "https://szigetfestival.com/en/tickets"
+    },
+    {
       "id": "test-festival",
       "name": "Test-Festival (Debug)",
       "location": "Teststadt, XX",
@@ -3933,6 +4065,42 @@
           "genre": "Psychedelic Rock"
         }
       ]
+    },
+    {
+      "id": "ultra-europe-2027",
+      "name": "Ultra Europe",
+      "location": "Split, HR",
+      "genre": "Edm",
+      "startDate": "2027-07-09",
+      "endDate": "2027-07-11",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://ultraeurope.com",
+      "ticketURL": "https://ultraeurope.com"
+    },
+    {
+      "id": "untold-2027",
+      "name": "UNTOLD Festival",
+      "location": "Cluj-Napoca, RO",
+      "genre": "Electronic",
+      "startDate": "2027-08-05",
+      "endDate": "2027-08-08",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://untold.com",
+      "ticketURL": "https://untold.com"
+    },
+    {
+      "id": "wacken-open-air-2027",
+      "name": "Wacken Open Air",
+      "location": "Wacken, DE",
+      "genre": "Metal",
+      "startDate": "2027-07-28",
+      "endDate": "2027-07-31",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://www.wacken.com",
+      "ticketURL": "https://www.wacken.com"
     }
   ]
 }

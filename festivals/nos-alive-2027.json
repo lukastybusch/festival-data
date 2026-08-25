@@ -1,0 +1,41 @@
+    {
+      "id": "nos-alive-2027",
+      "name": "NOS Alive",
+      "edition_year": 2027,
+      "status": "expected",
+      "start_date": "2027-07-08",
+      "end_date": "2027-07-10",
+      "duration_days": 3,
+      "location": {
+        "venue": "Passeio Maritimo de Alges",
+        "city": "Lissabon",
+        "country_code": "PT",
+        "country": "Portugal",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "genres": [
+        "rock",
+        "alternative",
+        "electronic",
+        "indie"
+      ],
+      "capacity": null,
+      "attendance_last_edition": null,
+      "camping": true,
+      "min_age": null,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": null,
+        "price_note": null,
+        "url": "https://nosalive.com"
+      },
+      "website": "https://nosalive.com",
+      "travel": {
+        "nearest_airport": "LIS",
+        "airport_name": "Lissabon Humberto Delgado"
+      },
+      "notes": "Stadtnahes Festival direkt am Tejo, gute Kombination mit Staedtetrip."
+    }

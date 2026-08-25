@@ -1,0 +1,41 @@
+    {
+      "id": "untold-2027",
+      "name": "UNTOLD Festival",
+      "edition_year": 2027,
+      "status": "confirmed",
+      "start_date": "2027-08-05",
+      "end_date": "2027-08-08",
+      "duration_days": 4,
+      "location": {
+        "venue": "Cluj Arena",
+        "city": "Cluj-Napoca",
+        "country_code": "RO",
+        "country": "Rumaenien",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "genres": [
+        "electronic",
+        "edm",
+        "hip-hop",
+        "pop"
+      ],
+      "capacity": 60000,
+      "attendance_last_edition": null,
+      "camping": false,
+      "min_age": null,
+      "tickets": {
+        "currency": "EUR",
+        "price_from": 120,
+        "price_note": "Passes fuer 2027 bereits im Verkauf, Star Edition ab ca. 962 RON",
+        "url": "https://untold.com"
+      },
+      "website": "https://untold.com",
+      "travel": {
+        "nearest_airport": "CLJ",
+        "airport_name": "Cluj Avram Iancu"
+      },
+      "notes": "Hauptbuehne im Stadion, zusaetzliche Buehnen im Central Park. Guenstigstes Grossfestival der Liste."
+    }

@@ -608,6 +608,18 @@
       "ticketURL": "https://nosalive.com"
     },
     {
+      "id": "pangea-2027",
+      "name": "ABOUT YOU Pangea Festival",
+      "location": "Puetnitz an der See, DE",
+      "genre": "Indie",
+      "startDate": "2027-08-05",
+      "endDate": "2027-08-08",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://www.aboutyoupangea-festival.de/",
+      "ticketURL": "https://www.aboutyoupangea-festival.de/"
+    },
+    {
       "id": "pukkelpop-2026",
       "name": "Pukkelpop",
       "location": "Kiewit (Hasselt), BE",

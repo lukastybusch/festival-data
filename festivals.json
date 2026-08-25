@@ -2,6 +2,18 @@
   "version": 1,
   "festivals": [
     {
+      "id": "airbeat-one-2027",
+      "name": "AIRBEAT ONE Festival",
+      "location": "Neustadt-Glewe, DE",
+      "genre": "Edm",
+      "startDate": "2027-07-07",
+      "endDate": "2027-07-11",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://airbeat-one.de/",
+      "ticketURL": "https://airbeat-one.de/"
+    },
+    {
       "id": "awakenings-2027",
       "name": "Awakenings Festival",
       "location": "Amsterdam / Velsen, NL",

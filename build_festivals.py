@@ -92,9 +92,36 @@ def ticket_url(edition):
 
 # --- Festivals zusammenbauen -------------------------------------------------
 
+def normalize_edition(f):
+    """Macht das schlichte und das reichere Schema kompatibel:
+    start_date→startDate, location-Objekt→"Stadt, CC", genres[]→genre,
+    tickets→ticket. So funktionieren beide Schreibweisen ohne Umschreiben."""
+    f = dict(f)
+    if not f.get("startDate") and f.get("start_date"):
+        f["startDate"] = f["start_date"]
+    if not f.get("endDate") and f.get("end_date"):
+        f["endDate"] = f["end_date"]
+    loc = f.get("location")
+    if isinstance(loc, dict):
+        city = loc.get("city") or loc.get("venue") or ""
+        cc = loc.get("country_code") or loc.get("country") or ""
+        f["location"] = ", ".join(p for p in [city, cc] if p)
+    if not f.get("genre"):
+        gs = f.get("genres")
+        if isinstance(gs, list) and gs:
+            f["genre"] = str(gs[0]).replace("-", " ").title()
+    if not f.get("ticket"):
+        t = f.get("tickets")
+        if isinstance(t, dict) and t.get("url"):
+            f["ticket"] = {"url": t["url"]}
+    return f
+
+
 out = []
 for p in sorted(glob.glob("festivals/*.json")):
     fest = load(p)
+    if isinstance(fest, dict):
+        fest = normalize_edition(fest)
     if not (isinstance(fest, dict) and fest.get("id") and fest.get("startDate")):
         print(f"  (übersprungen, unvollständig: {p})")
         continue
@@ -106,7 +133,7 @@ for p in sorted(glob.glob("festivals/*.json")):
         "location": pick(fest, ser, "location", ""),
         "genre": pick(fest, ser, "genre", ""),
         "startDate": fest["startDate"],
-        "endDate": fest["endDate"],
+        "endDate": fest.get("endDate") or fest["startDate"],
         "color": pick(fest, ser, "color", "#111827"),
         "accent": pick(fest, ser, "accent", "#7C3AED"),
     }

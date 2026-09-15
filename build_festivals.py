@@ -146,6 +146,12 @@ for p in sorted(glob.glob("festivals/*.json")):
     if url:
         merged["ticketURL"] = url
 
+    # Bereits bestätigte Acts (Namen ohne Tag/Zeit) durchreichen – Teaser, solange
+    # es noch keinen vollen Timetable gibt.
+    conf = fest.get("confirmed")
+    if isinstance(conf, list) and conf:
+        merged["confirmed"] = [str(c) for c in conf if str(c).strip()]
+
     # Line-up anreichern (Künstler-Join)
     schedule = []
     for item in fest.get("schedule", []):

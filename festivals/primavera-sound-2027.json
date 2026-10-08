@@ -5,7 +5,6 @@
       "status": "confirmed",
       "start_date": "2027-06-02",
       "end_date": "2027-06-06",
-      "duration_days": 3,
       "location": {
         "venue": "Parc del Forum",
         "city": "Barcelona",
@@ -34,9 +33,6 @@
         "url": "https://www.primaverasound.com/en/tickets?e=primavera-sound-barcelona-2027-03-05-jun-2027"
       },
       "website": "https://www.primaverasound.com",
-      "info": {
-        "note": "Hauptdays 3.–5. Juni. Gratis-Eröffnungstag am 2. Juni, Primavera Bits am 6. Juni."
-      },
       "travel": {
         "nearest_airport": "BCN",
         "airport_name": "Barcelona El Prat"

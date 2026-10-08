@@ -3,9 +3,8 @@
       "name": "Primavera Sound Barcelona",
       "edition_year": 2027,
       "status": "confirmed",
-      "start_date": "2027-06-03",
-      "end_date": "2027-06-05",
-      "duration_days": 3,
+      "start_date": "2027-06-02",
+      "end_date": "2027-06-06",
       "location": {
         "venue": "Parc del Forum",
         "city": "Barcelona",
@@ -31,7 +30,7 @@
         "currency": "EUR",
         "price_from": null,
         "price_note": "Early-Bird-Verkauf laeuft bereits, Lineup folgt spaeter",
-        "url": "https://www.primaverasound.com"
+        "url": "https://www.primaverasound.com/en/tickets?e=primavera-sound-barcelona-2027-03-05-jun-2027"
       },
       "website": "https://www.primaverasound.com",
       "travel": {

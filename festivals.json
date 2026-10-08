@@ -636,12 +636,15 @@
       "name": "Primavera Sound Barcelona",
       "location": "Barcelona, ES",
       "genre": "Indie",
-      "startDate": "2027-06-03",
-      "endDate": "2027-06-05",
+      "startDate": "2027-06-02",
+      "endDate": "2027-06-06",
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://www.primaverasound.com",
-      "ticketURL": "https://www.primaverasound.com"
+      "info": {
+        "note": "Hauptdays 3.–5. Juni. Gratis-Eröffnungstag am 2. Juni, Primavera Bits am 6. Juni."
+      },
+      "ticketURL": "https://www.primaverasound.com/en/tickets?e=primavera-sound-barcelona-2027-03-05-jun-2027"
     },
     {
       "id": "pukkelpop-2026",

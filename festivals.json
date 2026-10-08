@@ -632,6 +632,18 @@
       "ticketURL": "https://www.aboutyoupangea-festival.de/"
     },
     {
+      "id": "primavera-sound-2027",
+      "name": "Primavera Sound Barcelona",
+      "location": "Barcelona, ES",
+      "genre": "Indie",
+      "startDate": "2027-06-03",
+      "endDate": "2027-06-05",
+      "color": "#111827",
+      "accent": "#7C3AED",
+      "website": "https://www.primaverasound.com",
+      "ticketURL": "https://www.primaverasound.com"
+    },
+    {
       "id": "pukkelpop-2026",
       "name": "Pukkelpop",
       "location": "Kiewit (Hasselt), BE",

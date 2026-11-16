@@ -1,0 +1,30 @@
+{
+  "_comment": "GENERIERT von gen_test_festival.py (nicht von Hand editieren). Nur DEBUG.",
+  "id": "test-festival-teaser",
+  "name": "Test-Teaser (Debug)",
+  "startDate": "2026-12-16",
+  "endDate": "2026-12-18",
+  "location": "Teststadt, XX",
+  "genre": "Test / Mixed",
+  "color": "#1E293B",
+  "accent": "#F43F5E",
+  "website": "https://example.com",
+  "ticket": {
+    "url": "https://example.com/tickets"
+  },
+  "info": {
+    "openingHours": "Alle Tage 12:00–06:00",
+    "emergency": "+49 000 0000000",
+    "faq": "https://example.com/faq",
+    "map": "https://example.com/map",
+    "instagram": "https://instagram.com"
+  },
+  "confirmed": [
+    "Wolf Alice",
+    "Bonobo",
+    "Royal Blood",
+    "Glass Animals",
+    "Peggy Gou",
+    "Tame Impala"
+  ]
+}

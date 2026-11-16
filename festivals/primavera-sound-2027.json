@@ -1,41 +1,659 @@
 {
-      "id": "primavera-sound-2027",
-      "name": "Primavera Sound Barcelona",
-      "edition_year": 2027,
-      "status": "confirmed",
-      "start_date": "2027-06-02",
-      "end_date": "2027-06-06",
-      "location": {
-        "venue": "Parc del Forum",
-        "city": "Barcelona",
-        "country_code": "ES",
-        "country": "Spanien",
-        "coordinates": {
-          "lat": 41.410667,
-          "lng": 2.226333
-        }
-      },
-      "genres": [
-        "indie",
-        "rock",
-        "pop",
-        "electronic",
-        "hip-hop"
-      ],
-      "capacity": 75000,
-      "attendance_last_edition": 293000,
-      "camping": false,
-      "min_age": null,
-      "tickets": {
-        "currency": "EUR",
-        "price_from": null,
-        "price_note": "Early-Bird-Verkauf laeuft bereits, Lineup folgt spaeter",
-        "url": "https://www.primaverasound.com/en/tickets?e=primavera-sound-barcelona-2027-03-05-jun-2027"
-      },
-      "website": "https://www.primaverasound.com",
-      "travel": {
-        "nearest_airport": "BCN",
-        "airport_name": "Barcelona El Prat"
-      },
-      "notes": "25. Jubilaeumsausgabe. Zusaetzlich 'Primavera a la Ciutat' mit Konzerten in der ganzen Stadt."
+  "id": "primavera-sound-2027",
+  "name": "Primavera Sound Barcelona",
+  "edition_year": 2027,
+  "status": "confirmed",
+  "start_date": "2027-06-02",
+  "end_date": "2027-06-06",
+  "location": {
+    "venue": "Parc del Forum",
+    "city": "Barcelona",
+    "country_code": "ES",
+    "country": "Spanien",
+    "coordinates": {
+      "lat": 41.410667,
+      "lng": 2.226333
     }
+  },
+  "genres": [
+    "indie",
+    "rock",
+    "pop",
+    "electronic",
+    "hip-hop"
+  ],
+  "capacity": 75000,
+  "attendance_last_edition": 293000,
+  "camping": false,
+  "min_age": null,
+  "tickets": {
+    "currency": "EUR",
+    "price_from": null,
+    "price_note": "Early-Bird-Verkauf laeuft bereits, Lineup folgt spaeter",
+    "url": "https://www.primaverasound.com/en/tickets?e=primavera-sound-barcelona-2027-03-05-jun-2027"
+  },
+  "website": "https://www.primaverasound.com",
+  "travel": {
+    "nearest_airport": "BCN",
+    "airport_name": "Barcelona El Prat"
+  },
+  "notes": "25. Jubilaeumsausgabe. Zusaetzlich 'Primavera a la Ciutat' mit Konzerten in der ganzen Stadt.",
+  "schedule": [
+    {
+      "artist": "CHVRCHES",
+      "date": "2027-06-02"
+    },
+    {
+      "artist": "FADES",
+      "date": "2027-06-02"
+    },
+    {
+      "artist": "Mushka",
+      "date": "2027-06-02"
+    },
+    {
+      "artist": "Underworld",
+      "date": "2027-06-02"
+    },
+    {
+      "artist": "Alemeda",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "aLex vs aLex",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Al·lèrgiques al pol·len",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Atlas Sound",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Axolotes Mexicanos",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Bad Gyal",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Blackhaine",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "BLAYA",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Brutalismus 3000 b2b ISOxo",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Carmen Villain live",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Castle Rat",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Dame Area",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Decoder",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "DJ Fra",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "DJ Stingray 313 live",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "ear",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Eden Aurelius",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Fontaines D.C.",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Friko",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Gilla Band",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Greg Freeman",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Guillem Gisbert",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Haute & Freddy",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Headache",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Ibrahim Alfa Jnr",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Jersey",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Joy Orbison",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Juana Molina",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Kim Petras",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Madra Salach",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Massive Attack",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Metrika",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Metronomy",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Mushka",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "NAPA",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Pavement",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Pole 1 2 3 live",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Robyn",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Snow Strippers",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Sophia Stel",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Tatyana Jane",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Tracey",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "trickpony",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "TRISTÁN!",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "TTSSFU",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Turnstile",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "underscores",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Verushka b2b Acidheaven",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Viva Belgrado",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Wallows",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Westside Cowboy",
+      "date": "2027-06-03"
+    },
+    {
+      "artist": "Aeronave Adolescente",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "AKRIILA",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Angine de Poitrine",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "ANOHNI",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "@",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "BICEP live",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Bleachers",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Boy Harsher",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Carlos de Jacoba & Ciutat",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Carré",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Converge",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Don Caballero",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "El Buen Hijo",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "English Teacher",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "FKA twigs",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Full Of Hell",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Have A Nice Life",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Irenegarry",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Isaiah Rashad",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "John Talabot",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "JT",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Julien Baker",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Kelsey Lu",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Klara Lewis",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Lip Critic",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Los Punsetes",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Lux Lisbon",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Mabe Fratti",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "mad miran b2b DJ Zero",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Malibu",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Mark Fell and RP Boo",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Memory Palace",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Mishima",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Naone",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Oceanic live A/V",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "pablopablo",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Perfecto Miserable",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Picture live",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "PISS",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Polygonia live",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Racing Mount Pleasant",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Roly Porter",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "S.A.S.S (Saoirse, Moxie, Peach, Shanti Celeste)",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Sky H1 live",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "The Chemical Brothers",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Tinashe",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Vashti Bunyan",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Weyes Blood",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "ABHIR",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "ADÉLA",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Alcalá Norte",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Andy Stott",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Arca",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "B0YG1RL",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "BAE BAE",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "BASHKKA b2b Mike Servito",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Blanco Palamera",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Bonnie \"Prince\" Billy",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Caroline Polachek",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "dani dicostas",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "DIIV",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Dinosaur Jr.",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "DJ /rupture",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Doechii",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Dove Ellis",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Dulce",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Erin LeCount",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "EsDeeKid",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Gazella",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Hayley Williams",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Hearts2Hearts",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Jesu",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Jump Source live",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "King Gizzard & The Lizard Wizard",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Livwutang b2b Konduku",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Lola Young",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Loradeniz",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Marta Salogni live",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "mori",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "MUNA",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "PLO Man",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Prospa",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Prostitute",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Rebe",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Santiago Motorizado",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Shygirl",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Simian Mobile Disco",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Skrillex b2b Ninajirachi",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Sonido Underground: DNGDNGDNG & Phran",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "DJ Stingray 313 live",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Theodora",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Tirzah",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Twisted Teens",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Victoryland",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Warning",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Dixon",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Four Tet",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Richie Hawtin",
+      "date": "2027-06-06"
+    }
+  ]
+}

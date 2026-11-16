@@ -1671,7 +1671,313 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://www.rock-am-ring.com",
-      "ticketURL": "https://www.rock-am-ring.com"
+      "ticketURL": "https://www.rock-am-ring.com",
+      "schedule": [
+        {
+          "title": "Falling In Reverse",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "blink-182",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Billy Talent",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Beartooth",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Donots",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Pendulum",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Poppy",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Simple Plan",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Trailerpark",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Blue Medusa",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Cage Fight",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Currents",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Ghostemane",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Guilt Trip",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Haywire",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Hot Milk",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Hot Mulligan",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Igorrr",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Killswitch Engage",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Ladrones",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Leap",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Melrose Avenue",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Mittel Alta",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Sleeping With Sirens",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Solence",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "The Prodigy",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Turnstile",
+          "date": "2027-06-05",
+          "genre": "Hardcore Punk"
+        },
+        {
+          "title": "Die Toten Hosen",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Faith No More",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Bad Religion",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Bullet For My Valentine",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "I Prevail",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Nothing But Thieves",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Orbit Culture",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Ski Aggu",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Alexander Marcus",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Betontod",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Clutch",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Erra",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Esther Graf",
+          "date": "2027-06-05",
+          "genre": "Pop Music"
+        },
+        {
+          "title": "From Ashes to New",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Highly Suspect",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Holding Absence",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Senses Fail",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Showing Teeth",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Silverstein",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Skindred",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Slomosa",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "TBS",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "The Pretty Wild",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Villanelle",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Parkway Drive",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Bring Me The Horizon",
+          "date": "2027-06-06",
+          "genre": "Techno"
+        },
+        {
+          "title": "Evanescence",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Amon Amarth",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Arch Enemy",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Imminence",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Lorna Shore",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Motionless In White",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "24/7 Diva Heaven",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "After The Burial",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "As December Falls",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "ASAVA",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Cenobia",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Dayseeker",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Hanabie",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Hawthorne Heights",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Jinjer",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Maple’s Pet Dinosaur",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Novelists",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "SPEED",
+          "date": "2027-06-06",
+          "genre": "J-Pop"
+        },
+        {
+          "title": "The Amity Affliction",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "THE DARK.FM",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "The Devil Wears Prada",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Wage War",
+          "date": "2027-06-06"
+        }
+      ]
     },
     {
       "id": "rock-werchter-2027",
@@ -1683,7 +1989,76 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://www.rockwerchter.be/en",
-      "ticketURL": "https://www.rockwerchter.be/en"
+      "ticketURL": "https://www.rockwerchter.be/en",
+      "schedule": [
+        {
+          "title": "Interpol",
+          "date": "2027-07-01"
+        },
+        {
+          "title": "Massive Attack",
+          "date": "2027-07-01"
+        },
+        {
+          "title": "The Neighbourhood",
+          "date": "2027-07-01"
+        },
+        {
+          "title": "Turnstile",
+          "date": "2027-07-01",
+          "genre": "Hardcore Punk"
+        },
+        {
+          "title": "Amelie Lens pres. AURA",
+          "date": "2027-07-02"
+        },
+        {
+          "title": "Muse",
+          "date": "2027-07-02"
+        },
+        {
+          "title": "Nothing But Thieves",
+          "date": "2027-07-02"
+        },
+        {
+          "title": "Sofia Isella",
+          "date": "2027-07-02"
+        },
+        {
+          "title": "5 Seconds of Summer",
+          "date": "2027-07-03"
+        },
+        {
+          "title": "Sam Fender",
+          "date": "2027-07-03"
+        },
+        {
+          "title": "ADÉLA",
+          "date": "2027-07-04"
+        },
+        {
+          "title": "Angèle",
+          "date": "2027-07-04"
+        },
+        {
+          "title": "Dinosaur Jr.",
+          "date": "2027-07-04"
+        },
+        {
+          "title": "James Blake",
+          "date": "2027-07-04"
+        },
+        {
+          "title": "SOMBR",
+          "date": "2027-07-04",
+          "genre": "Alternative Pop"
+        },
+        {
+          "title": "Tame Impala",
+          "date": "2027-07-04",
+          "genre": "Psychedelic Rock"
+        }
+      ]
     },
     {
       "id": "roskilde-2027",
@@ -3986,17 +4361,44 @@
       "ticketURL": "https://szigetfestival.com/en/tickets"
     },
     {
-      "id": "test-festival",
-      "name": "Test-Festival (Debug)",
+      "id": "test-festival-teaser",
+      "name": "Test-Teaser (Debug)",
       "location": "Teststadt, XX",
       "genre": "Test / Mixed",
-      "startDate": "2027-08-23",
-      "endDate": "2027-08-27",
+      "startDate": "2026-12-16",
+      "endDate": "2026-12-18",
       "color": "#1E293B",
       "accent": "#F43F5E",
       "website": "https://example.com",
       "info": {
-        "openingHours": "Sa–Do, 12:00–06:00",
+        "openingHours": "Alle Tage 12:00–06:00",
+        "emergency": "+49 000 0000000",
+        "faq": "https://example.com/faq",
+        "map": "https://example.com/map",
+        "instagram": "https://instagram.com"
+      },
+      "ticketURL": "https://example.com/tickets",
+      "confirmed": [
+        "Wolf Alice",
+        "Bonobo",
+        "Royal Blood",
+        "Glass Animals",
+        "Peggy Gou",
+        "Tame Impala"
+      ]
+    },
+    {
+      "id": "test-festival",
+      "name": "Test-Festival (Debug)",
+      "location": "Teststadt, XX",
+      "genre": "Test / Mixed",
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-18",
+      "color": "#1E293B",
+      "accent": "#F43F5E",
+      "website": "https://example.com",
+      "info": {
+        "openingHours": "Alle Tage 12:00–06:00",
         "emergency": "+49 000 0000000",
         "faq": "https://example.com/faq",
         "map": "https://example.com/map",
@@ -4006,99 +4408,104 @@
       "schedule": [
         {
           "title": "Wolf Alice",
-          "date": "2026-08-23T18:00:00",
+          "date": "2026-11-15T18:00:00",
           "stage": "Main Stage",
           "genre": "Indie Rock"
         },
         {
           "title": "Bonobo",
-          "date": "2026-08-23T20:00:00",
+          "date": "2026-11-15T20:00:00",
           "stage": "Main Stage",
           "genre": "Electronic"
         },
         {
           "title": "Twenty One Pilots",
-          "date": "2026-08-23T22:00:00",
+          "date": "2026-11-15T22:00:00",
           "stage": "Main Stage",
           "genre": "Alternative"
         },
         {
+          "title": "Four Tet",
+          "date": "2026-11-16T01:30:00",
+          "stage": "Club",
+          "genre": "Electronic"
+        },
+        {
           "title": "Zara Larsson",
-          "date": "2026-08-24T14:00:00",
+          "date": "2026-11-16T14:00:00",
           "stage": "Main Stage",
           "genre": "Pop"
         },
         {
           "title": "Royal Blood",
-          "date": "2026-08-24T18:00:00",
+          "date": "2026-11-16T14:45:00",
           "stage": "Main Stage",
           "genre": "Rock"
         },
         {
+          "title": "Jungle",
+          "date": "2026-11-16T15:00:00",
+          "stage": "Second Stage",
+          "genre": "Funk"
+        },
+        {
           "title": "Glass Animals",
-          "date": "2026-08-24T20:00:00",
+          "date": "2026-11-16T17:10:00",
           "stage": "Main Stage",
           "genre": "Indie"
         },
         {
           "title": "Peggy Gou",
-          "date": "2026-08-24T22:00:00",
+          "date": "2026-11-16T22:00:00",
           "stage": "Main Stage",
           "genre": "House"
         },
         {
           "title": "Skrillex",
-          "date": "2026-08-24T23:00:00",
+          "date": "2026-11-16T23:00:00",
           "stage": "Main Stage",
           "genre": "Dubstep"
         },
         {
           "title": "Fred again..",
-          "date": "2026-08-25T01:00:00",
+          "date": "2026-11-17T01:00:00",
           "stage": "Main Stage",
           "genre": "Electronic"
         },
         {
-          "title": "Jungle",
-          "date": "2026-08-24T19:00:00",
-          "stage": "Second Stage",
-          "genre": "Funk"
-        },
-        {
-          "title": "Fontaines D.C.",
-          "date": "2026-08-24T23:00:00",
-          "stage": "Second Stage",
-          "genre": "Post-Punk"
-        },
-        {
           "title": "Ben Böhmer",
-          "date": "2026-08-25T03:00:00",
+          "date": "2026-11-17T03:00:00",
           "stage": "Second Stage",
           "genre": "Melodic House"
         },
         {
-          "title": "Four Tet",
-          "date": "2026-08-25T00:00:00",
-          "stage": "Club",
-          "genre": "Electronic"
-        },
-        {
           "title": "Florence + the Machine",
-          "date": "2026-08-25T20:00:00",
+          "date": "2026-11-17T20:00:00",
           "stage": "Main Stage",
           "genre": "Art Pop"
         },
         {
           "title": "Arctic Monkeys",
-          "date": "2026-08-25T22:00:00",
+          "date": "2026-11-17T22:00:00",
           "stage": "Main Stage",
           "genre": "Indie Rock"
         },
         {
+          "title": "Fontaines D.C.",
+          "date": "2026-11-17T22:30:00",
+          "stage": "Second Stage",
+          "genre": "Post-Punk"
+        },
+        {
           "title": "Tame Impala",
-          "date": "2026-08-26",
+          "date": "2026-11-18",
           "stage": "Main Stage",
           "genre": "Psychedelic Rock"
+        },
+        {
+          "title": "Jungle",
+          "date": "2026-11-18",
+          "genre": "Funk"
         }
       ]
     },
@@ -4148,7 +4555,21 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://www.wacken.com",
-      "ticketURL": "https://www.wacken.com"
+      "ticketURL": "https://www.wacken.com",
+      "confirmed": [
+        "Electric Callboy",
+        "Five Finger Death Punch",
+        "Helloween",
+        "Kanonenfieber",
+        "Knocked Loose",
+        "Heaven Shall Burn",
+        "Edguy",
+        "Children of Bodom",
+        "DragonForce",
+        "Hammerfall",
+        "Halestorm",
+        "Imminence"
+      ]
     }
   ]
 }

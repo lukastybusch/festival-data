@@ -11,7 +11,14 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://airbeat-one.de/",
-      "ticketURL": "https://airbeat-one.de/"
+      "ticketURL": "https://airbeat-one.de/",
+      "schedule": [
+        {
+          "title": "David Guetta",
+          "date": "2027-07-10",
+          "stage": "Mainstage"
+        }
+      ]
     },
     {
       "id": "awakenings-2027",
@@ -605,7 +612,40 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://www.meraluna.de",
-      "ticketURL": "https://www.meraluna.de"
+      "ticketURL": "https://www.meraluna.de",
+      "confirmed": [
+        "THE HU",
+        "VNV NATION",
+        "THE SISTERS OF MERCY",
+        "FEUERSCHWANZ",
+        "MONO INC.",
+        "SCHANDMAUL",
+        "PETER HEPPNER",
+        "LEBANON HANOVER",
+        "ATARI TEENAGE RIOT",
+        "MOONSPELL",
+        "OOMPH!",
+        "ZEROMANCER",
+        "SUICIDE COMMANDO",
+        "DIARY OF DREAMS",
+        "ANJA HUWE - XMAL DEUTSCHLAND",
+        "[:SITD:]",
+        "ASSEMBLAGE 23",
+        "GOTHMINISTER",
+        "VELJANOV",
+        "ASHBURY HEIGHTS",
+        "FROZEN PLASMA",
+        "ALIENARE",
+        "TANZWUT",
+        "A.A. WILLIAMS",
+        "JULIEN-K",
+        "CORPUS DELICTI",
+        "EXTIZE",
+        "HELL BOULEVARD",
+        "DIE KAMMER",
+        "DIVINE SHADE",
+        "MARI KATTMAN"
+      ]
     },
     {
       "id": "nos-alive-2027",
@@ -617,7 +657,97 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://nosalive.com",
-      "ticketURL": "https://nosalive.com"
+      "ticketURL": "https://nosalive.com",
+      "schedule": [
+        {
+          "title": "The Strokes",
+          "date": "2027-07-08",
+          "stage": "NOS Stage"
+        },
+        {
+          "title": "Jungle",
+          "date": "2027-07-08",
+          "stage": "NOS Stage"
+        },
+        {
+          "title": "The Neighbourhood",
+          "date": "2027-07-08",
+          "stage": "NOS Stage"
+        },
+        {
+          "title": "Beirut",
+          "date": "2027-07-08",
+          "stage": "NOS Stage"
+        },
+        {
+          "title": "Tom Misch",
+          "date": "2027-07-08",
+          "stage": "Heineken Stage"
+        },
+        {
+          "title": "Noga Erez",
+          "date": "2027-07-08",
+          "stage": "Heineken Stage",
+          "genre": "Hip-Hop"
+        },
+        {
+          "title": "The xx",
+          "date": "2027-07-09",
+          "stage": "NOS Stage"
+        },
+        {
+          "title": "Faith No More",
+          "date": "2027-07-09",
+          "stage": "NOS Stage"
+        },
+        {
+          "title": "5 Seconds Of Summer",
+          "date": "2027-07-09",
+          "stage": "Heineken Stage"
+        },
+        {
+          "title": "Balu Brigada",
+          "date": "2027-07-09",
+          "stage": "Heineken Stage"
+        },
+        {
+          "title": "Violet Grohl",
+          "date": "2027-07-09",
+          "stage": "Heineken Stage"
+        },
+        {
+          "title": "Tame Impala",
+          "date": "2027-07-10",
+          "stage": "NOS Stage",
+          "genre": "Psychedelic Rock"
+        },
+        {
+          "title": "sombr",
+          "date": "2027-07-10",
+          "stage": "NOS Stage",
+          "genre": "Alternative Pop"
+        },
+        {
+          "title": "Myles Smith",
+          "date": "2027-07-10",
+          "stage": "NOS Stage"
+        },
+        {
+          "title": "James Blake",
+          "date": "2027-07-10",
+          "stage": "Heineken Stage"
+        },
+        {
+          "title": "Sofia Isella",
+          "date": "2027-07-10",
+          "stage": "Heineken Stage"
+        },
+        {
+          "title": "Pond",
+          "date": "2027-07-10",
+          "stage": "Heineken Stage"
+        }
+      ]
     },
     {
       "id": "pangea-2027",
@@ -629,7 +759,20 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://www.aboutyoupangea-festival.de/",
-      "ticketURL": "https://www.aboutyoupangea-festival.de/"
+      "ticketURL": "https://www.aboutyoupangea-festival.de/",
+      "confirmed": [
+        "AnnenMayKantereit",
+        "Provinz",
+        "Apsilon",
+        "Buntspecht",
+        "JAZZY",
+        "OSWALD",
+        "Symba",
+        "beslik",
+        "CARLI",
+        "dani lia",
+        "yola"
+      ]
     },
     {
       "id": "primavera-sound-2027",

@@ -1,41 +1,128 @@
-    {
-      "id": "nos-alive-2027",
-      "name": "NOS Alive",
-      "edition_year": 2027,
-      "status": "expected",
-      "start_date": "2027-07-08",
-      "end_date": "2027-07-10",
-      "duration_days": 3,
-      "location": {
-        "venue": "Passeio Maritimo de Alges",
-        "city": "Lissabon",
-        "country_code": "PT",
-        "country": "Portugal",
-        "coordinates": {
-          "lat": null,
-          "lng": null
-        }
-      },
-      "genres": [
-        "rock",
-        "alternative",
-        "electronic",
-        "indie"
-      ],
-      "capacity": null,
-      "attendance_last_edition": null,
-      "camping": true,
-      "min_age": null,
-      "tickets": {
-        "currency": "EUR",
-        "price_from": null,
-        "price_note": null,
-        "url": "https://nosalive.com"
-      },
-      "website": "https://nosalive.com",
-      "travel": {
-        "nearest_airport": "LIS",
-        "airport_name": "Lissabon Humberto Delgado"
-      },
-      "notes": "Stadtnahes Festival direkt am Tejo, gute Kombination mit Staedtetrip."
+{
+  "id": "nos-alive-2027",
+  "name": "NOS Alive",
+  "edition_year": 2027,
+  "status": "expected",
+  "start_date": "2027-07-08",
+  "end_date": "2027-07-10",
+  "duration_days": 3,
+  "location": {
+    "venue": "Passeio Maritimo de Alges",
+    "city": "Lissabon",
+    "country_code": "PT",
+    "country": "Portugal",
+    "coordinates": {
+      "lat": null,
+      "lng": null
     }
+  },
+  "genres": [
+    "rock",
+    "alternative",
+    "electronic",
+    "indie"
+  ],
+  "capacity": null,
+  "attendance_last_edition": null,
+  "camping": true,
+  "min_age": null,
+  "tickets": {
+    "currency": "EUR",
+    "price_from": null,
+    "price_note": null,
+    "url": "https://nosalive.com"
+  },
+  "website": "https://nosalive.com",
+  "travel": {
+    "nearest_airport": "LIS",
+    "airport_name": "Lissabon Humberto Delgado"
+  },
+  "notes": "Stadtnahes Festival direkt am Tejo, gute Kombination mit Staedtetrip.",
+  "schedule": [
+    {
+      "artist": "The Strokes",
+      "date": "2027-07-08",
+      "stage": "NOS Stage"
+    },
+    {
+      "artist": "Jungle",
+      "date": "2027-07-08",
+      "stage": "NOS Stage"
+    },
+    {
+      "artist": "The Neighbourhood",
+      "date": "2027-07-08",
+      "stage": "NOS Stage"
+    },
+    {
+      "artist": "Beirut",
+      "date": "2027-07-08",
+      "stage": "NOS Stage"
+    },
+    {
+      "artist": "Tom Misch",
+      "date": "2027-07-08",
+      "stage": "Heineken Stage"
+    },
+    {
+      "artist": "Noga Erez",
+      "date": "2027-07-08",
+      "stage": "Heineken Stage"
+    },
+    {
+      "artist": "The xx",
+      "date": "2027-07-09",
+      "stage": "NOS Stage"
+    },
+    {
+      "artist": "Faith No More",
+      "date": "2027-07-09",
+      "stage": "NOS Stage"
+    },
+    {
+      "artist": "5 Seconds Of Summer",
+      "date": "2027-07-09",
+      "stage": "Heineken Stage"
+    },
+    {
+      "artist": "Balu Brigada",
+      "date": "2027-07-09",
+      "stage": "Heineken Stage"
+    },
+    {
+      "artist": "Violet Grohl",
+      "date": "2027-07-09",
+      "stage": "Heineken Stage"
+    },
+    {
+      "artist": "Tame Impala",
+      "date": "2027-07-10",
+      "stage": "NOS Stage"
+    },
+    {
+      "artist": "sombr",
+      "date": "2027-07-10",
+      "stage": "NOS Stage"
+    },
+    {
+      "artist": "Myles Smith",
+      "date": "2027-07-10",
+      "stage": "NOS Stage"
+    },
+    {
+      "artist": "James Blake",
+      "date": "2027-07-10",
+      "stage": "Heineken Stage"
+    },
+    {
+      "artist": "Sofia Isella",
+      "date": "2027-07-10",
+      "stage": "Heineken Stage"
+    },
+    {
+      "artist": "Pond",
+      "date": "2027-07-10",
+      "stage": "Heineken Stage"
+    }
+  ]
+}

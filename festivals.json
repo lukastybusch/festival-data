@@ -11,7 +11,14 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://airbeat-one.de/",
-      "ticketURL": "https://airbeat-one.de/"
+      "ticketURL": "https://airbeat-one.de/",
+      "schedule": [
+        {
+          "title": "David Guetta",
+          "date": "2027-07-10",
+          "stage": "Mainstage"
+        }
+      ]
     },
     {
       "id": "awakenings-2027",
@@ -605,7 +612,40 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://www.meraluna.de",
-      "ticketURL": "https://www.meraluna.de"
+      "ticketURL": "https://www.meraluna.de",
+      "confirmed": [
+        "THE HU",
+        "VNV NATION",
+        "THE SISTERS OF MERCY",
+        "FEUERSCHWANZ",
+        "MONO INC.",
+        "SCHANDMAUL",
+        "PETER HEPPNER",
+        "LEBANON HANOVER",
+        "ATARI TEENAGE RIOT",
+        "MOONSPELL",
+        "OOMPH!",
+        "ZEROMANCER",
+        "SUICIDE COMMANDO",
+        "DIARY OF DREAMS",
+        "ANJA HUWE - XMAL DEUTSCHLAND",
+        "[:SITD:]",
+        "ASSEMBLAGE 23",
+        "GOTHMINISTER",
+        "VELJANOV",
+        "ASHBURY HEIGHTS",
+        "FROZEN PLASMA",
+        "ALIENARE",
+        "TANZWUT",
+        "A.A. WILLIAMS",
+        "JULIEN-K",
+        "CORPUS DELICTI",
+        "EXTIZE",
+        "HELL BOULEVARD",
+        "DIE KAMMER",
+        "DIVINE SHADE",
+        "MARI KATTMAN"
+      ]
     },
     {
       "id": "nos-alive-2027",
@@ -617,7 +657,97 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://nosalive.com",
-      "ticketURL": "https://nosalive.com"
+      "ticketURL": "https://nosalive.com",
+      "schedule": [
+        {
+          "title": "The Strokes",
+          "date": "2027-07-08",
+          "stage": "NOS Stage"
+        },
+        {
+          "title": "Jungle",
+          "date": "2027-07-08",
+          "stage": "NOS Stage"
+        },
+        {
+          "title": "The Neighbourhood",
+          "date": "2027-07-08",
+          "stage": "NOS Stage"
+        },
+        {
+          "title": "Beirut",
+          "date": "2027-07-08",
+          "stage": "NOS Stage"
+        },
+        {
+          "title": "Tom Misch",
+          "date": "2027-07-08",
+          "stage": "Heineken Stage"
+        },
+        {
+          "title": "Noga Erez",
+          "date": "2027-07-08",
+          "stage": "Heineken Stage",
+          "genre": "Hip-Hop"
+        },
+        {
+          "title": "The xx",
+          "date": "2027-07-09",
+          "stage": "NOS Stage"
+        },
+        {
+          "title": "Faith No More",
+          "date": "2027-07-09",
+          "stage": "NOS Stage"
+        },
+        {
+          "title": "5 Seconds Of Summer",
+          "date": "2027-07-09",
+          "stage": "Heineken Stage"
+        },
+        {
+          "title": "Balu Brigada",
+          "date": "2027-07-09",
+          "stage": "Heineken Stage"
+        },
+        {
+          "title": "Violet Grohl",
+          "date": "2027-07-09",
+          "stage": "Heineken Stage"
+        },
+        {
+          "title": "Tame Impala",
+          "date": "2027-07-10",
+          "stage": "NOS Stage",
+          "genre": "Psychedelic Rock"
+        },
+        {
+          "title": "sombr",
+          "date": "2027-07-10",
+          "stage": "NOS Stage",
+          "genre": "Alternative Pop"
+        },
+        {
+          "title": "Myles Smith",
+          "date": "2027-07-10",
+          "stage": "NOS Stage"
+        },
+        {
+          "title": "James Blake",
+          "date": "2027-07-10",
+          "stage": "Heineken Stage"
+        },
+        {
+          "title": "Sofia Isella",
+          "date": "2027-07-10",
+          "stage": "Heineken Stage"
+        },
+        {
+          "title": "Pond",
+          "date": "2027-07-10",
+          "stage": "Heineken Stage"
+        }
+      ]
     },
     {
       "id": "pangea-2027",
@@ -629,7 +759,20 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://www.aboutyoupangea-festival.de/",
-      "ticketURL": "https://www.aboutyoupangea-festival.de/"
+      "ticketURL": "https://www.aboutyoupangea-festival.de/",
+      "confirmed": [
+        "AnnenMayKantereit",
+        "Provinz",
+        "Apsilon",
+        "Buntspecht",
+        "JAZZY",
+        "OSWALD",
+        "Symba",
+        "beslik",
+        "CARLI",
+        "dani lia",
+        "yola"
+      ]
     },
     {
       "id": "primavera-sound-2027",
@@ -641,7 +784,632 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://www.primaverasound.com",
-      "ticketURL": "https://www.primaverasound.com/en/tickets?e=primavera-sound-barcelona-2027-03-05-jun-2027"
+      "ticketURL": "https://www.primaverasound.com/en/tickets?e=primavera-sound-barcelona-2027-03-05-jun-2027",
+      "schedule": [
+        {
+          "title": "CHVRCHES",
+          "date": "2027-06-02"
+        },
+        {
+          "title": "FADES",
+          "date": "2027-06-02"
+        },
+        {
+          "title": "Mushka",
+          "date": "2027-06-02"
+        },
+        {
+          "title": "Underworld",
+          "date": "2027-06-02",
+          "genre": "Synth-Pop"
+        },
+        {
+          "title": "Alemeda",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "aLex vs aLex",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Al·lèrgiques al pol·len",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Atlas Sound",
+          "date": "2027-06-03",
+          "genre": "Alternative Rock"
+        },
+        {
+          "title": "Axolotes Mexicanos",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Bad Gyal",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Blackhaine",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "BLAYA",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Brutalismus 3000 b2b ISOxo",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Carmen Villain live",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Castle Rat",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Dame Area",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Decoder",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "DJ Fra",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "DJ Stingray 313 live",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "ear",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Eden Aurelius",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Fontaines D.C.",
+          "date": "2027-06-03",
+          "genre": "Post-Punk"
+        },
+        {
+          "title": "Friko",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Gilla Band",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Greg Freeman",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Guillem Gisbert",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Haute & Freddy",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Headache",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Ibrahim Alfa Jnr",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Jersey",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Joy Orbison",
+          "date": "2027-06-03",
+          "genre": "Dubstep"
+        },
+        {
+          "title": "Juana Molina",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Kim Petras",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Madra Salach",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Massive Attack",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Metrika",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Metronomy",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Mushka",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "NAPA",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Pavement",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Pole 1 2 3 live",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Robyn",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Snow Strippers",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Sophia Stel",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Tatyana Jane",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Tracey",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "trickpony",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "TRISTÁN!",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "TTSSFU",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Turnstile",
+          "date": "2027-06-03",
+          "genre": "Hardcore Punk"
+        },
+        {
+          "title": "underscores",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Verushka b2b Acidheaven",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Viva Belgrado",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Wallows",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Westside Cowboy",
+          "date": "2027-06-03"
+        },
+        {
+          "title": "Aeronave Adolescente",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "AKRIILA",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Angine de Poitrine",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "ANOHNI",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "@",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "BICEP live",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Bleachers",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Boy Harsher",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Carlos de Jacoba & Ciutat",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Carré",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Converge",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Don Caballero",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "El Buen Hijo",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "English Teacher",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "FKA twigs",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Full Of Hell",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Have A Nice Life",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Irenegarry",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Isaiah Rashad",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "John Talabot",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "JT",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Julien Baker",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Kelsey Lu",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Klara Lewis",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Lip Critic",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Los Punsetes",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Lux Lisbon",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Mabe Fratti",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "mad miran b2b DJ Zero",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Malibu",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Mark Fell and RP Boo",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Memory Palace",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Mishima",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Naone",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Oceanic live A/V",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "pablopablo",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Perfecto Miserable",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Phoebe Bridgers",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Picture live",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "PISS",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Polygonia live",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Racing Mount Pleasant",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Roly Porter",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "S.A.S.S (Saoirse, Moxie, Peach, Shanti Celeste)",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Sky H1 live",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "The Chemical Brothers",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Tinashe",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Vashti Bunyan",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Weyes Blood",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "ABHIR",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "ADÉLA",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Alcalá Norte",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Andy Stott",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Arca",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "B0YG1RL",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "BAE BAE",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "BASHKKA b2b Mike Servito",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Blanco Palamera",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Bonnie \"Prince\" Billy",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Caroline Polachek",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "dani dicostas",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "DIIV",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Dinosaur Jr.",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "DJ /rupture",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Doechii",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Dove Ellis",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Dulce",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Erin LeCount",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "EsDeeKid",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Gazella",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Hayley Williams",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Hearts2Hearts",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Jesu",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Jump Source live",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "King Gizzard & The Lizard Wizard",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Livwutang b2b Konduku",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Lola Young",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Loradeniz",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Marta Salogni live",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "mori",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "MUNA",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "PLO Man",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Prospa",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Prostitute",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Rebe",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Santiago Motorizado",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Shygirl",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Simian Mobile Disco",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Skrillex b2b Ninajirachi",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Sonido Underground: DNGDNGDNG & Phran",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "DJ Stingray 313 live",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Theodora",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Tirzah",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Twisted Teens",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Victoryland",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Warning",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Dixon",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Four Tet",
+          "date": "2027-06-06",
+          "genre": "Electronica"
+        },
+        {
+          "title": "Richie Hawtin",
+          "date": "2027-06-06",
+          "genre": "Minimal Techno"
+        }
+      ]
     },
     {
       "id": "pukkelpop-2026",
@@ -1671,7 +2439,313 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://www.rock-am-ring.com",
-      "ticketURL": "https://www.rock-am-ring.com"
+      "ticketURL": "https://www.rock-am-ring.com",
+      "schedule": [
+        {
+          "title": "Falling In Reverse",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "blink-182",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Billy Talent",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Beartooth",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Donots",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Pendulum",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Poppy",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Simple Plan",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Trailerpark",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Blue Medusa",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Cage Fight",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Currents",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Ghostemane",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Guilt Trip",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Haywire",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Hot Milk",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Hot Mulligan",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Igorrr",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Killswitch Engage",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Ladrones",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Leap",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Melrose Avenue",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Mittel Alta",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Sleeping With Sirens",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Solence",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "The Prodigy",
+          "date": "2027-06-04"
+        },
+        {
+          "title": "Turnstile",
+          "date": "2027-06-05",
+          "genre": "Hardcore Punk"
+        },
+        {
+          "title": "Die Toten Hosen",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Faith No More",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Bad Religion",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Bullet For My Valentine",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "I Prevail",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Nothing But Thieves",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Orbit Culture",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Ski Aggu",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Alexander Marcus",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Betontod",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Clutch",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Erra",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Esther Graf",
+          "date": "2027-06-05",
+          "genre": "Pop Music"
+        },
+        {
+          "title": "From Ashes to New",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Highly Suspect",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Holding Absence",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Senses Fail",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Showing Teeth",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Silverstein",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Skindred",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Slomosa",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "TBS",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "The Pretty Wild",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Villanelle",
+          "date": "2027-06-05"
+        },
+        {
+          "title": "Parkway Drive",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Bring Me The Horizon",
+          "date": "2027-06-06",
+          "genre": "Techno"
+        },
+        {
+          "title": "Evanescence",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Amon Amarth",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Arch Enemy",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Imminence",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Lorna Shore",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Motionless In White",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "24/7 Diva Heaven",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "After The Burial",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "As December Falls",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "ASAVA",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Cenobia",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Dayseeker",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Hanabie",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Hawthorne Heights",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Jinjer",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Maple’s Pet Dinosaur",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Novelists",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "SPEED",
+          "date": "2027-06-06",
+          "genre": "J-Pop"
+        },
+        {
+          "title": "The Amity Affliction",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "THE DARK.FM",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "The Devil Wears Prada",
+          "date": "2027-06-06"
+        },
+        {
+          "title": "Wage War",
+          "date": "2027-06-06"
+        }
+      ]
     },
     {
       "id": "rock-werchter-2027",
@@ -1683,7 +2757,76 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://www.rockwerchter.be/en",
-      "ticketURL": "https://www.rockwerchter.be/en"
+      "ticketURL": "https://www.rockwerchter.be/en",
+      "schedule": [
+        {
+          "title": "Interpol",
+          "date": "2027-07-01"
+        },
+        {
+          "title": "Massive Attack",
+          "date": "2027-07-01"
+        },
+        {
+          "title": "The Neighbourhood",
+          "date": "2027-07-01"
+        },
+        {
+          "title": "Turnstile",
+          "date": "2027-07-01",
+          "genre": "Hardcore Punk"
+        },
+        {
+          "title": "Amelie Lens pres. AURA",
+          "date": "2027-07-02"
+        },
+        {
+          "title": "Muse",
+          "date": "2027-07-02"
+        },
+        {
+          "title": "Nothing But Thieves",
+          "date": "2027-07-02"
+        },
+        {
+          "title": "Sofia Isella",
+          "date": "2027-07-02"
+        },
+        {
+          "title": "5 Seconds of Summer",
+          "date": "2027-07-03"
+        },
+        {
+          "title": "Sam Fender",
+          "date": "2027-07-03"
+        },
+        {
+          "title": "ADÉLA",
+          "date": "2027-07-04"
+        },
+        {
+          "title": "Angèle",
+          "date": "2027-07-04"
+        },
+        {
+          "title": "Dinosaur Jr.",
+          "date": "2027-07-04"
+        },
+        {
+          "title": "James Blake",
+          "date": "2027-07-04"
+        },
+        {
+          "title": "SOMBR",
+          "date": "2027-07-04",
+          "genre": "Alternative Pop"
+        },
+        {
+          "title": "Tame Impala",
+          "date": "2027-07-04",
+          "genre": "Psychedelic Rock"
+        }
+      ]
     },
     {
       "id": "roskilde-2027",
@@ -3983,20 +5126,58 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://szigetfestival.com",
-      "ticketURL": "https://szigetfestival.com/en/tickets"
+      "ticketURL": "https://szigetfestival.com/en/tickets",
+      "schedule": [
+        {
+          "title": "KATSEYE",
+          "date": "2027-08-11"
+        },
+        {
+          "title": "Fontaines D.C.",
+          "date": "2027-08-14",
+          "genre": "Post-Punk"
+        }
+      ]
+    },
+    {
+      "id": "test-festival-teaser",
+      "name": "Test-Teaser (Debug)",
+      "location": "Teststadt, XX",
+      "genre": "Test / Mixed",
+      "startDate": "2026-12-16",
+      "endDate": "2026-12-18",
+      "color": "#1E293B",
+      "accent": "#F43F5E",
+      "website": "https://example.com",
+      "info": {
+        "openingHours": "Alle Tage 12:00–06:00",
+        "emergency": "+49 000 0000000",
+        "faq": "https://example.com/faq",
+        "map": "https://example.com/map",
+        "instagram": "https://instagram.com"
+      },
+      "ticketURL": "https://example.com/tickets",
+      "confirmed": [
+        "Wolf Alice",
+        "Bonobo",
+        "Royal Blood",
+        "Glass Animals",
+        "Peggy Gou",
+        "Tame Impala"
+      ]
     },
     {
       "id": "test-festival",
       "name": "Test-Festival (Debug)",
       "location": "Teststadt, XX",
       "genre": "Test / Mixed",
-      "startDate": "2027-08-23",
-      "endDate": "2027-08-27",
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-18",
       "color": "#1E293B",
       "accent": "#F43F5E",
       "website": "https://example.com",
       "info": {
-        "openingHours": "Sa–Do, 12:00–06:00",
+        "openingHours": "Alle Tage 12:00–06:00",
         "emergency": "+49 000 0000000",
         "faq": "https://example.com/faq",
         "map": "https://example.com/map",
@@ -4006,99 +5187,104 @@
       "schedule": [
         {
           "title": "Wolf Alice",
-          "date": "2026-08-23T18:00:00",
+          "date": "2026-11-15T18:00:00",
           "stage": "Main Stage",
           "genre": "Indie Rock"
         },
         {
           "title": "Bonobo",
-          "date": "2026-08-23T20:00:00",
+          "date": "2026-11-15T20:00:00",
           "stage": "Main Stage",
           "genre": "Electronic"
         },
         {
           "title": "Twenty One Pilots",
-          "date": "2026-08-23T22:00:00",
+          "date": "2026-11-15T22:00:00",
           "stage": "Main Stage",
           "genre": "Alternative"
         },
         {
+          "title": "Four Tet",
+          "date": "2026-11-16T01:30:00",
+          "stage": "Club",
+          "genre": "Electronic"
+        },
+        {
           "title": "Zara Larsson",
-          "date": "2026-08-24T14:00:00",
+          "date": "2026-11-16T14:00:00",
           "stage": "Main Stage",
           "genre": "Pop"
         },
         {
           "title": "Royal Blood",
-          "date": "2026-08-24T18:00:00",
+          "date": "2026-11-16T14:45:00",
           "stage": "Main Stage",
           "genre": "Rock"
         },
         {
+          "title": "Jungle",
+          "date": "2026-11-16T15:00:00",
+          "stage": "Second Stage",
+          "genre": "Funk"
+        },
+        {
           "title": "Glass Animals",
-          "date": "2026-08-24T20:00:00",
+          "date": "2026-11-16T17:10:00",
           "stage": "Main Stage",
           "genre": "Indie"
         },
         {
           "title": "Peggy Gou",
-          "date": "2026-08-24T22:00:00",
+          "date": "2026-11-16T22:00:00",
           "stage": "Main Stage",
           "genre": "House"
         },
         {
           "title": "Skrillex",
-          "date": "2026-08-24T23:00:00",
+          "date": "2026-11-16T23:00:00",
           "stage": "Main Stage",
           "genre": "Dubstep"
         },
         {
           "title": "Fred again..",
-          "date": "2026-08-25T01:00:00",
+          "date": "2026-11-17T01:00:00",
           "stage": "Main Stage",
           "genre": "Electronic"
         },
         {
-          "title": "Jungle",
-          "date": "2026-08-24T19:00:00",
-          "stage": "Second Stage",
-          "genre": "Funk"
-        },
-        {
-          "title": "Fontaines D.C.",
-          "date": "2026-08-24T23:00:00",
-          "stage": "Second Stage",
-          "genre": "Post-Punk"
-        },
-        {
           "title": "Ben Böhmer",
-          "date": "2026-08-25T03:00:00",
+          "date": "2026-11-17T03:00:00",
           "stage": "Second Stage",
           "genre": "Melodic House"
         },
         {
-          "title": "Four Tet",
-          "date": "2026-08-25T00:00:00",
-          "stage": "Club",
-          "genre": "Electronic"
-        },
-        {
           "title": "Florence + the Machine",
-          "date": "2026-08-25T20:00:00",
+          "date": "2026-11-17T20:00:00",
           "stage": "Main Stage",
           "genre": "Art Pop"
         },
         {
           "title": "Arctic Monkeys",
-          "date": "2026-08-25T22:00:00",
+          "date": "2026-11-17T22:00:00",
           "stage": "Main Stage",
           "genre": "Indie Rock"
         },
         {
+          "title": "Fontaines D.C.",
+          "date": "2026-11-17T22:30:00",
+          "stage": "Second Stage",
+          "genre": "Post-Punk"
+        },
+        {
           "title": "Tame Impala",
-          "date": "2026-08-26",
+          "date": "2026-11-18",
           "stage": "Main Stage",
           "genre": "Psychedelic Rock"
+        },
+        {
+          "title": "Jungle",
+          "date": "2026-11-18",
+          "genre": "Funk"
         }
       ]
     },
@@ -4136,7 +5322,14 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://untold.com",
-      "ticketURL": "https://untold.com"
+      "ticketURL": "https://untold.com",
+      "confirmed": [
+        "DJ Snake",
+        "Timmy Trumpet",
+        "Boris Brejcha",
+        "Holy Priest",
+        "Yousuke Yukimatsu"
+      ]
     },
     {
       "id": "wacken-open-air-2027",
@@ -4148,7 +5341,59 @@
       "color": "#111827",
       "accent": "#7C3AED",
       "website": "https://www.wacken.com",
-      "ticketURL": "https://www.wacken.com"
+      "ticketURL": "https://www.wacken.com",
+      "confirmed": [
+        "Avatar",
+        "Beast In Black",
+        "Belphegor",
+        "Between Two Worlds",
+        "Blue Medusa",
+        "Carnifex",
+        "Cavalera Conspiracy",
+        "Children Of Bodom",
+        "Creeper",
+        "Crypta",
+        "Dark Tranquility",
+        "Dethklok",
+        "DragonForce",
+        "Edguy",
+        "Electric Callboy",
+        "Feuerschwanz",
+        "Five Finger Death Punch",
+        "Gaerea",
+        "Halestorm",
+        "Hammerfall",
+        "Heaven Shall Burn",
+        "Heavens Gate",
+        "Helloween",
+        "Hiraes",
+        "Imminence",
+        "Jinjer",
+        "John 5 And The Creatures featuring Wednesday 13",
+        "John Bush",
+        "Kanonenfieber",
+        "Knocked Loose",
+        "Make Them Suffer",
+        "Malevolence",
+        "Metal Church",
+        "Mittel Alta",
+        "Napalm Death",
+        "Norther",
+        "Overkill",
+        "Primordial",
+        "Seven Blood",
+        "Shadow Of Intent",
+        "Sylosis",
+        "Tailgunner",
+        "The Browning",
+        "The Narrator",
+        "The New Roses",
+        "Towards The Sinister",
+        "Tyketto",
+        "U.D.O.",
+        "Victorius",
+        "Witch Club Satan"
+      ]
     }
   ]
 }

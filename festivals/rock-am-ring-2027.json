@@ -1,41 +1,343 @@
-    {
-      "id": "rock-am-ring-2027",
-      "name": "Rock am Ring",
-      "edition_year": 2027,
-      "status": "expected",
-      "start_date": "2027-06-04",
-      "end_date": "2027-06-06",
-      "duration_days": 3,
-      "location": {
-        "venue": "Nuerburgring",
-        "city": "Nuerburg",
-        "country_code": "DE",
-        "country": "Deutschland",
-        "coordinates": {
-          "lat": null,
-          "lng": null
-        }
-      },
-      "genres": [
-        "rock",
-        "metal",
-        "punk",
-        "alternative"
-      ],
-      "capacity": null,
-      "attendance_last_edition": null,
-      "camping": true,
-      "min_age": null,
-      "tickets": {
-        "currency": "EUR",
-        "price_from": null,
-        "price_note": null,
-        "url": "https://www.rock-am-ring.com"
-      },
-      "website": "https://www.rock-am-ring.com",
-      "travel": {
-        "nearest_airport": "CGN",
-        "airport_name": "Koeln/Bonn"
-      },
-      "notes": "Schwesterfestival Rock im Park in Nuernberg am selben Wochenende, gleiches Lineup."
+{
+  "id": "rock-am-ring-2027",
+  "name": "Rock am Ring",
+  "edition_year": 2027,
+  "status": "expected",
+  "start_date": "2027-06-04",
+  "end_date": "2027-06-06",
+  "duration_days": 3,
+  "location": {
+    "venue": "Nuerburgring",
+    "city": "Nuerburg",
+    "country_code": "DE",
+    "country": "Deutschland",
+    "coordinates": {
+      "lat": null,
+      "lng": null
     }
+  },
+  "genres": [
+    "rock",
+    "metal",
+    "punk",
+    "alternative"
+  ],
+  "capacity": null,
+  "attendance_last_edition": null,
+  "camping": true,
+  "min_age": null,
+  "tickets": {
+    "currency": "EUR",
+    "price_from": null,
+    "price_note": null,
+    "url": "https://www.rock-am-ring.com"
+  },
+  "website": "https://www.rock-am-ring.com",
+  "travel": {
+    "nearest_airport": "CGN",
+    "airport_name": "Koeln/Bonn"
+  },
+  "notes": "Schwesterfestival Rock im Park in Nuernberg am selben Wochenende, gleiches Lineup.",
+  "schedule": [
+    {
+      "artist": "Falling In Reverse",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "blink-182",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Billy Talent",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Beartooth",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Donots",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Pendulum",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Poppy",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Simple Plan",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Trailerpark",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Blue Medusa",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Cage Fight",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Currents",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Ghostemane",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Guilt Trip",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Haywire",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Hot Milk",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Hot Mulligan",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Igorrr",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Killswitch Engage",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Ladrones",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Leap",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Melrose Avenue",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Mittel Alta",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Sleeping With Sirens",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Solence",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "The Prodigy",
+      "date": "2027-06-04"
+    },
+    {
+      "artist": "Turnstile",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Die Toten Hosen",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Faith No More",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Bad Religion",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Bullet For My Valentine",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "I Prevail",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Nothing But Thieves",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Orbit Culture",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Ski Aggu",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Alexander Marcus",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Betontod",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Clutch",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Erra",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Esther Graf",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "From Ashes to New",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Highly Suspect",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Holding Absence",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Senses Fail",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Showing Teeth",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Silverstein",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Skindred",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Slomosa",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "TBS",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "The Pretty Wild",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Villanelle",
+      "date": "2027-06-05"
+    },
+    {
+      "artist": "Parkway Drive",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Bring Me The Horizon",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Evanescence",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Amon Amarth",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Arch Enemy",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Imminence",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Lorna Shore",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Motionless In White",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "24/7 Diva Heaven",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "After The Burial",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "As December Falls",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "ASAVA",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Cenobia",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Dayseeker",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Hanabie",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Hawthorne Heights",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Jinjer",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Maple’s Pet Dinosaur",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Novelists",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "SPEED",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "The Amity Affliction",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "THE DARK.FM",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "The Devil Wears Prada",
+      "date": "2027-06-06"
+    },
+    {
+      "artist": "Wage War",
+      "date": "2027-06-06"
+    }
+  ]
+}
